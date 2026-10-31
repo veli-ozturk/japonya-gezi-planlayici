@@ -1,0 +1,469 @@
+{
+  "reminders": [
+    {
+      "id": "tokyo-otel",
+      "date": "2037-10-28",
+      "title": "Tokyo otelini ayırt",
+      "detail": "Ayırtıldı: Örnek Otel Ueno (17–24 Kasım)."
+    },
+    {
+      "id": "apa-mesaj",
+      "date": "2037-11-02",
+      "title": "APA'ya Booking'den mesaj: kargo ve giriş",
+      "detail": "Takkyubin valizini girişten (17 Kasım) önce teslim alır mı; 22–24 Kasım Haneda'ya Airport TA-Q-BIN gönderilebilir mi; giriş 15.00–00.00, çıkış 10.00.",
+      "link": "valiz.html#takkyubin"
+    },
+    {
+      "id": "osaka-otel-form",
+      "date": "2037-11-02",
+      "title": "Örnek Otel misafir bilgi formunu doldur (ikiniz için)",
+      "detail": "Örnek Otel'in 6 Ekim e-postasındaki form (Gmail: 'Please fill out the guests information'). İkinizin uyruk + pasaport no + pasaport fotoğraf sayfası. Son gün 6 Kasım (girişten 3 gün önce); sonra tablet giriş kodu gelir.",
+      "link": "pratik.html"
+    },
+    {
+      "id": "esim",
+      "date": "2037-11-03",
+      "title": "eSIM al ve kur",
+      "detail": "Ali: MobiMatter TSimTech Çin-Kore-Japonya 25 GB alındı ve kuruldu (31 Ekim), hat kapalı. Ayşe'a da aynısı (ödemede 'İndirim 3%'). 9 Kasım Guangzhou'da: eSIM hattını aç, mobil veri onda, veri dolaşımı açık, Türk hattının verisi kapalı.",
+      "link": "yolculuk.html#cin"
+    },
+    {
+      "id": "kartlar",
+      "date": "2037-11-03",
+      "title": "Kart hazırlığı",
+      "detail": "VakıfBank Kartla Kazan kampanyasına katıl; üç kartta yurt dışı kullanım ve limit kontrolü.",
+      "link": "para.html#kartlar"
+    },
+    {
+      "id": "vjw",
+      "date": "2037-11-04",
+      "title": "Visit Japan Web kaydı",
+      "detail": "İkiniz için ayrı; QR kodlarının ekran görüntüsünü al.",
+      "link": "bilgiler.html#bilet"
+    },
+    {
+      "id": "teamlab",
+      "date": "2037-11-05",
+      "title": "teamLab biletleri",
+      "detail": "Botanical Garden Osaka (15 Kasım) ve Borderless/Planets'ten biri; yalnız resmî site.",
+      "link": "oneriler.html#ozel"
+    },
+    {
+      "id": "restoran",
+      "date": "2037-11-05",
+      "title": "Lüks restoran rezervasyonları",
+      "detail": "Kisshokichi (16 Kasım akşam) ve Ginza Happo (23 Kasım). Ginza Kyubey 23 Kasım Pazartesi kapalı; isterseniz 18–21 Kasım arası bir akşam.",
+      "link": "oneriler.html#yemek-oneri"
+    },
+    {
+      "id": "dolar",
+      "date": "2037-11-05",
+      "title": "Dolar/yen al",
+      "detail": "İkiniz toplam ~$700–800, yıpranmamış yeni seri 100/50'lik.",
+      "link": "para.html#nakit"
+    },
+    {
+      "id": "shibuya-sky",
+      "date": "2037-11-07",
+      "title": "Shibuya Sky gün batımı bileti",
+      "detail": "21 Kasım için satış ~2 hafta önce açılır, hızlı biter; resmî siteden.",
+      "link": "oneriler.html#pick-shibuya-sky"
+    },
+    {
+      "id": "checkin",
+      "date": "2037-11-07",
+      "title": "China Southern online check-in",
+      "detail": "Uçuş saatlerini son kez teyit et; powerbank ve sıvıları kontrol et.",
+      "link": "yolculuk.html#ucuslar"
+    },
+    {
+      "id": "yola-cikis",
+      "date": "2037-11-08",
+      "title": "Yola çıkış: 04.45 Ev",
+      "detail": "14.10 CZ0101. Park yeri fotoğrafı, bagaj etiketi KIX, iki biniş kartı.",
+      "link": "yolculuk.html#hv-ist-gidis"
+    },
+    {
+      "id": "smartex",
+      "date": "2037-11-12",
+      "title": "Shinkansen bileti (17 Kasım)",
+      "detail": "smartEX'ten; valizi kargoya vermeyeceksen büyük bagaj koltuğu.",
+      "link": "bilgiler.html#bilet"
+    },
+    {
+      "id": "gotemba-otobus",
+      "date": "2037-11-14",
+      "title": "Gotemba JR otobüs biletini Osaka’da Lawson’dan al (A planı)",
+      "detail": "Örnek Otel yakınındaki Lawson/Ministop → Loppi makinesi: ① 各種サービス ② 交通チケット（高速バス・航空チケット他） ③ 高速バスチケット新規購入／予約済み発券・お支払い ④ 高速バス（今から選ぶ）… ⑤ 高速バスネット ⑥ 東京 → 静岡, 御殿場プレミアム・アウトレット線, 11月20日, 東京駅八重洲南口 09:00 → 御殿場プレミアム・アウトレット, 大人2 (dönüş için aynı yolla 御殿場プレミアム・アウトレット 16:30 → 上野駅入谷口). Çıkan fişi 30 dk içinde kasaya götür, nakit öde, bileti al. 15 Kasım’a kadar erken bilet (早売5, ¥1.800) olabilir, yoksa ¥2.000. Kaçırılan sefer bileti geçersiz olur. Alınca bunu işaretle: B ve C planı kalkar.",
+      "link": "program-tokyo.html#day-2037-11-20"
+    },
+    {
+      "id": "takkyubin-tokyo",
+      "date": "2037-11-16",
+      "title": "Valizleri Tokyo oteline gönder",
+      "detail": "Örnek Otel resepsiyonsuz: en yakın Yamato Minamisenba 3-chome şubesi (Minamisenba 3-3-25, ~3 dk yürüyüş) ya da Yamato logolu FamilyMart/7-Eleven, en geç 18.30 (şube hafta içi 09–20, aynı gün son kabul 19.00; teslim 17 Kasım 18–20). Alıcı Örnek Otel Ueno (Sotokanda) + adınız + 17 Kasım giriş. 160 boy ~¥3.160, 180 boy ~¥4.480. 17 Kasım için küçük çanta.",
+      "link": "yolculuk.html#valiz"
+    },
+    {
+      "id": "gotemba-otobus-b",
+      "date": "2037-11-17",
+      "skipIf": "gotemba-otobus",
+      "title": "Gotemba bileti hâlâ yoksa: Tokyo İstasyonu JR Bus gişesi (B planı)",
+      "detail": "Shinkansen’den inince Yaesu Güney çıkışı JR Highway Bus Terminal gişesi (kart/nakit) ya da otele yakın Lawson/Ministop Loppi. Aynı seferler: 09.00 gidiş, 16.30 Ueno dönüş. Alınca işaretle.",
+      "link": "program-tokyo.html#day-2037-11-20"
+    },
+    {
+      "id": "gotemba-otobus-c",
+      "date": "2037-11-20",
+      "skipIf": [
+        "gotemba-otobus",
+        "gotemba-otobus-b"
+      ],
+      "title": "Gotemba bileti yoksa: Busta Shinjuku gişesi (C planı)",
+      "detail": "07.40 otelden çık → Ueno-okachimachi E09 → Oedo hattı (Iidabashi/Tochomae yönü) Shinjuku-nishiguchi E01 ~20 dk → Busta Shinjuku 4. kat ~10 dk. Gişeden ilk boş sefer (JR veya Odakyu). Dönüş biletini Gotemba’da şoförden al; 16.30 sefer Ueno’ya iner.",
+      "link": "program-tokyo.html#day-2037-11-20"
+    },
+    {
+      "id": "takkyubin-haneda",
+      "date": "2037-11-22",
+      "title": "Valizleri Haneda'ya gönder",
+      "detail": "Airport TA-Q-BIN, APA resepsiyonundan (en geç uçuştan 2 gün önce). Fişe CZ0201, 24 Kasım 15.05 yazılır; normal ücret + ~¥660 + banko ücreti. 24 Kasım Terminal 3 Yamato bankosundan al, sonra tax-free kiosku.",
+      "link": "yolculuk.html#valiz"
+    },
+    {
+      "id": "taxfree",
+      "date": "2037-11-24",
+      "title": "Haneda: önce tax-free iade terminali",
+      "detail": "11.00’de Haneda’da olun. Sıra: Airport TA-Q-BIN valizini al → tax-free iade kiosku (ürünler elde) → CZ check-in (bankosu 3. kat Island N, 14.05’te kapanır).",
+      "link": "yolculuk.html#hv-hnd-cikis"
+    }
+  ],
+  "taxi": [
+    {
+      "id": "osaka-otel",
+      "title": "Otel: Örnek Otel Shinsaibashi",
+      "ja": "大阪府大阪市中央区南船場",
+      "say": "この住所までお願いします。",
+      "tr": "Bu adrese lütfen."
+    },
+    {
+      "id": "kix",
+      "title": "Kansai Havalimanı Terminal 1",
+      "ja": "関西国際空港 第1ターミナル",
+      "say": "関西空港の第1ターミナルまでお願いします。",
+      "tr": "Kansai Havalimanı Terminal 1'e lütfen."
+    },
+    {
+      "id": "shin-osaka",
+      "title": "Shin-Osaka İstasyonu (Shinkansen)",
+      "ja": "新大阪駅",
+      "say": "新大阪駅までお願いします。",
+      "tr": "Shin-Osaka istasyonuna lütfen."
+    },
+    {
+      "id": "haneda",
+      "title": "Haneda Havalimanı Terminal 3",
+      "ja": "羽田空港 第3ターミナル",
+      "say": "羽田空港の第3ターミナルまでお願いします。",
+      "tr": "Haneda Havalimanı Terminal 3'e lütfen."
+    }
+  ],
+  "phrases": [
+    [
+      "Genel",
+      "Merhaba",
+      "こんにちは",
+      "Konnichiwa"
+    ],
+    [
+      "Genel",
+      "Teşekkür ederim",
+      "ありがとうございます",
+      "Arigatō gozaimasu"
+    ],
+    [
+      "Genel",
+      "Affedersiniz / bakar mısınız",
+      "すみません",
+      "Sumimasen"
+    ],
+    [
+      "Genel",
+      "Anlamadım",
+      "わかりません",
+      "Wakarimasen"
+    ],
+    [
+      "Genel",
+      "İngilizce biliyor musunuz?",
+      "英語は話せますか？",
+      "Eigo wa hanasemasu ka?"
+    ],
+    [
+      "Alışveriş",
+      "Bu ne kadar?",
+      "これはいくらですか？",
+      "Kore wa ikura desu ka?"
+    ],
+    [
+      "Alışveriş",
+      "Bunu istiyorum",
+      "これをください",
+      "Kore o kudasai"
+    ],
+    [
+      "Alışveriş",
+      "Kartla ödeyebilir miyim?",
+      "カードで払えますか？",
+      "Kādo de haraemasu ka?"
+    ],
+    [
+      "Alışveriş",
+      "Tax-free yapılıyor mu?",
+      "免税できますか？",
+      "Menzei dekimasu ka?"
+    ],
+    [
+      "Alışveriş",
+      "Başka bedeni var mı?",
+      "他のサイズはありますか？",
+      "Hoka no saizu wa arimasu ka?"
+    ],
+    [
+      "Alışveriş",
+      "Deneyebilir miyim?",
+      "試着してもいいですか？",
+      "Shichaku shite mo ii desu ka?"
+    ],
+    [
+      "Alışveriş",
+      "Poşet istemiyorum",
+      "袋はいりません",
+      "Fukuro wa irimasen"
+    ],
+    [
+      "Alışveriş",
+      "Tek çekim lütfen (kartta)",
+      "一括でお願いします",
+      "Ikkatsu de onegaishimasu"
+    ],
+    [
+      "Restoran",
+      "İki kişiyiz",
+      "二人です",
+      "Futari desu"
+    ],
+    [
+      "Restoran",
+      "İngilizce menü var mı?",
+      "英語のメニューはありますか？",
+      "Eigo no menyū wa arimasu ka?"
+    ],
+    [
+      "Restoran",
+      "İçinde domuz eti var mı?",
+      "豚肉は入っていますか？",
+      "Butaniku wa haitte imasu ka?"
+    ],
+    [
+      "Restoran",
+      "Hesap lütfen",
+      "お会計お願いします",
+      "Okaikei onegaishimasu"
+    ],
+    [
+      "Restoran",
+      "Çok lezzetliydi",
+      "とてもおいしかったです",
+      "Totemo oishikatta desu"
+    ],
+    [
+      "Yol",
+      "Tuvalet nerede?",
+      "トイレはどこですか？",
+      "Toire wa doko desu ka?"
+    ],
+    [
+      "Yol",
+      "İstasyon nerede?",
+      "駅はどこですか？",
+      "Eki wa doko desu ka?"
+    ],
+    [
+      "Yol",
+      "Buraya gitmek istiyorum",
+      "ここに行きたいです",
+      "Koko ni ikitai desu"
+    ],
+    [
+      "Yol",
+      "Fotoğraf çekebilir miyim?",
+      "写真を撮ってもいいですか？",
+      "Shashin o totte mo ii desu ka?"
+    ],
+    [
+      "Acil",
+      "Yardım edin!",
+      "助けてください！",
+      "Tasukete kudasai!"
+    ],
+    [
+      "Acil",
+      "Hastaneye gitmem gerek",
+      "病院に行きたいです",
+      "Byōin ni ikitai desu"
+    ],
+    [
+      "Acil",
+      "Kayboldum",
+      "道に迷いました",
+      "Michi ni mayoimashita"
+    ],
+    [
+      "Damga",
+      "İstasyon damgası nerede?",
+      "駅スタンプはどこですか？",
+      "Eki sutanpu wa doko desu ka?"
+    ],
+    [
+      "Damga",
+      "Mühür (goshuin) alabilir miyim?",
+      "御朱印をいただけますか？",
+      "Goshuin o itadakemasu ka?"
+    ]
+  ],
+  "packing": [
+    [
+      "Belgeler",
+      "pasaport",
+      "İki pasaport (dönüşten sonra en az 6 ay geçerli)"
+    ],
+    [
+      "Belgeler",
+      "sigorta",
+      "Seyahat sağlık sigortası poliçesi (telefonda ve kâğıtta)"
+    ],
+    [
+      "Belgeler",
+      "binis",
+      "Biniş kartları ve otel adresleri çevrimdışı"
+    ],
+    [
+      "Para",
+      "nakit",
+      "~$700–800 yıpranmamış dolar veya yen"
+    ],
+    [
+      "Para",
+      "kartlar",
+      "Üç kredi kartı + yurt dışında çalışan banka kartı, PIN'ler biliniyor"
+    ],
+    [
+      "Elektronik",
+      "adaptor",
+      "Japonya A tipi priz adaptörü (kişi başı en az bir)"
+    ],
+    [
+      "Elektronik",
+      "powerbank",
+      "Powerbank en fazla 2, ≤160 Wh, 3C işaretli, kabinde"
+    ],
+    [
+      "Elektronik",
+      "sarj",
+      "Telefon şarj aletleri ve kablolar"
+    ],
+    [
+      "Elektronik",
+      "esim",
+      "eSIM'ler kurulu ve denenmiş"
+    ],
+    [
+      "Giyim",
+      "katman",
+      "Katmanlı giyim: ince mont, polar, 6–18 °C"
+    ],
+    [
+      "Giyim",
+      "ayakkabi",
+      "Alışılmış rahat yürüyüş ayakkabısı (günde 15–25 bin adım)"
+    ],
+    [
+      "Giyim",
+      "yagmur",
+      "Katlanır şemsiye veya ince yağmurluk"
+    ],
+    [
+      "Kişisel",
+      "ilac",
+      "Düzenli ilaçlar ve ilaç listesi, yara bandı"
+    ],
+    [
+      "Kişisel",
+      "havlu",
+      "Küçük el havlusu, katlanır poşet"
+    ],
+    [
+      "Valiz",
+      "bos-yer",
+      "Dönüş için boş yer veya katlanır ikinci çanta"
+    ],
+    [
+      "Valiz",
+      "tarti",
+      "El tipi valiz tartısı (Japonya'da da alınabilir)"
+    ],
+    [
+      "Dönüş",
+      "bicak-bagaj",
+      "Bıçak, makas, bileme taşı kayıtlı bagajda"
+    ],
+    [
+      "Dönüş",
+      "sivi-bagaj",
+      "Sake ve 100 ml üstü sıvılar kayıtlı bagajda"
+    ],
+    [
+      "Dönüş",
+      "pil-kabin",
+      "Pil, powerbank, drone/kamera bataryası kabinde"
+    ],
+    [
+      "Dönüş",
+      "taxfree-fis",
+      "Tax-free fişleri ve ürünler el altında (Haneda'da gümrük isteyebilir)"
+    ]
+  ],
+  "cities": {
+    "Osaka": [
+      34.6937,
+      135.5023
+    ],
+    "Kyoto": [
+      35.0116,
+      135.7681
+    ],
+    "Nara": [
+      34.6851,
+      135.8048
+    ],
+    "Tokyo": [
+      35.6812,
+      139.7671
+    ]
+  },
+  "tokyoHotel": {
+    "name": "Örnek Otel Ueno",
+    "ja": "東京都千代田区外神田",
+    "address": "Chiyoda-ku Sotokanda (〒101-0021)",
+    "mapQuery": "35.704792,139.772156",
+    "ll": [
+      35.704792,
+      139.772156
+    ],
+    "phone": null,
+    "access": "Ginza hattı Suehirocho (G14) 2/4 numaralı çıkış ~2 dk, Ueno-hirokoji (G15) A1 ~2 dk; JR Okachimachi güney çıkışı ~5 dk; Akihabara ~10 dk yürüyüş.",
+    "stay": "17–24 Kasım, 7 gece, Standart Çift Kişilik Oda. Giriş 15.00–00.00, çıkış 10.00. Ücretsiz iptal 15 Kasım 23.59 JST'ye kadar. Girişte pasaport + Booking e-postasındaki check-in numarası.",
+    "note": "Otel bilgisi buradan dolar: taksi kartı, harita, Tokyo günlerindeki otelden rota ve kargo etiketi."
+  }
+}

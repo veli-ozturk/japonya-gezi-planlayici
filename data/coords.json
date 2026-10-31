@@ -1,0 +1,994 @@
+{
+ "place-G02": [
+  34.66797,
+  135.50332
+ ],
+ "place-G03": [
+  34.66533,
+  135.50698
+ ],
+ "place-G05": [
+  34.70529,
+  135.49053
+ ],
+ "place-G07": [
+  34.96752,
+  135.77971
+ ],
+ "place-G08": [
+  34.9943,
+  135.78444
+ ],
+ "place-G09": [
+  34.99648,
+  135.78132
+ ],
+ "place-G12": [
+  35.03953,
+  135.72954
+ ],
+ "place-G13": [
+  35.00502,
+  135.76557
+ ],
+ "place-G15": [
+  34.6829,
+  135.8546
+ ],
+ "place-G17": [
+  34.68051,
+  135.84607
+ ],
+ "place-G20": [
+  35.67484,
+  139.69963
+ ],
+ "place-G23": [
+  34.66564,
+  135.43245
+ ],
+ "store-O01": [
+  34.66471,
+  135.50604
+ ],
+ "store-O04": [
+  34.66189,
+  135.50507
+ ],
+ "store-O05": [
+  34.66173,
+  135.50614
+ ],
+ "store-O06": [
+  34.66015,
+  135.50566
+ ],
+ "store-O07": [
+  34.65828,
+  135.50578
+ ],
+ "store-O11": [
+  34.71065,
+  135.51286
+ ],
+ "store-T02": [
+  35.70402,
+  139.784
+ ],
+ "store-T03": [
+  35.70055,
+  139.77054
+ ],
+ "store-T05": [
+  35.70112,
+  139.7711
+ ],
+ "store-T07": [
+  35.70035,
+  139.77053
+ ],
+ "store-T08": [
+  35.68945,
+  139.69724
+ ],
+ "store-T09": [
+  35.69174,
+  139.70235
+ ],
+ "store-T10": [
+  35.70691,
+  139.66652
+ ],
+ "store-T11": [
+  35.70926,
+  139.66579
+ ],
+ "store-T12": [
+  35.6687,
+  139.70534
+ ],
+ "store-T14": [
+  35.66045,
+  139.69784
+ ],
+ "store-T18": [
+  35.69072,
+  139.69415
+ ],
+ "store-K01": [
+  34.99624,
+  135.78076
+ ],
+ "store-K02": [
+  34.99654,
+  135.78009
+ ],
+ "store-K03": [
+  35.00354,
+  135.76482
+ ],
+ "pick-tofukuji": [
+  34.97608,
+  135.77369
+ ],
+ "pick-isuien": [
+  34.68547,
+  135.83792
+ ],
+ "pick-naramachi": [
+  34.67836,
+  135.83709
+ ],
+ "pick-tombori": [
+  34.66914,
+  135.50271
+ ],
+ "pick-yanaka": [
+  35.72767,
+  139.76532
+ ],
+ "pick-shibuya-sky": [
+  35.65829,
+  139.70226
+ ],
+ "pick-teamlab": [
+  35.64938,
+  139.78973
+ ],
+ "pick-omoide": [
+  35.69307,
+  139.6995
+ ],
+ "pick-shimokita": [
+  35.66168,
+  139.66633
+ ],
+ "pick-hikarie": [
+  35.65918,
+  139.70369
+ ],
+ "pick-sanjusangendo": [
+  34.98921,
+  135.77213
+ ],
+ "pick-ryoanji": [
+  35.03413,
+  135.71863
+ ],
+ "pick-nijo": [
+  35.01401,
+  135.74854
+ ],
+ "pick-himeji": [
+  34.83933,
+  134.69402
+ ],
+ "pick-byodoin": [
+  34.89099,
+  135.80652
+ ],
+ "pick-horyuji": [
+  34.61401,
+  135.73604
+ ],
+ "pick-shitennoji": [
+  34.65306,
+  135.51281
+ ],
+ "pick-tnm": [
+  35.71904,
+  139.77597
+ ],
+ "pick-nikko": [
+  36.75779,
+  139.60038
+ ],
+ "pick-teamlab-botanical": [
+  34.61112,
+  135.52056
+ ],
+ "pick-teamlab-borderless": [
+  35.662,
+  139.74342
+ ],
+ "pick-kabuki": [
+  35.66966,
+  139.76811
+ ],
+ "pick-spa-world": [
+  34.6497,
+  135.50569
+ ],
+ "pick-kimono": [
+  34.99768,
+  135.77512
+ ],
+ "pick-ghibli": [
+  35.69625,
+  139.57045
+ ],
+ "pick-mizuno": [
+  34.66845,
+  135.50307
+ ],
+ "pick-ichiran": [
+  34.66845,
+  135.50321
+ ],
+ "pick-kiji": [
+  34.70529,
+  135.49053
+ ],
+ "pick-harukoma": [
+  34.70772,
+  135.51153
+ ],
+ "pick-wanaka": [
+  34.66521,
+  135.5034
+ ],
+ "pick-hokkyokusei": [
+  34.66963,
+  135.49874
+ ],
+ "pick-rikuro": [
+  34.66614,
+  135.50151
+ ],
+ "pick-okutan": [
+  34.99784,
+  135.78091
+ ],
+ "pick-arabica": [
+  35.01354,
+  135.67644
+ ],
+ "pick-gogyo": [
+  35.00531,
+  135.76392
+ ],
+ "pick-shigetsu": [
+  35.01513,
+  135.6736
+ ],
+ "pick-nakatanidou": [
+  34.68193,
+  135.82886
+ ],
+ "pick-tsukiji": [
+  35.66539,
+  139.77047
+ ],
+ "pick-matsuya": [
+  35.69612,
+  139.76878
+ ],
+ "pick-daikokuya": [
+  35.71274,
+  139.79559
+ ],
+ "pick-afuri": [
+  35.63592,
+  139.73997
+ ],
+ "pick-motomura": [
+  35.65698,
+  139.70402
+ ],
+ "pick-maisen": [
+  35.66797,
+  139.71153
+ ],
+ "pick-fuunji": [
+  35.68689,
+  139.69669
+ ],
+ "pick-kyubey": [
+  35.6685,
+  139.76127
+ ],
+ "pick-itoya": [
+  35.67296,
+  139.76743
+ ],
+ "pick-loft": [
+  34.701,
+  135.4987
+ ],
+ "pick-daiso": [
+  34.47665,
+  135.4683
+ ],
+ "pick-muji": [
+  35.67338,
+  139.76552
+ ],
+ "pick-gachapon": [
+  35.70186,
+  139.77125
+ ],
+ "pick-nintendo": [
+  35.66192,
+  139.69899
+ ],
+ "pick-tempura-makino": [
+  34.70607,
+  135.51122
+ ],
+ "pick-shogun-burger": [
+  34.67043,
+  135.50176
+ ],
+ "pick-gyumon": [
+  35.00417,
+  135.77609
+ ],
+ "pick-yukou": [
+  34.99844,
+  135.77729
+ ],
+ "pick-namba-yasaka": [
+  34.66148,
+  135.49673
+ ],
+ "pick-amerikamura": [
+  34.67209,
+  135.49795
+ ],
+ "pick-ginkakuji": [
+  35.0269,
+  135.79837
+ ],
+ "pick-toranomon": [
+  35.66754,
+  139.74691
+ ],
+ "pick-secondhand": [
+  35.6687,
+  139.70534
+ ],
+ "pick-ajinoya": [
+  34.6681,
+  135.50098
+ ],
+ "pick-aeon-mall": [
+  34.67038,
+  135.47796
+ ],
+ "pick-jins": [
+  34.67126,
+  135.50127
+ ],
+ "pick-hardoff-higashiyamato": [
+  35.74541,
+  139.43535
+ ],
+ "pick-hardoff-hachioji": [
+  35.66304,
+  139.35258
+ ],
+ "pick-eki-stamp": [
+  35.68107,
+  139.765
+ ],
+ "pick-surugaya": [
+  35.70062,
+  139.77054
+ ],
+ "place-G01": [
+  34.66893,
+  135.50105
+ ],
+ "place-G04": [
+  34.68718,
+  135.5254
+ ],
+ "place-G06": [
+  34.65254,
+  135.50631
+ ],
+ "place-G10": [
+  35.01287,
+  135.67776
+ ],
+ "place-G11": [
+  35.01622,
+  135.67294
+ ],
+ "place-G14": [
+  34.68297,
+  135.83187
+ ],
+ "place-G16": [
+  34.68824,
+  135.83976
+ ],
+ "place-G18": [
+  35.7134,
+  139.79553
+ ],
+ "place-G19": [
+  35.71529,
+  139.77383
+ ],
+ "place-G21": [
+  35.65906,
+  139.70063
+ ],
+ "place-G22": [
+  35.68162,
+  139.76533
+ ],
+ "store-O08": [
+  34.40629,
+  135.29523
+ ],
+ "store-T06": [
+  35.69937,
+  139.77074
+ ],
+ "store-T15": [
+  35.30779,
+  138.96508
+ ],
+ "store-T16": [
+  35.67679,
+  139.76354
+ ],
+ "store-T17": [
+  35.59231,
+  139.7434
+ ],
+ "store-T19": [
+  35.71448,
+  139.78891
+ ],
+ "store-O12": [
+  34.67387,
+  135.50097
+ ],
+ "pick-kaiyukan": [
+  34.65516,
+  135.42939
+ ],
+ "pick-minoo": [
+  34.85389,
+  135.47197
+ ],
+ "pick-kamakura": [
+  35.3165,
+  139.53573
+ ],
+ "pick-east-gardens": [
+  35.6867,
+  139.7574
+ ],
+ "pick-tocho": [
+  35.6895,
+  139.69171
+ ],
+ "pick-asakusa-tic": [
+  35.71064,
+  139.79652
+ ],
+ "pick-kitte": [
+  35.67986,
+  139.76478
+ ],
+ "pick-tenku-noen": [
+  34.70221,
+  135.49557
+ ],
+ "pick-harukas16": [
+  34.64577,
+  135.51401
+ ],
+ "pick-daruma": [
+  34.65254,
+  135.50631
+ ],
+ "pick-kikunoi": [
+  35.00137,
+  135.78226
+ ],
+ "pick-depachika": [
+  35.68126,
+  139.76882
+ ],
+ "pick-tocho-cafeteria": [
+  35.6895,
+  139.69171
+ ],
+ "pick-tocho-mapping": [
+  35.6895,
+  139.69171
+ ],
+ "pick-katsuoji": [
+  34.86562,
+  135.49226
+ ],
+ "pick-tokyo-flea": [
+  35.59231,
+  139.7434
+ ],
+ "pick-katsukura": [
+  35.00388,
+  135.76679
+ ],
+ "store-T13": [
+  35.70684,
+  139.77687
+ ],
+ "store-O02": [
+  34.663,
+  135.50525
+ ],
+ "pick-daiki-suisan": [
+  34.98763,
+  135.7591
+ ],
+ "pick-shinjuku-3d-kedi": [
+  35.69268,
+  139.70082
+ ],
+ "q:Kansai International Airport Terminal 1": [
+  34.42606,
+  135.27863
+ ],
+ "q:34.67787108,135.5024929": [
+  34.67787108,
+  135.5024929
+ ],
+ "q:Dotonbori Glico Sign": [
+  34.66893,
+  135.50105
+ ],
+ "q:Hozenji Yokocho": [
+  34.66797,
+  135.50332
+ ],
+ "q:Dotonbori Osaka": [
+  34.66903,
+  135.50157
+ ],
+ "q:Fushimi Inari Taisha": [
+  34.96752,
+  135.77971
+ ],
+ "q:Kiyomizu-dera": [
+  34.9943,
+  135.78444
+ ],
+ "q:Sannenzaka Kyoto": [
+  34.99648,
+  135.78132
+ ],
+ "q:Gion Shirakawa Kyoto": [
+  35.00617,
+  135.77263
+ ],
+ "q:Nara Park": [
+  34.6829,
+  135.8546
+ ],
+ "q:Kasuga Taisha": [
+  34.68051,
+  135.84607
+ ],
+ "q:Rinku Premium Outlets": [
+  34.40629,
+  135.29523
+ ],
+ "q:Arashiyama Bamboo Grove": [
+  35.01674,
+  135.67115
+ ],
+ "q:Tenryu-ji": [
+  35.01622,
+  135.67294
+ ],
+ "q:Togetsukyo Bridge": [
+  35.01287,
+  135.67776
+ ],
+ "q:Kinkaku-ji": [
+  35.03953,
+  135.72954
+ ],
+ "q:Nishiki Market Kyoto": [
+  35.00502,
+  135.76557
+ ],
+ "q:Osaka Castle": [
+  34.68718,
+  135.5254
+ ],
+ "q:Osaka Umeda Station": [
+  34.70542,
+  135.49837
+ ],
+ "q:Umeda Sky Building": [
+  34.70529,
+  135.49053
+ ],
+ "q:Kuromon Ichiba Market Osaka": [
+  34.6658,
+  135.50702
+ ],
+ "q:Nipponbashi Osaka": [
+  34.66713,
+  135.50641
+ ],
+ "q:Shinsekai Osaka": [
+  34.65209,
+  135.50619
+ ],
+ "q:Super Potato Otaroad": [
+  34.66189,
+  135.50507
+ ],
+ "q:Jungle Osaka Nipponbashi": [
+  34.66173,
+  135.50614
+ ],
+ "q:Shin-Osaka Station": [
+  34.73408,
+  135.50187
+ ],
+ "q:Tokyo": [
+  35.67686,
+  139.76389
+ ],
+ "q:Akihabara Tokyo": [
+  35.70189,
+  139.77437
+ ],
+ "q:Senso-ji Tokyo": [
+  35.7134,
+  139.79553
+ ],
+ "q:Nakamise Asakusa": [
+  35.71252,
+  139.79652
+ ],
+ "q:Ueno Park": [
+  35.71529,
+  139.77383
+ ],
+ "q:Ueno Tokyo": [
+  35.71169,
+  139.77617
+ ],
+ "q:Ameyoko Tokyo": [
+  35.71002,
+  139.77454
+ ],
+ "q:Gotemba Premium Outlets": [
+  35.30779,
+  138.96508
+ ],
+ "q:Shinjuku Central Park": [
+  35.69003,
+  139.68958
+ ],
+ "q:Meiji Jingu": [
+  35.67484,
+  139.69963
+ ],
+ "q:Harajuku Tokyo": [
+  35.6687,
+  139.70534
+ ],
+ "q:2nd Street Harajuku": [
+  35.6687,
+  139.70534
+ ],
+ "q:Hachiko Statue Shibuya": [
+  35.65906,
+  139.70063
+ ],
+ "q:MEGA Don Quijote Shibuya": [
+  35.66045,
+  139.69784
+ ],
+ "q:Shinjuku Kitamura Camera": [
+  35.68933,
+  139.69747
+ ],
+ "q:Map Camera Shinjuku": [
+  35.68943,
+  139.69676
+ ],
+ "q:Fujiya Camera Nakano": [
+  35.70679,
+  139.66645
+ ],
+ "q:Yurakucho Tokyo": [
+  35.67368,
+  139.76119
+ ],
+ "q:Tokyo Station Marunouchi": [
+  35.68115,
+  139.76598
+ ],
+ "q:Ginza Tokyo": [
+  35.67201,
+  139.76472
+ ],
+ "q:Haneda Airport Terminal 3": [
+  35.54389,
+  139.76865
+ ],
+ "q:Ninenzaka Kyoto": [
+  34.99648,
+  135.78132
+ ],
+ "q:Kofukuji Temple Nara": [
+  34.68297,
+  135.83187
+ ],
+ "q:Todaiji Temple Nara": [
+  34.68824,
+  135.83976
+ ],
+ "q:Hands Shinsaibashi PARCO Osaka": [
+  34.67387,
+  135.50097
+ ],
+ "q:Oi Racecourse Tokyo City Flea Market": [
+  35.59231,
+  139.7434
+ ],
+ "q:Tokyo International Forum Oedo Antique Market": [
+  35.67679,
+  139.76354
+ ],
+ "q:Takeya 3 Okachimachi Tokyo": [
+  35.70684,
+  139.77687
+ ],
+ "q:Dospara Namba": [
+  34.663,
+  135.50525
+ ],
+ "q:JINS Hankyu Sanbangai Osaka": [
+  34.70474,
+  135.49914
+ ],
+ "q:PC Ones Osaka": [
+  34.6595,
+  135.50566
+ ],
+ "q:Cocokarafine Shinsaibashi 3-7-27 Minamisenba Osaka": [
+  34.67484,
+  135.50154
+ ],
+ "q:Surugaya Osaka Nipponbashi Main": [
+  34.6613,
+  135.50574
+ ],
+ "q:Sakai Ichimonji Mitsuhide 14-8 Nambasennichimae Osaka": [
+  34.66393,
+  135.50352
+ ],
+ "q:Dospara Akihabara": [
+  35.70054,
+  139.7708
+ ],
+ "q:Shibuya Station": [
+  35.65847,
+  139.7004
+ ],
+ "q:Shinjuku Station": [
+  35.68873,
+  139.69876
+ ],
+ "q:Nakano Station Tokyo": [
+  35.70578,
+  139.66579
+ ],
+ "store-O03": [
+  34.65848,
+  135.50618
+ ],
+ "store-O09": [
+  34.70469,
+  135.4982
+ ],
+ "store-O10": [
+  34.70335,
+  135.5038
+ ],
+ "store-T01": [
+  35.70213,
+  139.77115
+ ],
+ "store-T04": [
+  35.70262,
+  139.77193
+ ],
+ "store-O13": [
+  34.66375,
+  135.5034
+ ],
+ "store-O14": [
+  34.67717,
+  135.50192
+ ],
+ "q:Nankai Namba Station": [
+  34.6627,
+  135.5016
+ ],
+ "q:Kintetsu Nara Station": [
+  34.6843,
+  135.8273
+ ],
+ "q:Tokyo Station": [
+  35.6812,
+  139.7671
+ ],
+ "q:Shinjuku Tokyo": [
+  35.6896,
+  139.7006
+ ],
+ "q:Mandarake Umeda": [
+  34.70335,
+  135.5038
+ ],
+ "q:e-earphone Osaka Nipponbashi": [
+  34.65848,
+  135.50618
+ ],
+ "q:Mandarake Grand Chaos": [
+  34.65828,
+  135.50578
+ ],
+ "q:GIGA Kojima Tokyo": [
+  35.70402,
+  139.784
+ ],
+ "q:PC Shop Ark Akihabara": [
+  35.70213,
+  139.77115
+ ],
+ "q:e-earphone Akihabara": [
+  35.70262,
+  139.77193
+ ],
+ "q:Trader Main Store Akihabara": [
+  35.70112,
+  139.7711
+ ],
+ "pick-yakiniku-m": [
+  34.66807,
+  135.50269
+ ],
+ "pick-ginza-happo": [
+  35.66779,
+  139.76231
+ ],
+ "pick-shizuka": [
+  34.68483,
+  135.83656
+ ],
+ "pick-harry-potter-harajuku": [
+  35.66854,
+  139.70447
+ ],
+ "pick-innsyoutei": [
+  35.7147,
+  139.77174
+ ],
+ "pick-kani-doraku": [
+  34.66887,
+  135.50227
+ ],
+ "pick-hanadako": [
+  34.7032,
+  135.49799
+ ],
+ "pick-capybara": [
+  35.71763,
+  139.79197
+ ],
+ "pick-access-ticket": [
+  34.66522,
+  135.50178
+ ],
+ "pick-edo-tokyo": [
+  35.69645,
+  139.79608
+ ],
+ "pick-snoopy-chocolat": [
+  34.9968,
+  135.7806
+ ],
+ "pick-snoopy-town": [
+  34.70469,
+  135.4982
+ ],
+ "pick-snoopy-museum": [
+  35.51031,
+  139.46949
+ ],
+ "pick-donguri": [
+  34.9981,
+  135.7806
+ ],
+ "pick-shirohige": [
+  35.65898,
+  139.66278
+ ],
+ "pick-hardoff-city": [
+  35.70213,
+  139.77115
+ ],
+ "pick-steak-shima": [
+  35.67904,
+  139.77285
+ ],
+ "pick-hoshino-shibuya": [
+  35.6595,
+  139.7005
+ ],
+ "pick-water-bus": [
+  35.7106,
+  139.7988
+ ],
+ "pick-dawn-cafe": [
+  35.689476,
+  139.776276
+ ],
+ "pick-hp-cafe": [
+  35.672558,
+  139.735168
+ ],
+ "q:Örnek Otel Ueno": [
+  35.70487,
+  139.77218
+ ],
+ "q:Otori Jinja Asakusa": [
+  35.722549,
+  139.791611
+ ],
+ "pick-yodobashi-akiba": [
+  35.698639,
+  139.774612
+ ],
+ "pick-2k540": [
+  35.703461,
+  139.774155
+ ],
+ "pick-tonkatsu-yamabe": [
+  35.707897,
+  139.775543
+ ],
+ "pick-kikanbo": [
+  35.693588,
+  139.772263
+ ],
+ "q:Lawson Shinsaibashi Osaka": [
+  34.67123,
+  135.50607
+ ]
+}

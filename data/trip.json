@@ -1,0 +1,1661 @@
+{
+  "base": "Örnek Otel Shinsaibashi / Örnek Otel Building",
+  "transfer": "2037-11-17",
+  "intro": "9–16 Kasım Osaka / Örnek Otel Shinsaibashi (Minamisenba). 10 ve 13 Kasım Kyoto, 11 Kasım Nara günübirlik. 17 Kasım Tokyo geçişi. 17–24 Kasım Tokyo / Örnek Otel Ueno (Sotokanda; Suehirocho ve Okachimachi yakın).",
+  "timingNote": "Her gün için gezilecek yerler, alınacaklar ve harita. Saatler Japonya saatidir ve öneridir; tren tarifesi veya rezervasyon değildir. Osaka günleri otelden (Örnek Otel Shinsaibashi) başlar; Tokyo günleri Örnek Otel Ueno’den başlar (çıkış saati otelden kapıdan kapıya).",
+  "assumptions": [
+    "Seyahat: 9–24 Kasım 2037. Osaka konaklaması Örnek Otel Shinsaibashi / Örnek Otel Building, Minamisenba, Chuo-ku. Adres Osaka Belediyesi kaydıyla eşleştirildi; giriş kapısı/daire bilgisi rezervasyondan kontrol edilir. Uçuşlar: 8 Kasım İstanbul 14.10 → Guangzhou → 9 Kasım Kansai 14.10; 24 Kasım Haneda 15.05 → Guangzhou → 25 Kasım İstanbul 07.10 (China Southern).",
+    "Kullanıcının belirttiği Osaka ayrılışı 17 Kasım Salı. Tokyo'ya aynı gün geçiş esas alındı. Yolculuk saatleri bilet belli olunca kaydırılacak.",
+    "Kyoto iki günübirlik gezi: 10 Kasım doğu/güney Kyoto, 13 Kasım Arashiyama ve batı/merkez Kyoto. Nara 11 Kasım tek gün. Her akşam Osaka'ya dönüş var.",
+    "Saatli programdaki bütün saatler JST ve planlama hedefidir. Örnek Otel–Shinsaibashi istasyonu için 7–10 dk, Dotonbori için 15–20 dk yürüyüş tahmini kullanıldı. Seferler, kuyruk ve otelin gerçek giriş kapısı süreyi değiştirebilir.",
+    "Tokyo oteli Örnek Otel Ueno (17–24 Kasım, Booking ortak teklifi, 15 Kasım 23.59 JST’ye kadar ücretsiz iptal, giriş 15.00–00.00, çıkış 10.00). Otelden Suehirocho G14 (Ginza hattı) ~2 dk, JR Okachimachi ~5 dk, Ueno-okachimachi E09 (Oedo) ~5 dk, Akihabara ~10 dk yürüyüş. Günlerin ilk satırı otelden çıkış saatidir.",
+    "PC için 150.000 TL tavan ayrı. Diğer alışverişlerin toplam bütçesi henüz belirtilmedi. Kamera için lens dahil 5.000–10.000 TL sınırı var.",
+    "Fiyatlar 25 Ekim araştırmasının referanslarıdır. İnternet fiyatı, şube stoğu ve tax-free fiyatı aynı şey değildir. TL dönüşümü 1 JPY = 0,317 TL planlama kurudur.",
+    "Vergi iadesi toplamdan düşülmedi. 1 Kasım 2037 sonrası vergili ödeme, çıkışta teyit ve ardından iade sistemi geçerli. Uygunluk, kesinti ve yöntem mağazadan teyit edilmeli.",
+    "14–15 Kasım Oi pazarı Osaka konaklamasıyla çakışır. 21–22 Kasım Shitennoji ve 21 Kasım Toji pazarı Tokyo konaklamasıyla çakışır. Bunlar ana rotadan çıkarıldı, takvimde neden gidilmediği yazıyor.",
+    "Kyoto'yu tek güne indirmek istersen 10 Kasım ana geziyi koru; 13 Kasım Arashiyama gününü Osaka serbest/yağmur yedeği yap. İlk çıkarılacak büyük ek gezi Gotemba'dır; Rinku yeterliyse 20 Kasım kamera ve Nakano günü olur.",
+    "Tapınak ve manzara ücretleri kişi başı standart yetişkin referansıdır. Sıfır tutar yalnız belirtilen ücretsiz alanı kapsar. Ulaşım, yemek ve özel sergiler dahil değil.",
+    "100 kg toplam bagaj hakkı tek valizin ağırlık sınırını veya kabin pil kurallarını değiştirmez. Havayolu China Southern, dönüş Haneda; bagaj hakkını bilet ayrıntısından teyit et.",
+    "Ulaşımın hat ve durak bilgileri 25 Ekim 2037 resmî işletmeci kaynaklarıyla hazırlandı. Dakikalar tipik süre/planlama aralığıdır; güncel sefer veya peron garantisi değil. Ana kart ICOCA; fiziksel yükleme için nakit yen, Shinkansen/rezervasyonlu otobüs için ayrı bilet."
+  ],
+  "routes": [
+    [
+      "2037-11-09",
+      "Pazartesi",
+      "Osaka / Örnek Otel Shinsaibashi",
+      "Varış (Kansai 14.10), Dotonbori ve Hozenji",
+      "CZ0102 ile 14.10 Kansai; pasaport ve bagaj sonrası rapi:t ile Namba, 16.15–17.30 Örnek Otel’e yerleşme. 18.00 Glico/Ebisu Köprüsü, 19.00 Hozenji, 19.30 yemek; sonra otele dönüş.",
+      "Kansai → Namba Nankai rapi:t ~38 dk, Namba → Örnek Otel taksi ~10 dk veya Midosuji 1 durak + yürüyüş. Örnek Otel’ten Dotonbori ~15–20 dk yürüyüş.",
+      "Varış 14.10; akşam 2–3 saat",
+      "Gece uçuşu ve Guangzhou aktarması sonrası yorgunsan akşamı kısalt; Dotonbori gece de açık. Varış gününe alışveriş veya ücretli bilet bağlanmadı.",
+      "34.67787108,135.5024929|Dotonbori Glico Sign|Hozenji Yokocho|34.67787108,135.5024929"
+    ],
+    [
+      "2037-11-10",
+      "Salı",
+      "Kyoto / Osaka'dan günübirlik",
+      "Kyoto 1: Fushimi Inari ve Higashiyama",
+      "07.00 Örnek Otel çıkış; 08.30 Fushimi Inari; 11.00 Kiyomizu; 12.15 öğle; 13.15 Sannenzaka/Ninenzaka; 14.45 Yasaka/Gion; 17.00 dönüş",
+      "Örnek Otel–Shinsaibashi yürüyüş; Midosuji ile Yodoyabashi; Keihan Fushimi-inari için uygun aktarma. Sonra Kiyomizu-gojo ve yürüyüş. Dönüş Yodoyabashi–Shinsaibashi.",
+      "07.00–18.30; yokuşlu ve yoğun yürüyüş",
+      "Fushimi'de zirveye çıkma; alt torii hattına 75–90 dk. Kiyomizu gece açılışı 21 Kasım'da başlıyor, bu güne eklenmedi.",
+      "Fushimi Inari Taisha|Kiyomizu-dera|Ninenzaka Kyoto|Yasaka Shrine Kyoto|Gion Shirakawa Kyoto"
+    ],
+    [
+      "2037-11-11",
+      "Çarşamba",
+      "Nara / Osaka'dan günübirlik",
+      "Nara Park, Todaiji ve Kasuga",
+      "07.50 Örnek Otel çıkış; 09.15 Kofukuji çevresi; 10.00 Nara Park; 10.45 Todaiji; 12.00 öğle; 13.30 Kasuga Taisha; 15.00 dönüş yürüyüşü; 16.00 tren",
+      "Örnek Otel’ten Osaka-Namba/Kintetsu’ya yaklaşık 20–25 dk yürüyüş veya Shinsaibashi–Namba bir durak metro ve istasyon içi geçiş. Direkt Kintetsu-Nara treni yaklaşık 40 dk; toplam 75–90 dk pay.",
+      "07.50–17.15; park içinde uzun yürüyüş",
+      "Kasuga'nın özel iç ziyareti ayın 11'inde 12.00'ye kadar kapalı; bu yüzden 13.30'a kondu. Yorulursan park içi otobüs kullan.",
+      "Kintetsu Nara Station|Kofukuji Temple Nara|Nara Park|Todaiji Temple Nara|Kasuga Taisha"
+    ],
+    [
+      "2037-11-12",
+      "Perşembe",
+      "Rinku / Osaka",
+      "Rinku outlet",
+      "08.25 Örnek Otel çıkış; 10.00 ayakkabı; 12.00 öğle; 13.00 saat; 14.30 gözlük/çanta; 16.30 dönüş",
+      "Örnek Otel–Shinsaibashi yürüyüş; metro ile Namba, Nankai peronuna geçiş; Airport Express ile Rinku Town ve outlet yürüyüşü. Dönüşte Namba–Shinsaibashi metro; poşetlerle uzun yürüyüşü kısalt.",
+      "08.25–18.00; mağazada yaklaşık 6 saat",
+      "6–15 Kasım indirim dönemine denk geliyor. Fiyatı ve beden stoklarını karşılaştır; bütün markalarda aynı kampanya yok.",
+      "Rinku Premium Outlets"
+    ],
+    [
+      "2037-11-13",
+      "Cuma",
+      "Kyoto / Osaka'dan günübirlik",
+      "Kyoto 2: Arashiyama, Kinkakuji ve Nishiki",
+      "06.45 Örnek Otel çıkış; 08.30 bambu yolu; 09.15 Tenryuji; 10.15 Togetsukyo; 12.00 Kinkakuji; 13.00 öğle; 14.30 Nishiki; 16.00 dönüş",
+      "Örnek Otel–Shinsaibashi yürüyüş; Midosuji ile Umeda, Hankyu Osaka-umeda’dan Katsura aktarmalı Arashiyama. Arashiyama–Kinkakuji 60–75 dk pay. Dönüşte Umeda–Shinsaibashi.",
+      "06.45–18.00; ikinci erken çıkış günü",
+      "Yorgunlukta önce Kinkakuji'yi çıkar; Arashiyama ve Nishiki ile devam et. Kyoto bir gün olsun dersen bugünü Osaka serbest gününe çevir.",
+      "Arashiyama Bamboo Grove|Tenryu-ji|Togetsukyo Bridge|Kinkaku-ji|Nishiki Market Kyoto"
+    ],
+    [
+      "2037-11-14",
+      "Cumartesi",
+      "Osaka",
+      "Osaka Kalesi, Umeda ve şehir manzarası",
+      "08.15 çıkış; 09.00 kale/park; 12.00 Umeda öğle; 13.00 JINS; 14.00 Mandarake; 16.00 Umeda Sky; 18.00 yemek",
+      "Örnek Otel–Shinsaibashi yürüyüş; Nagahori Tsurumi-ryokuchi hattıyla Morinomiya, ardından park içinden kale yürüyüşü. Umeda dönüşü Midosuji ile Shinsaibashi. O09/O10 isteğe bağlı.",
+      "08.15–19.00; öğleden sonra esnek",
+      "Kale kulesi ve Umeda Sky ücretli, ikisi de isteğe bağlı. Hava kapalıysa Sky biletini son anda karar ver. Hafta sonu kalabalığı için pay var.",
+      "Osaka Castle|JINS Hankyu Sanbangai Osaka|Mandarake Umeda|Umeda Sky Building"
+    ],
+    [
+      "2037-11-15",
+      "Pazar",
+      "Osaka / Nipponbashi",
+      "Kuromon, PC parçaları ve kulaklık",
+      "08.20 Örnek Otel çıkış; 09.00 Kuromon kahvaltı; 11.00 e☆earphone; 12.15 PC1’s; 13.30 öğle; 14.30 Dospara; 16.00 Örnek Otel’e dönüş/test; akşam isteğe bağlı 17.45 Hands, 18.40 Cocokarafine",
+      "Örnek Otel–Kuromon yaklaşık 25–30 dk yürüyüş veya Nagahoribashi–Nippombashi Sakaisuji hattı ve kısa yürüyüş. O03–O01–O02. Ağır ürünle otele dönüşte metro/taksi tercih edilebilir.",
+      "08.20–19.10; akşam küçük alışveriş isteğe bağlı",
+      "Büyük parçaları aldıktan sonra poşetlerle geziyi uzatma. 15 Kasım Tokyo Oi pazarı bu programda uygun değil.",
+      "Kuromon Ichiba Market Osaka|e-earphone Osaka Nipponbashi|PC Ones Osaka|Dospara Namba"
+    ],
+    [
+      "2037-11-16",
+      "Pazartesi",
+      "Osaka / Shinsekai ve Nipponbashi",
+      "Shinsekai, Vita ve figür alışverişi",
+      "09.30 çıkış; 10.00 Shinsekai/Tsutenkaku dışı; 11.30 Super Potato; 12.30 Jungle; 13.15 öğle; 14.00 Surugaya; 15.00 Mandarake; 16.15 Ichimonji/Doguyasuji; 17.30 test/valiz",
+      "Örnek Otel–Shinsaibashi yürüyüş; Midosuji ile Dobutsuenmae, sonra Shinsekai. Otaroad’a kuzeye yürü. O04–O05–O06–O07. Dönüşte Nagahoribashi/Shinsaibashi bağlantısı veya taksi.",
+      "09.30–19.00; gün sonunda valiz zamanı",
+      "Kuleye çıkış plana dahil değil. Vita'yı mağazada test et; 17 Kasım şehir değişiminden önce iade/değişim sorusunu çöz.",
+      "Shinsekai Osaka|Super Potato Otaroad|Jungle Osaka Nipponbashi|Surugaya Osaka Nipponbashi Main|Mandarake Grand Chaos"
+    ],
+    [
+      "2037-11-17",
+      "Salı",
+      "Osaka → Tokyo",
+      "Şehir değişimi",
+      "Örnek: 10.00 çıkış/valiz; 11.00 Shin-Osaka erişim ve yemek; öğle Shinkansen; 15.30 sonrası Örnek Otel Ueno’ye yerleşme (giriş 15.00)",
+      "Örnek Otel–Shinsaibashi yürüyüş, Midosuji ile Shin-Osaka’ya aktarmasız metro; ardından Shinkansen. Otelden Shinkansen peronuna valizle yaklaşık 45–60 dk planlama payı. Bilet saatleri henüz yok.",
+      "Yolculuk günü; saatler biletle kayacak",
+      "Bu tarih kullanıcı tarafından kesinleştirildi. Akşam otele yakın (Ameyoko/Akihabara) serbest yürüyüş. Alışveriş randevusu yok.",
+      "Shin-Osaka Station"
+    ],
+    [
+      "2037-11-18",
+      "Çarşamba",
+      "Tokyo / Akihabara",
+      "PC son kıyas, konsol ve kulaklık",
+      "10.00 GIGA; 11.30 Ark; 12.30 öğle; 13.30 Dospara; 14.30 e☆earphone; 16.00 Trader veya Mandarake",
+      "T02–T01–T03–T04–T05/T07. GIGA yalnız hafta içi, 17.00'ye kadar. İlk durağa otelden yol henüz yok.",
+      "10.00–18.00; mağazalar arası toplam yürüyüş payı 45–60 dk",
+      "GIGA'da ürün yoksa 11.30 Ark'tan başla. Super Potato T06, Trader/Mandarake yerine alternatif; hepsini zorunlu tutma.",
+      "GIGA Kojima Tokyo|PC Shop Ark Akihabara|Dospara Akihabara|e-earphone Akihabara|Trader Main Store Akihabara"
+    ],
+    [
+      "2037-11-19",
+      "Perşembe",
+      "Tokyo / Asakusa ve Ueno",
+      "Sensoji, Ueno Park ve Takeya",
+      "08.30 Sensoji; 09.30 Nakamise/Sumida kısa yürüyüş; 11.00 Ueno Park; 12.00 öğle; 13.15 Takeya; 15.00 Ameyoko; 16.30 serbest",
+      "Asakusa–Ueno Ginza hattı; Ueno–Okachimachi yürüyüş. T13 alışverişi geziyle aynı bölgede.",
+      "08.30–17.30; gezi ve alışveriş dengeli",
+      "Müze eklenirse Takeya/Ameyoko süresini kısalt. Saatte Rinku'daki aynı model koduyla kıyasla.",
+      "Senso-ji Tokyo|Ueno Park|Takeya 3 Okachimachi Tokyo|Ameyoko Tokyo"
+    ],
+    [
+      "2037-11-20",
+      "Cuma",
+      "Gotemba veya Tokyo",
+      "Gotemba isteğe bağlı; kamera/Nakano alternatifi",
+      "Gotemba: rezervasyonuna göre sabah otobüsü, 10.00–16.00 outlet. Gitmezsen 10.00 Kitamura, 11.30 Map Camera, 14.00 Fujiya, 15.00 Nakano Broadway.",
+      "Gotemba T15 tam gün. Alternatifte Shinjuku–Nakano JR; T09–T08–T10–T11. Aynı gün iki seçenek birden yapılmaz.",
+      "Outlet: tam gün. Tokyo alternatifi: 10.00–17.00",
+      "Rinku yeterliyse benim tercihim kamera/Nakano alternatifi. Böylece 22 Kasım Oi sonrası serbest kalır. Black Friday 20–29 Kasım.",
+      "Gotemba Premium Outlets"
+    ],
+    [
+      "2037-11-21",
+      "Cumartesi",
+      "Tokyo / Shinjuku, Harajuku ve Shibuya",
+      "Bit pazarı, Meiji Jingu ve Shibuya",
+      "09.00–10.15 Shinjuku Central Park; 11.15 Meiji Jingu; 12.30 öğle; 13.30 Harajuku/2nd Street; 16.00 Hachiko/geçit; 17.00 Donki veya yemek",
+      "T18–Meiji–T12–Shibuya–T14. Semtler arası tren/metro. Meiji'yi kapanıştan önceye aldım.",
+      "09.00–19.00; pazarı çıkarırsan daha rahat",
+      "Meiji Jingu Kasım'da 16.10'da kapanır. Yağmurda bit pazarını çıkar. Shibuya Sky bileti plana dahil değil; istersen sonra eklenir.",
+      "Shinjuku Central Park|Meiji Jingu|2nd Street Harajuku|Hachiko Statue Shibuya|MEGA Don Quijote Shibuya"
+    ],
+    [
+      "2037-11-22",
+      "Pazar",
+      "Tokyo / Oi ve gerekirse Shinjuku-Nakano",
+      "Oi bit pazarı ve kamera için yedek",
+      "08.45–10.45 Oi; öğle ve ulaşım; kamera işi bitmediyse 12.30 Kitamura, 13.45 Map Camera; yalnız gerekirse 15.45 Fujiya/Nakano",
+      "T17. Sonra Shinjuku'ya 60–75 dk ulaşım/yemek payı. T09–T08; Nakano T10/T11 eklenirse tam gün.",
+      "08.45–17.30; 20'sinde kamera alındıysa öğleden sonra boş",
+      "Oi etkinliği 08.45–14.15. Kamerada en fazla iki uzman dükkân seç; üçü zorunlu değil. Yağmurda mağaza programına geç.",
+      "Oi Racecourse Tokyo City Flea Market"
+    ],
+    [
+      "2037-11-23",
+      "Pazartesi / tatil",
+      "Tokyo / Yurakucho ve Marunouchi",
+      "Oedo, Tokyo Garı çevresi ve dönüş hazırlığı",
+      "09.00–11.00 Oedo; 11.30 yemek; 12.30 Tokyo Garı Marunouchi dış cephe; 13.30 Ginza veya teslimat; 16.00 valiz/test",
+      "T16 ve çevresinde yürüyüş; alışveriş teslimi varsa geziyi kısalt.",
+      "09.00–17.00; son akşam boş",
+      "Ulusal tatil. Oedo yağmurda iptal olabilir. Oi'ye tekrar gitmeye gerek yok; cihaz sorununu dönüşten önce çöz.",
+      "Tokyo International Forum Oedo Antique Market|Tokyo Station Marunouchi|Ginza Tokyo"
+    ],
+    [
+      "2037-11-24",
+      "Salı",
+      "Tokyo → Haneda → İstanbul",
+      "Dönüş: Haneda 15.05",
+      "Otelden ~10.30 çıkış; Haneda Terminal 3’te önce tax-free iade terminali, sonra CZ0201 check-in. Guangzhou aktarması (19.20–00.50), 25 Kasım 07.10 İstanbul.",
+      "Örnek Otel Ueno → Okachimachi → Hamamatsucho → Tokyo Monorail ile Haneda T3 kapıdan kapıya ~40–50 dk.",
+      "08.30–15.05",
+      "Haneda’da kalkıştan en az 3 saat önce ol (tax-free iade + check-in). Sıvılar ve bıçak kayıtlı bagaja; powerbank kabinde, en fazla 2.",
+      "Haneda Airport Terminal 3"
+    ]
+  ],
+  "storeDays": {
+    "O01": "15 Kasım",
+    "O02": "15 Kasım",
+    "O03": "15 Kasım",
+    "O04": "16 Kasım",
+    "O05": "16 Kasım",
+    "O06": "16 Kasım",
+    "O07": "16 Kasım",
+    "O08": "12 Kasım",
+    "O09": "14 Kasım isteğe bağlı",
+    "O10": "14 Kasım isteğe bağlı",
+    "O11": "15 Kasım alternatif; elektronik yerine",
+    "T01": "18 Kasım",
+    "T02": "18 Kasım ilk durak",
+    "T03": "18 Kasım",
+    "T04": "18 Kasım",
+    "T05": "18 Kasım",
+    "T06": "18 Kasım alternatif",
+    "T07": "18 Kasım veya 22 Kasım",
+    "T08": "20 Kasım alternatif / 22 Kasım",
+    "T09": "20 Kasım alternatif / 22 Kasım",
+    "T10": "20 Kasım alternatif / 22 Kasım",
+    "T11": "20 Kasım alternatif / 22 Kasım",
+    "T12": "21 Kasım",
+    "T13": "19 Kasım",
+    "T14": "21 Kasım",
+    "T15": "20 Kasım isteğe bağlı",
+    "T16": "23 Kasım",
+    "T17": "22 Kasım",
+    "T18": "21 Kasım isteğe bağlı"
+  },
+  "calendarNotes": {
+    "2037-11-14|Tokyo City Flea Market": "Osaka'dasınız; ana rotadan çıkarıldı.",
+    "2037-11-15|Tokyo City Flea Market": "Osaka'dasınız; ana rotadan çıkarıldı. Oi ziyareti 22 Kasım.",
+    "2037-11-21|Tokyo City Flea Market": "Shinjuku pazarının alternatifi. İki pazarı aynı güne sıkıştırma.",
+    "2037-11-22|Tokyo City Flea Market": "Ana Oi günü. Giriş ücretsiz, 08.45–14.15 özel saat; yağmur duyurusuna bak.",
+    "2037-11-23|Tokyo City Flea Market": "Oedo'nun alternatifi; Oi 22'sinde gezildiyse tekrar gerekmez.",
+    "2037-11-21|Shitennoji tapınak pazarı": "17 Kasım Osaka'dan ayrılıyorsunuz; bu pazar günlerinde Tokyo'dasınız. Ana rotada yok.",
+    "2037-11-21|Toji Kobo-ichi": "21 Kasım Tokyo'dasınız; ana rotada yok. Kyoto'ya geri dönmek önerilmedi."
+  },
+  "attractions": [
+    [
+      "G01",
+      "Osaka",
+      "Dotonbori ve Ebisu/Glico",
+      "9 Kasım akşam",
+      "45–60 dk",
+      "Açık alan; akşam ışıkları için önerildi",
+      0,
+      "Sokak yürüyüşü",
+      "Dotonbori, Chuo-ku, Osaka",
+      "https://www.japan.travel/en/in/walks-and-tours/in-kansai/",
+      "Örnek Otel otelinden yaklaşık 15–20 dk yürüyüş; konaklama bölgesi artık Shinsaibashi."
+    ],
+    [
+      "G02",
+      "Osaka",
+      "Hozenji Yokocho",
+      "9 Kasım akşam",
+      "30–45 dk",
+      "Sokak açık; işletme saatleri ayrı",
+      0,
+      "Sokak yürüyüşü",
+      "Hozenji Yokocho, Namba 1-chome, Chuo-ku, Osaka",
+      "https://www.osaka-info.jp/en/spot/hozenji-yokocho/",
+      "Dotonbori ile aynı akşam; Örnek Otel’e dönüş için 20–25 dk yürüme payı."
+    ],
+    [
+      "G03",
+      "Osaka",
+      "Kuromon Ichiba",
+      "15 Kasım 09.00",
+      "60 dk",
+      "Dükkâna göre değişir; sabah/öğle önerildi",
+      0,
+      "Pazar alanı; yiyecek ayrıca",
+      "Kuromon Ichiba Market, Nipponbashi, Osaka",
+      "https://osaka-info.jp/en/spot/gastronomy-kuromon/",
+      "Kahvaltı ve fiyat kıyası; bütün yiyecekler uygun fiyatlı sayılmaz."
+    ],
+    [
+      "G04",
+      "Osaka",
+      "Osaka Kalesi ve park",
+      "14 Kasım 09.00",
+      "2 saat",
+      "Kule 09.00–18.00, son giriş 17.30",
+      1200,
+      "Kale kulesi yetişkin; park gezisi ayrı/ücretsiz alanlar var",
+      "1-1 Osakajo, Chuo-ku, Osaka",
+      "https://www.osakacastle.net/guide/",
+      "Kuleye girmeden park ve dış cephe görülebilir."
+    ],
+    [
+      "G05",
+      "Osaka",
+      "Umeda Sky Building",
+      "14 Kasım 16.00",
+      "75–90 dk",
+      "09.30–22.30, son giriş 22.00",
+      2000,
+      "Standart yetişkin gözlem terası",
+      "1-1-88 Oyodonaka, Kita-ku, Osaka",
+      "https://www.skybldg.co.jp/observatory/information/",
+      "Hava açıksa gündüzden akşama geçiş için öneri; gün batımı dakikası garanti değil."
+    ],
+    [
+      "G06",
+      "Osaka",
+      "Shinsekai ve Tsutenkaku dışı",
+      "16 Kasım 10.00",
+      "60–75 dk",
+      "Sokak; mağaza saatleri ayrı",
+      0,
+      "Sokak/dış cephe; kule bileti hariç",
+      "Shinsekai, Ebisuhigashi, Naniwa-ku, Osaka",
+      "https://www.osaka-info.jp/en/spot/shinsekai/",
+      "Otaroad alışverişinden önce aynı bölge."
+    ],
+    [
+      "G07",
+      "Kyoto",
+      "Fushimi Inari Taisha",
+      "10 Kasım 08.30",
+      "75–90 dk",
+      "Açık alan; sabah erken ziyaret planı",
+      0,
+      "Tapınak alanı",
+      "68 Fukakusa Yabunouchi-cho, Fushimi-ku, Kyoto",
+      "https://inari.jp/en/access/",
+      "Alt torii hattı. Tam dağ zirvesi rotaya dahil değil."
+    ],
+    [
+      "G08",
+      "Kyoto",
+      "Kiyomizu-dera",
+      "10 Kasım 11.00",
+      "60–75 dk",
+      "06.00 açılış; normal kapanış 18.00",
+      null,
+      "Standart giriş tutarı alım öncesi teyit",
+      "1-294 Kiyomizu, Higashiyama-ku, Kyoto",
+      "https://www.kiyomizudera.or.jp/en/location/",
+      "2037 gece ziyareti 21–30 Kasım; sizin Kyoto günlerinize denk gelmiyor."
+    ],
+    [
+      "G09",
+      "Kyoto",
+      "Sannenzaka, Ninenzaka ve Yasaka/Gion",
+      "10 Kasım 13.15",
+      "2,5–3 saat",
+      "Sokak; dükkân/tapınak bölümleri ayrı",
+      0,
+      "Kamusal sokak yürüyüşü",
+      "Ninenzaka, Higashiyama-ku, Kyoto",
+      "https://kyoto.travel/en/areas/gion-kiyomizu/",
+      "Yasaka Pagoda dış cephe fotoğrafı. Özel sokak ve fotoğraf tabelalarına uy."
+    ],
+    [
+      "G10",
+      "Kyoto",
+      "Arashiyama bambu yolu ve Togetsukyo",
+      "13 Kasım 08.30",
+      "Bölge toplamı 2–3 saat",
+      "Açık alan; erken saat hedefi",
+      0,
+      "Bambu yolu ve köprü yürüyüşü",
+      "Arashiyama Bamboo Grove, Ukyo-ku, Kyoto",
+      "https://www.kyoto.travel/en/areas/saga-arashiyama/",
+      "Tenryuji bu bölge içinde ayrıca gezilecek."
+    ],
+    [
+      "G11",
+      "Kyoto",
+      "Tenryuji bahçesi",
+      "13 Kasım 09.15",
+      "45–60 dk",
+      "08.30–17.00, son giriş 16.50",
+      500,
+      "Yalnız bahçe; bina ve özel salonlar ayrıca",
+      "68 Saga Tenryuji Susukinobaba-cho, Ukyo-ku, Kyoto",
+      "https://www.tenryuji.com/en/visit/index.html",
+      "Bina ziyareti bahçe ücretine ek 300 JPY. Sabah özel 07.30 açılış 14 Kasım'da başlıyor; 13'üne uygulanmadı."
+    ],
+    [
+      "G12",
+      "Kyoto",
+      "Kinkakuji / Altın Köşk",
+      "13 Kasım 12.00",
+      "45–60 dk",
+      "09.00–17.00",
+      500,
+      "Genel yetişkin giriş",
+      "1 Kinkakuji-cho, Kita-ku, Kyoto",
+      "https://www.shokoku-ji.jp/en/kinkakuji/access/",
+      "Arashiyama'dan ulaşım gerektirir; yoğunlukta çıkarılacak ilk durak."
+    ],
+    [
+      "G13",
+      "Kyoto",
+      "Nishiki Market",
+      "13 Kasım 14.30",
+      "60–75 dk",
+      "Her dükkânın saati ayrı; gündüz git",
+      0,
+      "Pazar alanı; yiyecek ayrıca",
+      "Nishiki Market, Nakagyo-ku, Kyoto",
+      "https://www.kyoto-nishiki.or.jp/en/",
+      "Yiyeceği satın aldığın dükkânın önünde veya içinde tüket."
+    ],
+    [
+      "G14",
+      "Nara",
+      "Kofukuji çevresi",
+      "11 Kasım 09.15",
+      "30–45 dk",
+      "Ücretli salonlar 09.00–17.00",
+      0,
+      "Dış çevre; salonlar/müze dahil değil",
+      "48 Noboriojicho, Nara",
+      "https://www.visitnara.jp/venues/A00486/",
+      "İstasyondan park rotasına başlangıç. İç salon isteyen ayrıca bilet alır."
+    ],
+    [
+      "G15",
+      "Nara",
+      "Nara Park",
+      "11 Kasım 10.00",
+      "45–60 dk ve ara geçişler",
+      "Açık park; gündüz önerildi",
+      0,
+      "Park alanı",
+      "Nara Park, Nara",
+      "https://www.kintetsu.co.jp/foreign/english/sightseeing/nara/",
+      "Geyiklerle mesafe bırak; parkı kısa bir fotoğraf noktası gibi planlama."
+    ],
+    [
+      "G16",
+      "Nara",
+      "Todaiji Büyük Buda Salonu",
+      "11 Kasım 10.45",
+      "60–75 dk",
+      "Kasım–mart 08.00–17.00",
+      800,
+      "Yetişkin Büyük Buda Salonu; müze dahil değil",
+      "406-1 Zoshicho, Nara",
+      "https://www.todaiji.or.jp/en/information/haikan/",
+      "Kintetsu-Nara'dan yaklaşık 20 dk yürüyüş. Kasuga'ya giderken park içi yol."
+    ],
+    [
+      "G17",
+      "Nara",
+      "Kasuga Taisha",
+      "11 Kasım 13.30",
+      "60–75 dk",
+      "Kasım genel 07.00–17.00; özel iç ziyaret 09.00–16.00",
+      700,
+      "İsteğe bağlı özel iç ziyaret; dış ziyaret ayrı",
+      "160 Kasugano-cho, Nara",
+      "https://www.kasugataisha.or.jp/en/about_en/basic/",
+      "Ayın 11'inde özel iç ziyaret 09.00–12.00 kapalı; bu yüzden öğleden sonra."
+    ],
+    [
+      "G18",
+      "Tokyo",
+      "Sensoji ve Nakamise",
+      "19 Kasım 08.30",
+      "90–120 dk",
+      "Ana salon ekim–mart 06.30–17.00; dükkânlar ayrı",
+      0,
+      "Ana tapınak ve sokak alanı",
+      "2-3-1 Asakusa, Taito-ku, Tokyo",
+      "https://www.senso-ji.jp/english/",
+      "Nakamise dükkânları erken saatte henüz açık olmayabilir; önce tapınak, sonra sokak."
+    ],
+    [
+      "G19",
+      "Tokyo",
+      "Ueno Park ve Ameyoko",
+      "19 Kasım 11.00 / 15.00",
+      "Park 60 dk; Ameyoko 60–90 dk",
+      "Park 05.00–23.00; mağazalar ayrı",
+      0,
+      "Park ve sokak; müze/hayvanat bahçesi hariç",
+      "5-20 Uenokoen, Taito-ku, Tokyo",
+      "https://www.gotokyo.org/en/spot/482/index.html",
+      "Takeya'yı bu iki yürüyüşün arasına koydum."
+    ],
+    [
+      "G20",
+      "Tokyo",
+      "Meiji Jingu",
+      "21 Kasım 11.15",
+      "60–75 dk",
+      "Kasım 06.10–16.10",
+      0,
+      "Ana tapınak alanı; müze/bahçe hariç",
+      "1-1 Yoyogi Kamizono-cho, Shibuya-ku, Tokyo",
+      "https://www.meijijingu.or.jp/en/visit/",
+      "Harajuku alışverişinden önce. Sonraki akşama bırakma."
+    ],
+    [
+      "G21",
+      "Tokyo",
+      "Hachiko ve Shibuya geçidi",
+      "21 Kasım 16.00",
+      "45–60 dk",
+      "Açık sokak alanı",
+      0,
+      "Sokak ve heykel; Shibuya Sky hariç",
+      "2-1 Dogenzaka, Shibuya-ku, Tokyo",
+      "https://www.gotokyo.org/en/spot/86/",
+      "Harajuku sonrası. Geçitte fotoğraf için yolun ortasında durma."
+    ],
+    [
+      "G22",
+      "Tokyo",
+      "Tokyo Garı Marunouchi dış cephe",
+      "23 Kasım 12.30",
+      "45–60 dk",
+      "Dış cephe/sokak; tesisler ayrı",
+      0,
+      "Dış alan",
+      "Tokyo Station Marunouchi, Chiyoda-ku, Tokyo",
+      "https://www.gotokyo.org/en/destinations/central-tokyo/tokyo-station-and-marunouchi/",
+      "Oedo'ya yakın yürüyüş; son gün yarım günlük hafif gezi."
+    ],
+    [
+      "G23",
+      "Osaka",
+      "Universal Studios Japan / Super Nintendo World",
+      "13 Kasım Kyoto 2 yerine alternatif",
+      "Tam gün",
+      "13 Kasım çalışma takvimi ve bilet stoğu alım öncesi kontrol",
+      null,
+      "Studio Pass gerekli; Express Pass ayrı ve giriş bileti yerine geçmez",
+      "Universal Studios Japan, Konohana-ku, Osaka",
+      "https://www.usj.co.jp/web/en/us/tickets/express-pass",
+      "Nintendo ilgine uygun ek seçenek. İki Kyoto gününe eklenmez; ikinci Kyoto gününün yerine seçilir. Nintendo alanı erişim koşullarını bilet alırken ayrıca kontrol et."
+    ]
+  ],
+  "hourly": {
+    "2037-11-09": [
+      [
+        "14:10",
+        "15:15",
+        "Varış",
+        "Kansai Havalimanı: pasaport, bagaj, gümrük",
+        "CZ0102 iniş 14.10",
+        "Visit Japan Web QR kodları hazır. ICOCA’yı JR gişesinden, rapi:t biletini Nankai gişesinden al.",
+        "Kansai International Airport Terminal 1"
+      ],
+      [
+        "15:15",
+        "16:15",
+        "Ulaşım",
+        "Kansai Havalimanı → Namba → Örnek Otel",
+        "Nankai rapi:t ~38 dk, sonra taksi ~10 dk",
+        "Rapi:t doluysa Nankai havalimanı ekspresi (ICOCA, ~45 dk).",
+        "Nankai Namba Station"
+      ],
+      [
+        "16:15",
+        "17:30",
+        "Konaklama",
+        "Örnek Otel Shinsaibashi giriş ve dinlenme",
+        "Namba → Örnek Otel taksi ~10 dk",
+        "Valizi bırak, kısa dinlen; 17.30’da Dotonbori’ye yürü.",
+        "34.67787108,135.5024929"
+      ],
+      [
+        "18:00",
+        "18:45",
+        "Gezi",
+        "Dotonbori / Ebisu Köprüsü",
+        "Örnek Otel’ten 15–20 dk yürüyüş; 17.30 çıkış hedefi",
+        "Varış 14.10 olduğu için program uygun; çok yorgunsan yalnız yemeğe çık.",
+        "Dotonbori Glico Sign"
+      ],
+      [
+        "19:00",
+        "19:30",
+        "Gezi",
+        "Hozenji Yokocho",
+        "Yürüyüş 10–15 dk pay",
+        "Glico’dan kısa yürüyüş; otele dönüş 20–25 dk pay.",
+        "Hozenji Yokocho"
+      ],
+      [
+        "19:30",
+        "20:30",
+        "Yemek",
+        "Dotonbori akşam yemeği",
+        "Yürüyüş",
+        "Yemekten sonra Örnek Otel’e yaklaşık 20–25 dk yürüyüş. Geç varışta akşamı çıkar.",
+        "Dotonbori Osaka"
+      ]
+    ],
+    "2037-11-10": [
+      [
+        "07:00",
+        "08:30",
+        "Ulaşım",
+        "Örnek Otel → Fushimi Inari",
+        "Örnek Otel–Shinsaibashi yürüyüş; metro Yodoyabashi + Keihan",
+        "Kapıdan kapıya 90 dk pay; gerçek sefer değil.",
+        "Fushimi Inari Taisha"
+      ],
+      [
+        "08:30",
+        "10:00",
+        "Gezi",
+        "Fushimi Inari alt torii yolu",
+        "Alan içinde yürüyüş",
+        "Tam zirve tırmanışı yok.",
+        "Fushimi Inari Taisha"
+      ],
+      [
+        "10:00",
+        "11:00",
+        "Ulaşım",
+        "Fushimi → Kiyomizu",
+        "Keihan ile Kiyomizu-gojo; sonra yokuşlu yürüyüş",
+        "İstasyondan yaklaşık 25–35 dk yürüme payı.",
+        "Kiyomizu-dera"
+      ],
+      [
+        "11:00",
+        "12:15",
+        "Gezi",
+        "Kiyomizu-dera",
+        "Yürüyüş",
+        "Sabah geç girişte kuyruk olabilir.",
+        "Kiyomizu-dera"
+      ],
+      [
+        "12:15",
+        "13:15",
+        "Yemek",
+        "Higashiyama öğle molası",
+        "Kiyomizu çevresi",
+        "Bir saat dinlenme.",
+        "Sannenzaka Kyoto"
+      ],
+      [
+        "13:15",
+        "14:30",
+        "Gezi",
+        "Sannenzaka ve Ninenzaka",
+        "Yürüyüş",
+        "Yasaka Pagoda dış cephe; alışverişi küçük tut.",
+        "Ninenzaka Kyoto"
+      ],
+      [
+        "14:45",
+        "16:30",
+        "Gezi",
+        "Yasaka Shrine, Gion ve Shirakawa",
+        "Yürüyüş, aralarda dinlenme",
+        "Özel sokak/fotoğraf tabelalarına uy.",
+        "Gion Shirakawa Kyoto"
+      ],
+      [
+        "17:00",
+        "18:30",
+        "Ulaşım",
+        "Kyoto → Örnek Otel",
+        "Gion-shijo–Yodoyabashi Keihan; metro Shinsaibashi, otele yürüyüş",
+        "Dönüş saati hedef; sefer tabelasıyla doğrula.",
+        "34.67787108,135.5024929"
+      ]
+    ],
+    "2037-11-11": [
+      [
+        "07:50",
+        "09:15",
+        "Ulaşım",
+        "Örnek Otel → Kintetsu-Nara",
+        "Örnek Otel–Osaka-Namba/Kintetsu yürüyüş veya Shinsaibashi–Namba metro",
+        "Direkt tren yaklaşık 40 dk; otel çıkışından ilk durağa 85 dk pay.",
+        "Kintetsu Nara Station"
+      ],
+      [
+        "09:15",
+        "09:50",
+        "Gezi",
+        "Kofukuji dış çevresi",
+        "İstasyondan yürüyüş",
+        "İç müzeler dahil değil.",
+        "Kofukuji Temple Nara"
+      ],
+      [
+        "10:00",
+        "10:40",
+        "Gezi",
+        "Nara Park",
+        "Park yürüyüşü",
+        "Geyik ve fotoğraf molası.",
+        "Nara Park"
+      ],
+      [
+        "10:45",
+        "12:00",
+        "Gezi",
+        "Todaiji Büyük Buda",
+        "Yürüyüş",
+        "Ücretli salon için zaman ayrıldı.",
+        "Todaiji Temple Nara"
+      ],
+      [
+        "12:00",
+        "13:00",
+        "Yemek",
+        "Nara Park çevresinde öğle",
+        "Yakın çevre",
+        "Dinlenme ve kuyruk payı.",
+        "Nara Park"
+      ],
+      [
+        "13:00",
+        "13:30",
+        "Ulaşım",
+        "Todaiji → Kasuga Taisha",
+        "Park içinden yürüyüş",
+        "Yorulursan uygun yerel otobüs seç.",
+        "Kasuga Taisha"
+      ],
+      [
+        "13:30",
+        "14:45",
+        "Gezi",
+        "Kasuga Taisha",
+        "Yürüyüş",
+        "11 Kasım özel iç ziyaret sabah kapalı; öğleden sonraya kondu.",
+        "Kasuga Taisha"
+      ],
+      [
+        "15:00",
+        "15:50",
+        "Ulaşım",
+        "Park → Kintetsu-Nara",
+        "Yürüyüş ve kısa mola",
+        "Naramachi ayrı uzun tur olarak eklenmedi.",
+        "Kintetsu Nara Station"
+      ],
+      [
+        "16:00",
+        "17:15",
+        "Ulaşım",
+        "Nara → Örnek Otel",
+        "Kintetsu Osaka-Namba; Shinsaibashi metro veya otel yürüyüşü",
+        "Bu saat hedef; uygun direkt treni seç.",
+        "34.67787108,135.5024929"
+      ]
+    ],
+    "2037-11-12": [
+      [
+        "08:25",
+        "10:00",
+        "Ulaşım",
+        "Örnek Otel → Rinku",
+        "Örnek Otel–Shinsaibashi; metro Namba; Nankai Rinku Town ve yürüyüş",
+        "Havalimanından önce Rinku Town'da in.",
+        "Rinku Premium Outlets"
+      ],
+      [
+        "10:00",
+        "12:00",
+        "Alışveriş",
+        "ASICS / Onitsuka ve ayakkabı",
+        "Outlet içinde",
+        "Önce beden ve model kodu; iki marka yeter.",
+        "Rinku Premium Outlets"
+      ],
+      [
+        "12:00",
+        "13:00",
+        "Yemek",
+        "Outlet öğle molası",
+        "Outlet içinde",
+        "Poşet ve ayak dinlenmesi.",
+        "Rinku Premium Outlets"
+      ],
+      [
+        "13:00",
+        "14:30",
+        "Alışveriş",
+        "Casio / Citizen / Seiko",
+        "Outlet içinde",
+        "Aynı referans numarasını TR ve Takeya ile karşılaştır.",
+        "Rinku Premium Outlets"
+      ],
+      [
+        "14:30",
+        "16:00",
+        "Alışveriş",
+        "Gözlük, çanta ve eksikler",
+        "Outlet içinde",
+        "Teslim süresini sor; siparişi dönüş tarihine bağlama.",
+        "Rinku Premium Outlets"
+      ],
+      [
+        "16:30",
+        "18:00",
+        "Ulaşım",
+        "Rinku → Örnek Otel",
+        "Nankai Namba; metro Shinsaibashi, otele yürüyüş",
+        "Uygun trene göre saat değişir.",
+        "34.67787108,135.5024929"
+      ]
+    ],
+    "2037-11-13": [
+      [
+        "06:45",
+        "08:30",
+        "Ulaşım",
+        "Örnek Otel → Arashiyama",
+        "Örnek Otel–Shinsaibashi; metro Umeda; Hankyu Katsura aktarmalı Arashiyama",
+        "105 dk planlama payı; gerçek tren saati değil.",
+        "Arashiyama Bamboo Grove"
+      ],
+      [
+        "08:30",
+        "09:10",
+        "Gezi",
+        "Bambu yolu",
+        "Yürüyüş",
+        "Kalabalık artmadan kısa ana hat.",
+        "Arashiyama Bamboo Grove"
+      ],
+      [
+        "09:15",
+        "10:00",
+        "Gezi",
+        "Tenryuji bahçesi",
+        "Kısa yürüyüş",
+        "Bahçe odaklı; özel salon eklenmedi.",
+        "Tenryu-ji"
+      ],
+      [
+        "10:15",
+        "10:45",
+        "Gezi",
+        "Togetsukyo Köprüsü",
+        "Yürüyüş",
+        "Nehir ve kısa fotoğraf molası.",
+        "Togetsukyo Bridge"
+      ],
+      [
+        "10:45",
+        "12:00",
+        "Ulaşım",
+        "Arashiyama → Kinkakuji",
+        "Raylı sistem + otobüs; uygun rota o gün seçilir",
+        "60–75 dk pay. Taksi hızlandırabilir; ücret ayrıca.",
+        "Kinkaku-ji"
+      ],
+      [
+        "12:00",
+        "13:00",
+        "Gezi",
+        "Kinkakuji",
+        "Yürüyüş",
+        "Yorgunlukta bu durağı çıkar.",
+        "Kinkaku-ji"
+      ],
+      [
+        "13:00",
+        "14:30",
+        "Yemek / ulaşım",
+        "Öğle ve Nishiki'ye geçiş",
+        "Otobüs/metro veya uygun taksi",
+        "Yemek ve yol için toplam 90 dk.",
+        "Nishiki Market Kyoto"
+      ],
+      [
+        "14:30",
+        "15:45",
+        "Gezi",
+        "Nishiki Market",
+        "Yürüyüş",
+        "Dükkân saatleri ayrı; geceye bırakma.",
+        "Nishiki Market Kyoto"
+      ],
+      [
+        "16:00",
+        "18:00",
+        "Ulaşım",
+        "Kyoto → Örnek Otel",
+        "Kyoto-kawaramachi–Osaka-umeda Hankyu; metro Shinsaibashi, otele yürüyüş",
+        "Dönüş ve dinlenme payı.",
+        "34.67787108,135.5024929"
+      ]
+    ],
+    "2037-11-14": [
+      [
+        "08:15",
+        "09:00",
+        "Ulaşım",
+        "Örnek Otel → Osaka Kalesi",
+        "Örnek Otel–Shinsaibashi; Nagahori hattı Morinomiya; park içi yürüyüş",
+        "Toplam 45 dk pay; kale kapısına park içinden yürüyüş dahil.",
+        "Osaka Castle"
+      ],
+      [
+        "09:00",
+        "11:15",
+        "Gezi",
+        "Osaka Kalesi ve park",
+        "Yürüyüş",
+        "Kuleye giriş isteğe bağlı.",
+        "Osaka Castle"
+      ],
+      [
+        "11:15",
+        "12:00",
+        "Ulaşım",
+        "Kale → Umeda",
+        "Metro/JR",
+        "İstasyona park içinden yürüyüş dahil pay.",
+        "Osaka Umeda Station"
+      ],
+      [
+        "12:00",
+        "13:00",
+        "Yemek",
+        "Umeda öğle",
+        "İstasyon çevresi",
+        "Bir saat mola.",
+        "Osaka Umeda Station"
+      ],
+      [
+        "13:00",
+        "13:45",
+        "Alışveriş",
+        "JINS Hankyu Sanbangai",
+        "Umeda içinde yürüyüş",
+        "İhtiyaç yoksa alışverişi çıkar.",
+        "JINS Hankyu Sanbangai Osaka"
+      ],
+      [
+        "14:00",
+        "15:00",
+        "Alışveriş",
+        "Mandarake Umeda",
+        "Yürüyüş",
+        "Figür/kitap için ek şube.",
+        "Mandarake Umeda"
+      ],
+      [
+        "15:00",
+        "16:00",
+        "Mola / ulaşım",
+        "Kafe ve Sky Building'e yürüyüş",
+        "Yürüyüş",
+        "Gün ortası boşluğu; mağazalar uzayabilir.",
+        "Umeda Sky Building"
+      ],
+      [
+        "16:00",
+        "17:30",
+        "Gezi",
+        "Umeda Sky Building",
+        "Gözlem terası",
+        "Hava açıksa gir; gün batımı dakikası iddiası yok.",
+        "Umeda Sky Building"
+      ],
+      [
+        "18:00",
+        "19:00",
+        "Yemek / dönüş",
+        "Umeda yemeği ve Örnek Otel dönüşü",
+        "Midosuji ile Shinsaibashi, otele yürüyüş",
+        "Geceyi uzatmak isteğe bağlı.",
+        "34.67787108,135.5024929"
+      ],
+      [
+        "19:00",
+        "19:30",
+        "Alışveriş",
+        "Lawson: Gotemba otobüs bileti (Loppi)",
+        "Örnek Otel’e dönerken Shinsaibashi civarındaki Lawson/Ministop (24 saat açık olanlar var; Örnek Otel’e 5–10 dk)",
+        "Loppi: 各種サービス → 交通チケット（高速バス・航空チケット他） → 高速バスチケット新規購入… → 高速バス（今から選ぶ） → 高速バスネット → 東京→静岡, 11月20日, 東京駅八重洲南口 09:00 → 御殿場, 大人2; dönüş 御殿場 16:30 → 上野駅入谷口. Fişi 30 dk içinde kasada nakit öde. Olmazsa 15 Kasım tekrar dene; alınca Yapılacaklar’da A planını işaretle.",
+        "Lawson Shinsaibashi Osaka",
+        "loppi"
+      ]
+    ],
+    "2037-11-15": [
+      [
+        "08:20",
+        "09:00",
+        "Ulaşım",
+        "Örnek Otel → Kuromon",
+        "Yürüyüş 25–30 dk veya Nagahoribashi–Nippombashi metro",
+        "Kahvaltı öncesi otelden ulaşım için 40 dk pay.",
+        "Kuromon Ichiba Market Osaka"
+      ],
+      [
+        "09:00",
+        "10:00",
+        "Yemek / gezi",
+        "Kuromon kahvaltı",
+        "Kuromon içinde",
+        "Pazar günü bazı Kuromon tezgâhları kapalı; açık olanlardan seç. Daha dolu bir Kuromon için kahvaltıyı 16 Kasım sabahına al.",
+        "Kuromon Ichiba Market Osaka"
+      ],
+      [
+        "10:00",
+        "11:00",
+        "Mola / ulaşım",
+        "Nipponbashi'ye yürüyüş ve kafe",
+        "Yürüyüş",
+        "Mağazaların 11.00 açılışını bekleme payı.",
+        "e-earphone Osaka Nipponbashi"
+      ],
+      [
+        "11:00",
+        "12:00",
+        "Alışveriş",
+        "e☆earphone Osaka",
+        "O03",
+        "Kulakta deneme; ikinci el pil durumunu sor.",
+        "e-earphone Osaka Nipponbashi"
+      ],
+      [
+        "12:15",
+        "13:15",
+        "Alışveriş",
+        "PC1's",
+        "O01; kısa yürüyüş",
+        "GPU/CPU/RAM tekliflerini aynı model koduyla kaydet.",
+        "PC Ones Osaka"
+      ],
+      [
+        "13:30",
+        "14:15",
+        "Yemek",
+        "Nipponbashi öğle",
+        "Yakın çevre",
+        "Mağaza aralarında mola.",
+        "Nipponbashi Osaka"
+      ],
+      [
+        "14:30",
+        "15:30",
+        "Alışveriş",
+        "Dospara Namba",
+        "O02",
+        "En iyi toplam fiyatı önceki tekliflerle kıyasla.",
+        "Dospara Namba"
+      ],
+      [
+        "16:00",
+        "17:30",
+        "Test / dinlenme",
+        "Örnek Otel’e dönüş ve ürün kontrolü",
+        "Poşetlerle metro/taksi; hafifsen yürüyüş",
+        "Ağır poşetle yeni semte geçme.",
+        "34.67787108,135.5024929"
+      ],
+      [
+        "17:45",
+        "18:30",
+        "Alışveriş",
+        "Hands Shinsaibashi",
+        "Örnek Otel’ten 8–12 dk yürüyüş; O12",
+        "Tırnak makası, termos ve küçük Japon ev ürünleri. İhtiyaç yoksa çıkar.",
+        "Hands Shinsaibashi PARCO Osaka"
+      ],
+      [
+        "18:40",
+        "19:10",
+        "Alışveriş",
+        "Cocokarafine Shinsaibashi Honten",
+        "Hands’ten yaklaşık 8–12 dk yürüyüş; O14",
+        "Kozmetik ve kişisel bakım kıyası; sonra Örnek Otel’e 5–10 dk yürüyüş.",
+        "Cocokarafine Shinsaibashi 3-7-27 Minamisenba Osaka"
+      ]
+    ],
+    "2037-11-16": [
+      [
+        "09:30",
+        "10:00",
+        "Ulaşım",
+        "Örnek Otel → Shinsekai",
+        "Örnek Otel–Shinsaibashi; Midosuji Dobutsuenmae ve yürüyüş",
+        "Başlangıç konumuna göre seç.",
+        "Shinsekai Osaka"
+      ],
+      [
+        "10:00",
+        "11:00",
+        "Gezi",
+        "Shinsekai ve Tsutenkaku dışı",
+        "Yürüyüş",
+        "Kule bileti ve uzun kuyruk dahil değil.",
+        "Shinsekai Osaka"
+      ],
+      [
+        "11:30",
+        "12:15",
+        "Alışveriş",
+        "Super Potato Otaroad",
+        "O04; kuzeye yürüyüş",
+        "Koleksiyon fiyatı olabilir; Vita'yı diğerleriyle kıyasla.",
+        "Super Potato Otaroad"
+      ],
+      [
+        "12:30",
+        "13:10",
+        "Alışveriş",
+        "Jungle",
+        "O05",
+        "Figür ve kutu/eksik parça kontrolü.",
+        "Jungle Osaka Nipponbashi"
+      ],
+      [
+        "13:15",
+        "14:00",
+        "Yemek",
+        "Otaroad öğle",
+        "Yakın çevre",
+        "Mola.",
+        "Nipponbashi Osaka"
+      ],
+      [
+        "14:00",
+        "14:45",
+        "Alışveriş",
+        "Surugaya Main",
+        "O06",
+        "Vita ve oyunlar.",
+        "Surugaya Osaka Nipponbashi Main"
+      ],
+      [
+        "15:00",
+        "16:00",
+        "Alışveriş",
+        "Mandarake Grand Chaos",
+        "O07",
+        "Aynı figürü en az iki dükkânda karşılaştır.",
+        "Mandarake Grand Chaos"
+      ],
+      [
+        "16:15",
+        "17:00",
+        "Alışveriş",
+        "Ichimonji / Doguyasuji",
+        "Mandarake’den yaklaşık 10–15 dk yürüyüş; O13",
+        "Mutfak bıçağı, seramik, yemek çubuğu; bıçakta bakım ve paketleme sor.",
+        "Sakai Ichimonji Mitsuhide 14-8 Nambasennichimae Osaka"
+      ],
+      [
+        "17:15",
+        "18:30",
+        "Test / valiz",
+        "Örnek Otel Shinsaibashi oteli",
+        "Mağazalardan Örnek Otel’e metro/taksi veya yürüyüş",
+        "Ertesi gün şehir değişimi: test, fatura ve valiz.",
+        "34.67787108,135.5024929"
+      ],
+      [
+        "18:30",
+        "18:50",
+        "Ulaşım",
+        "Valizleri Yamato şubesinden Tokyo’ya gönder",
+        "Örnek Otel → Yamato Minamisenba 3-chome şubesi (Minamisenba 3-3-25) ~3 dk yürüyüş",
+        "Şube yalnız hafta içi 09.00–20.00 açık (cumartesi, pazar ve tatil kapalı); aynı gün gönderim için son kabul 19.00, o yüzden 18.30’da bırakın. Alıcı Örnek Otel Ueno; teslim 17 Kasım 18–20 seçin. Geç kalırsanız Yamato logolu FamilyMart/7-Eleven (180 boy üstünü almayabilir; ertesi gün çıkar).",
+        "34.676353,135.502899"
+      ],
+      [
+        "19:00",
+        "20:30",
+        "Yemek",
+        "Kisshokichi Kobe wagyu akşamı (IG)",
+        "Yamato şubesinden Nishi-Shinsaibashi’ye kısa yürüyüş",
+        "Son Osaka akşamı; videolarda öne çıkan helal sertifikalı A5 Kobe eti, şef önünüzde pişiriyor. Açık 11.30–22.00.",
+        "Kobe Beef Kisshokichi Nishishinsaibashi"
+      ]
+    ],
+    "2037-11-17": [
+      [
+        "10:00",
+        "11:00",
+        "Hazırlık / ulaşım",
+        "Otelden çıkış ve Shin-Osaka",
+        "Örnek Otel–Shinsaibashi yürüyüş; Midosuji ile Shin-Osaka",
+        "45–60 dk valiz/peron payı. Örnek saat; bilet belli olunca bütün gün kayacak.",
+        "Shin-Osaka Station"
+      ],
+      [
+        "11:00",
+        "12:00",
+        "Yemek / bekleme",
+        "Shin-Osaka öğle ve peron",
+        "İstasyon içinde",
+        "12.00 tren rezervasyonu yapılmış değildir.",
+        "Shin-Osaka Station"
+      ],
+      [
+        "12:00",
+        "15:30",
+        "Ulaşım",
+        "Shinkansen → Tokyo, otele geçiş",
+        "Tokyo İstasyonu → JR Yamanote/Keihin-Tohoku (Ueno yönü) Okachimachi ~6 dk → güney çıkışından otele ~5 dk",
+        "Giriş 15.00. Valizler takkyubin ile geldiyse resepsiyondan sor.",
+        "Örnek Otel Ueno"
+      ],
+      [
+        "17:30",
+        "19:00",
+        "Serbest",
+        "Ameyoko veya Akihabara akşam yürüyüşü",
+        "Otelden yürüyüş: Ameyoko ~8 dk, Akihabara ~10 dk",
+        "Bu gün uzak semte program yok; ertesi gün Akihabara olduğundan kısa tut.",
+        "Ameyoko Tokyo"
+      ]
+    ],
+    "2037-11-18": [
+      [
+        "10:00",
+        "10:45",
+        "Alışveriş",
+        "GIGA",
+        "T02; otelden yürüyüş ~15–20 dk (veya Oedo Ueno-okachimachi → Shin-okachimachi 1 durak)",
+        "Yalnız hafta içi; stok yoksa çıkar.",
+        "GIGA Kojima Tokyo"
+      ],
+      [
+        "11:30",
+        "12:15",
+        "Alışveriş",
+        "PCSHOP Ark",
+        "T01; yürüyüş için 45 dk boşluk",
+        "GPU ve diğer parçalar için son kıyas.",
+        "PC Shop Ark Akihabara"
+      ],
+      [
+        "12:30",
+        "13:15",
+        "Yemek",
+        "Akihabara öğle",
+        "Yakın çevre",
+        "Mola.",
+        "Akihabara Tokyo"
+      ],
+      [
+        "13:30",
+        "14:15",
+        "Alışveriş",
+        "Dospara Akihabara",
+        "T03",
+        "Osaka teklifleriyle kıyasla.",
+        "Dospara Akihabara"
+      ],
+      [
+        "14:30",
+        "15:30",
+        "Alışveriş",
+        "e☆earphone Akihabara",
+        "T04",
+        "Kulaklık deneme ve ikinci el katı.",
+        "e-earphone Akihabara"
+      ],
+      [
+        "16:00",
+        "17:15",
+        "Alışveriş",
+        "Trader veya Mandarake",
+        "T05 veya T07",
+        "Super Potato üçüncü zorunlu durak değil; bunun yerine seç.",
+        "Trader Main Store Akihabara"
+      ],
+      [
+        "17:30",
+        "18:30",
+        "Yemek / serbest",
+        "Akihabara akşam",
+        "Yakın çevre",
+        "Otel ~10 dk yürüyüş; alışverişi otele bırakıp tekrar çıkabilirsiniz.",
+        "Akihabara Tokyo"
+      ]
+    ],
+    "2037-11-19": [
+      [
+        "08:30",
+        "09:30",
+        "Gezi",
+        "Sensoji",
+        "Otelden 08.10 çıkış: Suehirocho G14 → Ginza hattı (Asakusa yönü) → Asakusa G19 ~10 dk; kapıdan kapıya ~25 dk",
+        "Önce tapınak; Nakamise dükkânları daha geç açılabilir.",
+        "Senso-ji Tokyo"
+      ],
+      [
+        "09:30",
+        "10:15",
+        "Gezi",
+        "Nakamise ve Asakusa kısa yürüyüş",
+        "Yürüyüş",
+        "Nehir tarafına kısa uzatma isteğe bağlı.",
+        "Nakamise Asakusa"
+      ],
+      [
+        "10:15",
+        "11:00",
+        "Ulaşım",
+        "Asakusa → Ueno",
+        "Ginza hattı ve yürüyüş",
+        "45 dk rahat geçiş payı.",
+        "Ueno Park"
+      ],
+      [
+        "11:00",
+        "12:00",
+        "Gezi",
+        "Ueno Park",
+        "Yürüyüş",
+        "Müzeler plana dahil değil.",
+        "Ueno Park"
+      ],
+      [
+        "12:00",
+        "13:00",
+        "Yemek",
+        "Ueno öğle",
+        "Yakın çevre",
+        "Mola.",
+        "Ueno Tokyo"
+      ],
+      [
+        "13:15",
+        "14:30",
+        "Alışveriş",
+        "Takeya TAKEYA3",
+        "T13; Okachimachi'ye yürüyüş",
+        "Saat, çanta ve gözlük için seçili katlar.",
+        "Takeya 3 Okachimachi Tokyo"
+      ],
+      [
+        "15:00",
+        "16:15",
+        "Gezi / alışveriş",
+        "Ameyoko",
+        "Yürüyüş",
+        "Dükkânların çoğu ~10.00–19.00/20.00 (her dükkân farklı); fiyat karşılaştır. Otele ~8 dk; yanındaki 2k540 zanaat çarşısı 19.00’a kadar.",
+        "Ameyoko Tokyo"
+      ],
+      [
+        "16:15",
+        "17:00",
+        "Alışveriş",
+        "Hard Off Ueno-Okachimachi (isteğe bağlı, IG)",
+        "Ameyoko’dan yürüyüş",
+        "İkinci el PC parçası, kamera, kulaklık, retro konsol; hafta içi 11.00–21.00. 17.00’de Ootori Jinja’ya geçin (Tori-no-ichi 17.30).",
+        "Hard Off Ueno Okachimachi"
+      ],
+      [
+        "17:30",
+        "19:30",
+        "Gezi / etkinlik",
+        "Tori-no-ichi (Ootori Jinja, ni-no-tori)",
+        "Otelden: Naka-okachimachi H16 → Hibiya hattı (Kita-senju yönü) Iriya H18 ~4 dk, 3 numaralı çıkıştan ~7 dk; Ameyoko’dan otele uğrayıp çıkın",
+        "Yalnız 19 Kasım (2037’da iki tori günü: 7 ve 19 Kasım). 24 saat açık, akşam fener ve kumade (bereket tırmığı) tezgâhlarıyla en canlı hali; çok kalabalık. Satın almak zorunlu değil.",
+        "Otori Jinja Asakusa"
+      ]
+    ],
+    "2037-11-20": [
+      [
+        "08:25",
+        "10:40",
+        "Ulaşım",
+        "Gotemba otobüsü (Tokyo İstasyonu, JR)",
+        "08.25 otelden çık → JR Okachimachi → Tokyo ~6 dk → Yaesu Güney çıkışı JR Highway Bus Terminal; 09.00 JR Bus (11 numaralı sefer) → Gotemba 10.40",
+        "Bilet: A planı 14–15 Kasım Osaka Lawson Loppi; B planı 17 Kasım Tokyo İst. JR Bus gişesi; C planı aynı sabah Busta Shinjuku (07.40 çıkış). 08.00/08.30 seferleri 30 Ekim’de doluydu. Fuji için sağ (C–D) cam kenarı.",
+        "Tokyo Station Yaesu South Exit Highway Bus Terminal"
+      ],
+      [
+        "10:40",
+        "12:00",
+        "Alışveriş",
+        "Gotemba ayakkabı/dış giyim",
+        "Outlet içinde",
+        "Yalnız Rinku'da eksik kalanlar.",
+        "Gotemba Premium Outlets"
+      ],
+      [
+        "12:00",
+        "13:00",
+        "Yemek",
+        "Outlet öğle",
+        "Outlet içinde",
+        "Mola.",
+        "Gotemba Premium Outlets"
+      ],
+      [
+        "13:00",
+        "16:00",
+        "Alışveriş",
+        "Gotemba saat/çanta ve eksikler",
+        "Outlet içinde",
+        "Kamera/Nakano alternatifiyle aynı gün yapılmaz.",
+        "Gotemba Premium Outlets"
+      ],
+      [
+        "16:30",
+        "19:00",
+        "Ulaşım",
+        "Tokyo’ya dönüş",
+        "JR Bus 16.30 (8 numaralı sefer): Tokyo Nihombashi çıkışı ~18.10, Ueno Iriya çıkışı ~18.35; Ueno’dan otele ~15 dk yürüyüş ya da Ginza hattı 2 durak",
+        "Ueno’ya inen tek sefer bu. Yedek: 17.30 → Tokyo ~19.10 (bazı geç seferler yalnız hafta sonu). Dönüşü gidişle birlikte alın; trafikte gecikir.",
+        "Ueno Station Iriya Exit"
+      ]
+    ],
+    "2037-11-21": [
+      [
+        "09:00",
+        "10:15",
+        "Bit pazarı",
+        "Shinjuku Central Park MOTTAINAI",
+        "T18; otelden 08.25 çıkış: Ueno-okachimachi E09 → Oedo hattı (Tochomae yönü, aktarmasız) → Tochomae E28 ~25 dk",
+        "Yağmurda çıkar. Pazarın tamamı 09.00–15.00.",
+        "Shinjuku Central Park"
+      ],
+      [
+        "10:15",
+        "11:15",
+        "Ulaşım",
+        "Shinjuku → Meiji Jingu",
+        "Tren/metro ve girişten yürüyüş",
+        "Tapınak içindeki yürüyüş de zaman alır.",
+        "Meiji Jingu"
+      ],
+      [
+        "11:15",
+        "12:15",
+        "Gezi",
+        "Meiji Jingu",
+        "Orman yolu ve ana alan",
+        "Kasım hafta sonu Shichi-Go-San aileleriyle kalabalık; mümkünse erken git. Kapanış ~16.10.",
+        "Meiji Jingu"
+      ],
+      [
+        "12:30",
+        "13:30",
+        "Yemek",
+        "Harajuku öğle",
+        "Yakın çevre",
+        "Mola.",
+        "Harajuku Tokyo"
+      ],
+      [
+        "13:30",
+        "15:00",
+        "Gezi / alışveriş",
+        "Harajuku ve 2nd Street",
+        "T12; yürüyüş",
+        "Hafta sonu kalabalığına pay.",
+        "2nd Street Harajuku"
+      ],
+      [
+        "15:00",
+        "16:00",
+        "Ulaşım / mola",
+        "Harajuku → Shibuya",
+        "JR veya yürüyüş; kafe payı",
+        "Yorgunluk varsa tren.",
+        "Shibuya Station"
+      ],
+      [
+        "16:00",
+        "17:00",
+        "Gezi",
+        "Hachiko ve Shibuya geçidi",
+        "Yürüyüş",
+        "Shibuya Sky bileti dahil değil.",
+        "Hachiko Statue Shibuya"
+      ],
+      [
+        "17:00",
+        "19:00",
+        "Alışveriş / yemek",
+        "Donki veya akşam yemeği",
+        "T14",
+        "Dönüş: Shibuya → Ginza hattı (Asakusa yönü) → Suehirocho G14 aktarmasız ~30 dk.",
+        "MEGA Don Quijote Shibuya"
+      ]
+    ],
+    "2037-11-22": [
+      [
+        "08:45",
+        "10:45",
+        "Bit pazarı",
+        "Tokyo City Flea Market / Oi",
+        "T17; otelden 08.00 çıkış: Okachimachi → JR Keihin-Tohoku/Yamanote (Shinagawa yönü) Hamamatsucho ~12 dk → Monorail Local → Oi Keibajo-mae",
+        "Etkinliğin doğrulanan tam saati 08.45–14.15.",
+        "Oi Racecourse Tokyo City Flea Market"
+      ],
+      [
+        "10:45",
+        "12:30",
+        "Ulaşım / yemek",
+        "Oi → Shinjuku",
+        "Monoray/JR ve yemek",
+        "Kamera işi 20'sinde bittiyse buradan sonrası serbest.",
+        "Shinjuku Station"
+      ],
+      [
+        "12:30",
+        "13:30",
+        "Alışveriş",
+        "Kitamura Camera",
+        "T09; ihtiyaç varsa",
+        "Kamerada lens dahil 5–10 bin TL; garanti/tax-free koşulunu sor.",
+        "Shinjuku Kitamura Camera"
+      ],
+      [
+        "13:45",
+        "14:45",
+        "Alışveriş",
+        "Map Camera",
+        "T08; ihtiyaç varsa",
+        "İki kamera dükkânından sonra karar ver.",
+        "Map Camera Shinjuku"
+      ],
+      [
+        "14:45",
+        "15:45",
+        "Ulaşım / mola",
+        "Nakano'ya geçiş",
+        "JR ve mola; yalnız gerekirse",
+        "Kamera alındıysa bu uzatmayı çıkar.",
+        "Nakano Station Tokyo"
+      ],
+      [
+        "15:45",
+        "17:30",
+        "Alışveriş",
+        "Fujiya Camera veya Mandarake Nakano",
+        "T10 veya T11",
+        "İkisini zorunlu tutma. Dönüş: Nakano → JR Chuo-Sobu (Chiba yönü) Akihabara ~30 dk, otele ~10 dk.",
+        "Fujiya Camera Nakano"
+      ],
+      [
+        "18:00",
+        "19:30",
+        "Yemek",
+        "Omoide Yokocho akşam yemeği (IG)",
+        "Nakano → JR Chuo hızlı Shinjuku ~5 dk, Batı çıkışı",
+        "Dar sokakta yakitori tezgâhları; pazar akşamı çoğu açık (Golden Gai barlarının çoğu kapalı). Otele: Shinjuku → JR Chuo-Sobu Akihabara, Okachimachi’ye ~25 dk.",
+        "Omoide Yokocho Shinjuku"
+      ]
+    ],
+    "2037-11-23": [
+      [
+        "09:00",
+        "11:00",
+        "Bit pazarı",
+        "Oedo Antique Market",
+        "T16; otelden 08.35 çıkış: Okachimachi → JR Yurakucho ~8 dk, Forum’a ~2 dk",
+        "Etkinlik 09.00–16.00; yağmurda iptal olabilir.",
+        "Tokyo International Forum Oedo Antique Market"
+      ],
+      [
+        "11:30",
+        "12:30",
+        "Yemek",
+        "Yurakucho/Marunouchi öğle",
+        "Yürüyüş",
+        "Tatil kalabalığına pay.",
+        "Yurakucho Tokyo"
+      ],
+      [
+        "12:30",
+        "13:15",
+        "Gezi",
+        "Tokyo Garı Marunouchi dış cephe",
+        "Yürüyüş",
+        "Hafif son gün fotoğraf yürüyüşü.",
+        "Tokyo Station Marunouchi"
+      ],
+      [
+        "13:30",
+        "15:00",
+        "Serbest / teslimat",
+        "Ginza veya alışveriş teslimatı",
+        "Yürüyüş/metro",
+        "Teslimat varsa geziyi çıkar.",
+        "Ginza Tokyo"
+      ],
+      [
+        "16:00",
+        "18:00",
+        "Test / valiz",
+        "Otel ve dönüş hazırlığı",
+        "Ginza → Ginza hattı Suehirocho ~12 dk, otel ~2 dk",
+        "Son akşamı yeni büyük alıma ayırma; 24’ü 10.00 çıkış.",
+        "Örnek Otel Ueno"
+      ]
+    ],
+    "2037-11-24": [
+      [
+        "08:00",
+        "10:00",
+        "Hazırlık",
+        "Valiz son kontrol ve otelden çıkış",
+        "—",
+        "Tax-free ürünler ve faturalar el altında (gümrük isteyebilir). Bıçak ve sıvılar kayıtlı bagaja.",
+        "Tokyo"
+      ],
+      [
+        "10:00",
+        "10:50",
+        "Ulaşım",
+        "Otel → Haneda Terminal 3",
+        "Okachimachi → JR Keihin-Tohoku/Yamanote Hamamatsucho ~12 dk → Tokyo Monorail Haneda Express, Terminal 3 ~13 dk; kapıdan kapıya ~40–50 dk",
+        "Monoray ~13 dk, ~¥519 IC. Yedek: Ginza hattı Shimbashi → Toei Asakusa hattı Haneda’ya direkt, ya da Shinagawa → Keikyu. Aksama varsa 15 dk erken çık.",
+        "Haneda Airport Terminal 3"
+      ],
+      [
+        "11:00",
+        "12:15",
+        "Havalimanı",
+        "Önce valiz (Airport TA-Q-BIN) teslim al, sonra tax-free iade kiosku",
+        "Check-in’den önce",
+        "Gümrük kontrolü BAGAJ TESLİMİNDEN ÖNCE yapılmalı, sonra yapılamaz. Tax-free ürünler ve fişler elde/kolay açılan çantada; fişteki bir ürün eksikse o fişin iadesi yapılmaz.",
+        "Haneda Airport Terminal 3"
+      ],
+      [
+        "12:15",
+        "13:15",
+        "Havalimanı",
+        "CZ0201 check-in, güvenlik, pasaport",
+        "Bagaj İstanbul’a kadar etiketli mi kontrol et",
+        "Powerbank kabinde, en fazla 2, uçuşta kullanılmaz.",
+        "Haneda Airport Terminal 3"
+      ],
+      [
+        "13:15",
+        "15:05",
+        "Uçuş",
+        "Kapı ve kalkış: Haneda 15.05 → Guangzhou",
+        "Biniş ~14.35",
+        "Duty-free’den 100 ml üstü sıvı alma: Guangzhou aktarma güvenliğinde el konabilir.",
+        "Haneda Airport Terminal 3"
+      ]
+    ]
+  },
+  "alternatives": {
+    "2037-11-13": "Kyoto tek gün olacaksa 10 Kasım Fushimi–Kiyomizu–Gion ana rotasını koru. Bugün Osaka'da serbest/yağmur yedeği veya tam gün Universal Studios Japan seçilebilir. USJ'yi ikinci Kyoto gününe ekleme; onun yerine seç. Studio Pass ve Super Nintendo World erişim koşullarını önceden kontrol et; fiyat ve park saati bu plan için henüz doğrulanmadı.",
+    "2037-11-20": "Gotemba yerine önerim: 10.00–11.00 Kitamura → 11.30–12.30 Map Camera → 12.30–13.30 öğle → 13.30–14.00 Nakano'ya tren → 14.00–15.00 Fujiya → 15.00–17.00 Nakano Broadway/Mandarake. En fazla iki kamera dükkânı seç; Fujiya'yı gerekirse çıkar. Bu seçenekle 22 Kasım Oi sonrası serbest kalır.",
+    "2037-11-21": "Bit pazarlarını bir güne indirmek istersen bugün Central Park'ı çıkar, 09.30 Meiji Jingu'dan başla. Oi pazarı 22 Kasım'da kalır.",
+    "2037-11-22": "Kamera ve Nakano 20 Kasım'da tamamlandıysa Oi sonrası öğleden sonrayı dinlenme/eksik alışveriş için boş bırak. Yağmurda Oi yerine doğrudan kamera programı."
+  },
+  "hotel": {
+    "name": "Örnek Otel Shinsaibashi / Örnek Otel Building",
+    "address": "Minamisenba, Chuo-ku, Osaka",
+    "mapQuery": "34.67787108,135.5024929",
+    "source": "https://www.city.osaka.lg.jp/kenko/cmsfiles/contents/0000382/382418/202603tokku.pdf",
+    "stationSource": "https://subway.osakametro.co.jp/en/station_guide/M/m19/map.php",
+    "note": "Adres Osaka Belediyesi Örnek Otel Building kaydından alındı. İstasyon ve yürüyüş süreleri konuma göre planlama tahminidir; rezervasyonun giriş talimatı esas alınır.",
+    "access": "Shinsaibashi M19/N15 yaklaşık 7–10 dk yürüyüş (Minamisemba tarafı, çıkış 1). Nagahoribashi K16/N16 yaklaşık 10–12 dk alternatif. Dotonbori/Glico yaklaşık 15–20 dk yürüyüş. Nankai Namba için yaklaşık 25–30 dk yürüyüş veya Shinsaibashi–Namba metro bağlantısı."
+  }
+}

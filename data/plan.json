@@ -1,0 +1,914 @@
+{
+  "note": "Günlük alışveriş ve alternatif eşleştirmesi. buy: [mustbuy id, o gün nereden]. alt: o gün için yedek/alternatif. Mağaza saatleri teyit edilmedi; alınmayan ürün sonraki uygun güne kayar.",
+  "days": {
+    "2037-11-09": {
+      "buy": [
+        [
+          "kitkat-bolgesel",
+          "Don Quijote Dotonbori (24 saat)"
+        ],
+        [
+          "kissme-maskara",
+          "Don Quijote Dotonbori"
+        ],
+        [
+          "kolajen",
+          "Don Quijote Dotonbori"
+        ],
+        [
+          "semsiye",
+          "Konbini (yağmur varsa)"
+        ],
+        [
+          "ayak-konbini",
+          "Konbini / Donki"
+        ],
+        [
+          "jagariko",
+          "Don Quijote / konbini"
+        ],
+        [
+          "kirpik-kivirici",
+          "Don Quijote Dotonbori"
+        ],
+        [
+          "kairo",
+          "Matsumoto Kiyoshi Dotonbori (ilk akşam, soğuğa karşı)"
+        ]
+      ],
+      "alt": [
+        "Uçuştan yorgun gelirseniz: yalnız Dotonbori ışıkları + Ichiran veya Mizuno, Hozenji'yi 16 Kasım'a bırakın.",
+        "Gece açık: Don Quijote Dotonbori 24 saat; ilk alışverişi burada yapıp fiyat görün.",
+        "Akşam: otelin hemen yanındaki Midosuji ışıklandırması (3 Kasım’dan itibaren, ~17.00’den sonra) — Osaka akşamlarında yürüyüş için."
+      ],
+      "stamp": {
+        "eki": [
+          "JR Kansai-Airport istasyonu",
+          "Nankai Namba istasyonu"
+        ],
+        "goshuin": [
+          "Hozenji (Hozenji Yokocho)"
+        ]
+      },
+      "rain": "Shinsaibashi-suji ve Ebisubashi-suji kapalı çarşıları otelden çatı altında yürünür; Namba Walk yeraltı çarşısı ve Don Quijote Dotonbori.",
+      "meet": "Ebisu Köprüsü’ndeki Glico tabelasının karşısı (Dotonbori)"
+    },
+    "2037-11-10": {
+      "buy": [
+        [
+          "shichimi",
+          "Shichimiya Honpo, Sannenzaka"
+        ],
+        [
+          "omamori",
+          "Fushimi Inari / Yasaka"
+        ],
+        [
+          "wagashi",
+          "Sannenzaka–Gion arası"
+        ],
+        [
+          "ayna-yelpaze-toka",
+          "Gion/Higashiyama yelpaze dükkânları"
+        ],
+        [
+          "cay-kyoto",
+          "Higashiyama çay dükkânları"
+        ],
+        [
+          "seramik",
+          "Gojozaka (Kiyomizu-yaki dükkânları)"
+        ]
+      ],
+      "alt": [
+        "Fushimi Inari çok kalabalıksa: Yotsutsuji kavşağına kadar çıkın, zirveyi atlayın (1 saat kazanç).",
+        "Akşam enerji varsa: Gion Shirakawa'da gün batımı, sonra Pontocho'da yemek.",
+        "Yapraklar: 2037 tahminine göre Kyoto’da zirve ~23–24 Kasım; bu tarihte kısmi renk beklenir. Günleri kaydırmak hafta sonu ve Shichi-Go-San kalabalığına denk getirdiği için önerilmedi.",
+        "IG: Yukou wagyu ramen (Kiyomizu yolu) — Higashiyama öğle molası olarak, 11.00–20.30.",
+        "IG: Snoopy Chocolat Kiyomizuzaka — Sannenzaka yürüyüşünde Kyoto’ya özel hediyelik, 09.30–17.30."
+      ],
+      "stamp": {
+        "eki": [
+          "JR Inari / Keihan Fushimi-Inari istasyonu",
+          "Keihan Kiyomizu-Gojo istasyonu"
+        ],
+        "goshuin": [
+          "Fushimi Inari Taisha",
+          "Kiyomizu-dera",
+          "Yasaka Jinja"
+        ]
+      },
+      "rain": "Fushimi Inari’de yalnız alt torii yolu (taşlar kaygan, zirveye çıkma); Kiyomizu yerine Sanjusangendo (kapalı salon); öğleden sonra Nishiki Market ve Teramachi/Shin-Kyogoku kapalı çarşıları.",
+      "meet": "Sabah Fushimi Inari ana kapısı (Rōmon); öğleden sonra Yasaka Jinja ana kapısı"
+    },
+    "2037-11-11": {
+      "buy": [
+        [
+          "omamori",
+          "Kasuga Taisha / Todaiji"
+        ],
+        [
+          "wagashi",
+          "Nakatanidou (yomogi mochi)"
+        ],
+        [
+          "tenugui",
+          "Naramachi dükkânları"
+        ],
+        [
+          "chopstick",
+          "Naramachi el sanatları"
+        ]
+      ],
+      "alt": [
+        "Geyik kraker (shika senbei) yalnız resmî satıcıdan; kâğıt ve poşeti geyiğe göstermeyin.",
+        "Erken biterse: Horyuji (UNESCO, dünyanın en eski ahşap yapıları), Nara'dan otobüsle ~1 saat."
+      ],
+      "stamp": {
+        "eki": [
+          "Kintetsu Nara istasyonu",
+          "JR Nara istasyonu"
+        ],
+        "goshuin": [
+          "Todaiji",
+          "Kofukuji",
+          "Kasuga Taisha"
+        ]
+      },
+      "rain": "Todaiji Büyük Buda Salonu ve Kofukuji Ulusal Hazine Salonu kapalı; Nara Ulusal Müzesi; Kasuga yolu ve uzun park yürüyüşünü kısaltın.",
+      "meet": "Kintetsu Nara İstasyonu önündeki Gyoki heykeli (yerel buluşma noktası)"
+    },
+    "2037-11-12": {
+      "buy": [
+        [
+          "spor-babet",
+          "Asics / Onitsuka / Nike outlet"
+        ],
+        [
+          "asics-onitsuka",
+          "Asics ve Onitsuka Tiger outlet"
+        ],
+        [
+          "mont-kaban",
+          "The North Face / Columbia outlet"
+        ],
+        [
+          "sirt-cantasi",
+          "Outlet çanta mağazaları"
+        ],
+        [
+          "marka-cuzdan",
+          "Coach / Kate Spade outlet"
+        ],
+        [
+          "esofman",
+          "Adidas / Puma / Nike outlet"
+        ],
+        [
+          "kol-saati",
+          "Casio / Citizen / Seiko outlet"
+        ],
+        [
+          "gunes-gozlugu",
+          "Outlet gözlük mağazaları"
+        ]
+      ],
+      "alt": [
+        "Outlet hayal kırıklığı olursa: dönüşte Namba Parks / Namba City (aynı hat üzerinde).",
+        "Önce Outlet Info Center'dan kupon kitapçığı alın (pasaportla).",
+        "Yorgunsanız: öğleden sonrayı Shinsaibashi'de Uniqlo/GU'ya ayırın."
+      ],
+      "stamp": {
+        "eki": [
+          "Rinku Town istasyonu (JR / Nankai)"
+        ],
+        "goshuin": []
+      },
+      "rain": "Outlet açık hava ve yağmurda yorucu: Namba Parks/Namba City ya da Umeda (Hankyu, Lucua, Grand Front) tamamen kapalı alışveriş.",
+      "meet": "Rinku Premium Outlets bilgi merkezi"
+    },
+    "2037-11-13": {
+      "buy": [
+        [
+          "bicak",
+          "Aritsugu, Nishiki Market"
+        ],
+        [
+          "chopstick",
+          "Ichihara Heibei Shoten (Shijo)"
+        ],
+        [
+          "matcha-seti",
+          "Ippodo (Teramachi) veya Nishiki çay dükkânları"
+        ],
+        [
+          "kimono-al",
+          "Teramachi / Shin-Kyogoku ikinci el kimono"
+        ],
+        [
+          "tenugui",
+          "Nishiki ve Teramachi"
+        ],
+        [
+          "wagashi",
+          "Nishiki Market"
+        ],
+        [
+          "kanzashi",
+          "Kanzashiya Wargo, Nishiki Market"
+        ]
+      ],
+      "alt": [
+        "Kyoto yerine tam gün Universal Studios Japan (yalnız biri; Studio Pass'i önceden alın).",
+        "Kinkakuji'yi atlarsanız: Ginkakuji ve Felsefe Yolu (daha sakin).",
+        "Akşam yemeği için Kyoto İstasyonu karşısında Daiki Suisan döner bant suşi (Instagram önerisi).",
+        "Yapraklar: Arashiyama zirvesi 2037’da ~24 Kasım tahmin ediliyor; bugün kısmi renk. Eikando ışıklandırması 20 Kasım’da başlıyor (programa denk gelmiyor)."
+      ],
+      "stamp": {
+        "eki": [
+          "JR Saga-Arashiyama istasyonu",
+          "Kyoto İstasyonu"
+        ],
+        "goshuin": [
+          "Tenryuji",
+          "Kinkakuji"
+        ]
+      },
+      "rain": "Arashiyama ve Kinkakuji yerine Nishiki Market + Teramachi kapalı çarşıları, Sanjusangendo ve Kyoto İstasyonu binası; Ippodo ve Aritsugu alışverişi aynı bölgede.",
+      "meet": "Sabah Togetsukyo Köprüsü’nün kuzey ucu; öğleden sonra Nishiki Market’in Teramachi girişi"
+    },
+    "2037-11-14": {
+      "buy": [
+        [
+          "jins-gozluk",
+          "JINS Hankyu Sanbangai (numara için erken git)"
+        ],
+        [
+          "anime-figur",
+          "Mandarake Umeda"
+        ],
+        [
+          "kamera",
+          "Yodobashi Umeda (kıyas için)"
+        ],
+        [
+          "mouse",
+          "Yodobashi Umeda"
+        ],
+        [
+          "trenckot",
+          "Hankyu / Lucua / Grand Front"
+        ],
+        [
+          "ysl-ruj",
+          "Hankyu Umeda kozmetik katı (gravür sor)"
+        ],
+        [
+          "inzone-buds",
+          "Yodobashi Umeda (oyun kulaklığı reyonu; tax-free için pasaport)"
+        ],
+        [
+          "instax-film",
+          "Yodobashi Umeda (kamera katı; birkaç kutu)"
+        ]
+      ],
+      "alt": [
+        "Akşam Lawson Loppi: 20 Kasım Gotemba JR otobüs bileti (gidiş 09.00 Tokyo İst., dönüş 16.30 → Ueno), nakit.",
+        "Umeda Sky Building yerine ücretsiz: Tenku no Noen (Osaka Station City 14. kat).",
+        "Akşam: Kuchu Teien'de gün batımı ~16.50; bilete 30 dk önce gidin.",
+        "IG: Hanadako takoyaki (Shin-Umeda Shokudogai) — Sky Building yolunda atıştırma, 10.00–22.00.",
+        "IG: Snoopy Town Umeda (Hankyu Sanbangai) — JINS ile aynı yerde, 10.00–21.00."
+      ],
+      "stamp": {
+        "eki": [
+          "Osaka Kalesi Tenshukaku (anma damgası)",
+          "JR Osakajokoen / JR Osaka istasyonu"
+        ],
+        "goshuin": [
+          "Osaka Kalesi yanındaki Hokoku Jinja"
+        ]
+      },
+      "rain": "Osaka Kalesi’nde yalnız müze olan ana kule (içeride); Umeda yeraltı çarşıları ve Hankyu depachika; Umeda Sky’da görüş zayıfsa atlayın; Tenjinbashi-suji (Japonya’nın en uzun kapalı çarşısı).",
+      "meet": "Osaka Kalesi Ōte-mon kapısı; Umeda’da HEP FIVE kırmızı dönme dolabın girişi"
+    },
+    "2037-11-15": {
+      "buy": [
+        [
+          "pc",
+          "PC1's, Dospara Namba"
+        ],
+        [
+          "anime-figur",
+          "Den Den Town (Surugaya, Mandarake)"
+        ],
+        [
+          "agri-bantlari",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "regl-bandi",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "gunes-stick",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "melano",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "makyaj-cantasi",
+          "Hands Shinsaibashi"
+        ],
+        [
+          "sticker",
+          "Hands Shinsaibashi"
+        ],
+        [
+          "tirnak",
+          "Hands / Loft Shinsaibashi"
+        ],
+        [
+          "biore",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "megrhythm",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "salonpas",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "sunscreen-anessa",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "bacak-icecek",
+          "Cocokarafine eczacısı (kramp için sor)"
+        ],
+        [
+          "pentel-graph",
+          "Hands Shinsaibashi"
+        ],
+        [
+          "haku-pola",
+          "Cocokarafine / Matsumoto Kiyoshi Shinsaibashi"
+        ],
+        [
+          "harenurse",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "roihi",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "matomage",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "melt",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "muji-furikake",
+          "MUJI Namba/Shinsaibashi"
+        ],
+        [
+          "derma-vc100",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "botanist",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "elixir-mist",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "elixir-toneup",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "repair-one",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "lip-monster",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "rosy-rosa",
+          "Hands / Loft Shinsaibashi"
+        ],
+        [
+          "regl-urunleri",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "hada-labo-goz",
+          "Cocokarafine Shinsaibashi"
+        ],
+        [
+          "ducato-parlatma",
+          "Loft / Donki Shinsaibashi"
+        ]
+      ],
+      "alt": [
+        "Gotemba bileti dün alınamadıysa: Lawson/Ministop Loppi’den bugün tekrar dene (erken bilet için son gün).",
+        "PC fiyatı Tokyo'dan yüksekse: yalnız fiyat not alın, 18 Kasım Akihabara'da kıyaslayın.",
+        "Kuromon pahalı gelirse: kahvaltıyı Nipponbashi'de konbini/kafe ile geçin.",
+        "Elektronik yerine: Hozenji + Namba Yasaka Jinja (aslan başı tapınak).",
+        "IG: Rikuro cheesecake (Namba) — Nipponbashi yürüyüşünde sıcak cheesecake, 09.00–20.00."
+      ],
+      "stamp": {
+        "eki": [
+          "Nankai Namba / Nipponbashi istasyonu"
+        ],
+        "goshuin": [
+          "Namba Yasaka Jinja"
+        ]
+      },
+      "rain": "Gün zaten kapalı mekânlarda (Kuromon çatılı, Nipponbashi mağazaları); değişiklik gerekmez, mağazalar arası kısa yolda şemsiye yeter.",
+      "meet": "Örnek Otel Shinsaibashi (otel) — gün otel çevresinde"
+    },
+    "2037-11-16": {
+      "buy": [
+        [
+          "retro",
+          "Super Potato Otaroad"
+        ],
+        [
+          "anime-figur",
+          "Surugaya Main, Mandarake Grand Chaos"
+        ],
+        [
+          "bicak",
+          "Sakai Ichimonji Mitsuhide / Doguyasuji"
+        ],
+        [
+          "bento",
+          "Doguyasuji mutfak sokağı"
+        ],
+        [
+          "uniqlo-polar",
+          "Uniqlo Shinsaibashi"
+        ],
+        [
+          "ic-camasiri",
+          "Uniqlo / GU Shinsaibashi"
+        ],
+        [
+          "siyah-nokta",
+          "3Coins Shinsaibashi"
+        ],
+        [
+          "bavul",
+          "Don Quijote / Hands (yarın kargo için bugün)"
+        ],
+        [
+          "uniqlo-airism",
+          "Uniqlo Shinsaibashi"
+        ],
+        [
+          "baharlik-ceket",
+          "Uniqlo / GU Shinsaibashi"
+        ],
+        [
+          "yagmurluk",
+          "Montbell Shinsaibashi / Workman"
+        ],
+        [
+          "gomlek",
+          "Uniqlo / GU Shinsaibashi"
+        ],
+        [
+          "atki",
+          "Uniqlo Shinsaibashi (otele yakın; soğuk olursa daha erken al)"
+        ],
+        [
+          "hirka",
+          "Uniqlo / Muji Shinsaibashi"
+        ]
+      ],
+      "alt": [
+        "Akşam 18.30’da valizleri Yamato Minamisenba 3-chome şubesinden (Örnek Otel’e 3 dk) Örnek Otel Ueno’ye gönderin, teslim 17 Kasım 18–20; bavul ihtiyacını bugün kapatın.",
+        "Shinsekai yerine: Spa World (onsen) veya Tsutenkaku içine çıkış.",
+        "Figür bütçesi dolduysa: Amerikamura ve Horie butikleri.",
+        "Kuromon kahvaltısı: 15 Kasım pazar günü bazı tezgâhlar kapalı olduğu için bu sabah Kuromon’a uğramak daha iyi (otelden ~25 dk yürüyüş).",
+        "IG: Shitennoji — Shinsekai’den 20–30 dk; Otaroad’u kısaltırsanız, 08.30–16.00."
+      ],
+      "stamp": {
+        "eki": [
+          "Tsutenkaku (anma damgası)",
+          "Dobutsuen-mae / Shin-Imamiya istasyonu"
+        ],
+        "goshuin": []
+      },
+      "rain": "Shinsekai’yi kısaltın; Spa World (kapalı onsen) ya da Tsutenkaku içi; Den Den Town mağazaları kapalı.",
+      "meet": "Tsutenkaku kulesinin altı (Shinsekai)"
+    },
+    "2037-11-17": {
+      "buy": [
+        [
+          "curry",
+          "Shin-Osaka istasyon hediyelikçileri"
+        ],
+        [
+          "kitkat-bolgesel",
+          "Shin-Osaka / Tokyo Station"
+        ],
+        [
+          "tokyo-banana",
+          "Tokyo Station (hediye)"
+        ]
+      ],
+      "alt": [
+        "Shinkansen'de sağ taraf (E koltuk) Fuji manzarası için; hava açıksa.",
+        "Otel erken hazır değilse: çantayı bırakıp yakın çevrede kısa yürüyüş.",
+        "Enerji varsa akşam: Tocho ücretsiz seyir katı ve ışık gösterisi (Shinjuku)."
+      ],
+      "stamp": {
+        "eki": [
+          "Shin-Osaka istasyonu (Shinkansen katı)",
+          "Tokyo İstasyonu"
+        ],
+        "goshuin": []
+      },
+      "rain": "Shinkansen etkilenmez; Tokyo’ya varınca otele yakın kapalı yerlerde kalın.",
+      "meet": "Shin-Osaka’da Shinkansen merkez bilet kapısı; Tokyo’da Tokyo İstasyonu Marunouchi Merkez çıkışı"
+    },
+    "2037-11-18": {
+      "buy": [
+        [
+          "pc",
+          "PCSHOP Ark, Dospara, GIGA (son kıyas)"
+        ],
+        [
+          "mouse",
+          "Yodobashi Akiba"
+        ],
+        [
+          "kamera",
+          "Yodobashi Akiba / Map Camera (kıyas)"
+        ],
+        [
+          "anime-figur",
+          "Mandarake Complex, Surugaya"
+        ],
+        [
+          "gachapon",
+          "Akihabara Gachapon Kaikan"
+        ],
+        [
+          "versatil-limited",
+          "Yodobashi Akiba kırtasiye katı"
+        ],
+        [
+          "termos",
+          "Yodobashi Akiba (Zojirushi, Thermos)"
+        ],
+        [
+          "orient-star",
+          "Yodobashi Akiba saat katı"
+        ],
+        [
+          "inzone-buds",
+          "Yodobashi Akiba (Osaka’da alınmadıysa)"
+        ],
+        [
+          "instax-film",
+          "Yodobashi Akiba (Osaka’da bulunamazsa)"
+        ]
+      ],
+      "alt": [
+        "PC alındıysa: Kanda Myojin tapınağı + Ochanomizu müzik aleti sokağı.",
+        "Akşam: Akihabara yerine Ueno'ya geçip Ameyoko akşam yemeği."
+      ],
+      "stamp": {
+        "eki": [
+          "JR Akihabara istasyonu"
+        ],
+        "goshuin": [
+          "Kanda Myojin"
+        ]
+      },
+      "rain": "Akihabara mağazaları kapalı mekân; değişiklik gerekmez. Yodobashi Akiba’da 9 kat.",
+      "meet": "Akihabara İstasyonu Electric Town (Denki-gai) çıkışı"
+    },
+    "2037-11-19": {
+      "buy": [
+        [
+          "kissme-maskara",
+          "Takeya / Ameyoko eczaneleri"
+        ],
+        [
+          "fujiko-sampuan",
+          "Takeya kozmetik katı"
+        ],
+        [
+          "lululun",
+          "Takeya / Ameyoko"
+        ],
+        [
+          "noodle",
+          "Ameyoko / Takeya gıda"
+        ],
+        [
+          "ayna-yelpaze-toka",
+          "Nakamise (Asakusa)"
+        ],
+        [
+          "tenugui",
+          "Asakusa Fujiya / Nakamise"
+        ],
+        [
+          "kimono-al",
+          "Asakusa ikinci el kimono"
+        ],
+        [
+          "bicak",
+          "Kappabashi (Asakusa yakın)"
+        ],
+        [
+          "tabi",
+          "Asakusa (Marumata tabi dükkânları)"
+        ],
+        [
+          "kamakura-bicak",
+          "Kappabashi (Kamakura gidilmezse)"
+        ],
+        [
+          "sac-bakimi",
+          "Takeya kozmetik katı / Ameyoko"
+        ],
+        [
+          "kanzashi",
+          "Kanzashiya Wargo, Asakusa Shin-Nakamise (yedek)"
+        ]
+      ],
+      "alt": [
+        "Kappabashi Dougu Street Asakusa'ya 10 dk: bıçak, tabak, plastik yemek maketi.",
+        "Kapibara kafe Asakusa'da (rezervasyon önerilir).",
+        "Akşam: Tori-no-Ichi festivali (Asakusa Ōtori Jinja, gün boyu, akşam en canlı) — şans tırmığı kumade tezgâhları. Tarih ikincil kaynaklardan; gitmeden teyit edin.",
+        "IG: Edo-Tokyo Müzesi (Ryogoku) — Ueno Park yerine 1,5–2 saat, 09.30–17.30 (31 Mart 2037’da yeniden açıldı)."
+      ],
+      "stamp": {
+        "eki": [
+          "Tokyo Metro Asakusa istasyonu",
+          "JR Ueno istasyonu"
+        ],
+        "goshuin": [
+          "Sensoji",
+          "Asakusa Jinja"
+        ]
+      },
+      "rain": "Sensoji kısa (şemsiyeyle); Ueno Park yerine Tokyo Ulusal Müzesi (kapalı); Ameyoko kısmen çatılı, Takeya kapalı mağaza.",
+      "meet": "Kaminarimon’un büyük kırmızı feneri (Asakusa)"
+    },
+    "2037-11-20": {
+      "buy": [
+        [
+          "mont-kaban",
+          "Gotemba: The North Face, Columbia"
+        ],
+        [
+          "bot-cizme",
+          "Gotemba ayakkabı mağazaları"
+        ],
+        [
+          "ikinci-el-canta",
+          "Gotemba Coach/Furla (yeni, outlet)"
+        ],
+        [
+          "marka-cuzdan",
+          "Gotemba"
+        ],
+        [
+          "kol-saati",
+          "Gotemba Seiko/Citizen"
+        ]
+      ],
+      "alt": [
+        "Otobüs bileti: A) 14–15 Kasım Osaka’da Lawson/Ministop Loppi (nakit) → B) 17 Kasım Tokyo İst. JR Bus gişesi → C) 20 Kasım sabah Busta Shinjuku gişesi. Biri alınınca Pratik/Yapılacaklar’da işaretle, diğerleri kalkar.",
+        "Gotemba yerine Tokyo: Kitamura → Map Camera (kamera, saat) → Nakano Broadway (figür, saat).",
+        "Fuji görünmüyorsa (bulutlu) Gotemba'nın manzara değeri düşer; Tokyo alternatifini seçin.",
+        "İkinci el çanta için Gotemba yerine Komehyo Shinjuku daha geniş seçenek."
+      ],
+      "stamp": {
+        "eki": [
+          "JR Gotemba istasyonu (Gotemba seçilirse)",
+          "Shinjuku / Nakano istasyonu (Tokyo seçilirse)"
+        ],
+        "goshuin": []
+      },
+      "rain": "Gotemba açık hava outlet ve Fuji görünmez: Tokyo alternatifini seçin (Kitamura/Map Camera, Nakano Broadway; hepsi kapalı).",
+      "meet": "Gotemba Premium Outlets bilgi merkezi; Tokyo seçilirse Nakano Broadway girişi"
+    },
+    "2037-11-21": {
+      "buy": [
+        [
+          "ikinci-el-canta",
+          "Komehyo Shinjuku, 2nd Street Harajuku"
+        ],
+        [
+          "kimono-al",
+          "MOTTAINAI bit pazarı"
+        ],
+        [
+          "pokemon",
+          "Pokémon Center Shibuya (Parco)"
+        ],
+        [
+          "tirnak",
+          "Shibuya Loft"
+        ],
+        [
+          "sticker",
+          "Shibuya Loft"
+        ],
+        [
+          "asics-onitsuka",
+          "Onitsuka Tiger Harajuku"
+        ],
+        [
+          "ayna-yelpaze-toka",
+          "3Coins / Daiso Harajuku"
+        ],
+        [
+          "montbell",
+          "Montbell Shinjuku"
+        ],
+        [
+          "abc-mart",
+          "ABC-Mart Grand Stage Shibuya"
+        ],
+        [
+          "house-of-rose",
+          "Shibuya (House of Rose / Loft)"
+        ],
+        [
+          "daiso-kyumme",
+          "3Coins / Daiso Harajuku"
+        ]
+      ],
+      "alt": [
+        "Shibuya Sky gün batımı bileti varsa 16.00'da orada olun; bilet yoksa ücretsiz manzara için Shibuya Hikarie 11. kat.",
+        "Bit pazarı kapalıysa: Shimokitazawa ikinci el giyim sokakları.",
+        "Bit pazarı (Shinjuku Central Park) 09.00–15.00, yağmurda iptal.",
+        "Aoyama Farmers Market (Birleşmiş Milletler Üniversitesi önü, Omotesando ~5 dk; her cumartesi-pazar): antika değil, yiyecek ve el ürünleri pazarı; Harajuku–Shibuya yürüyüşüne eklenebilir. (Kotto-dori antika pazarının 2037’da kurulduğu doğrulanamadı.)",
+        "IG: Harry Potter Mahou Dokoro Harajuku — Harajuku arasında, giriş ücretsiz, Butterbeer Bar.",
+        "IG: Hoshino Coffee Shibuya — kavşağa bakan pencere; Shibuya molasında.",
+        "IG: Harry Potter Cafe Akasaka — akşam yemeği yerine; Shibuya’dan Ginza Hattı ~10 dk."
+      ],
+      "stamp": {
+        "eki": [
+          "JR Harajuku istasyonu",
+          "JR Shibuya istasyonu",
+          "JR Shinjuku istasyonu"
+        ],
+        "goshuin": [
+          "Meiji Jingu"
+        ]
+      },
+      "rain": "Bit pazarı iptal olur; Meiji Jingu kısa; Tocho seyir katı (kapalı, ücretsiz), Shibuya Parco ve Scramble Square, Miyashita Park mağazaları.",
+      "meet": "Sabah Shinjuku Central Park girişi; öğleden sonra Shibuya Hachiko heykeli"
+    },
+    "2037-11-22": {
+      "buy": [
+        [
+          "kamera",
+          "Kitamura, Map Camera (ikinci el)"
+        ],
+        [
+          "anime-figur",
+          "Mandarake Nakano Broadway"
+        ],
+        [
+          "kol-saati",
+          "Nakano Broadway saat dükkânları"
+        ],
+        [
+          "defter-damga",
+          "İstasyon damgaları"
+        ]
+      ],
+      "alt": [
+        "Batı Tokyo'yu seviyorsanız: Hard Off Hachioji + Higashiyamato (yarım gün, ~1 saat yol).",
+        "Bit pazarı iptalse (yağmur): sabah Tokyo Ulusal Müzesi veya teamLab.",
+        "Akşam: valizleri Haneda'ya göndermek için otel resepsiyonu (Airport TA-Q-BIN).",
+        "Oi bit pazarı 08.45–14.15, yağmurda iptal; 21 ve 23 Kasım da kurulu (yağarsa yedek gün).",
+        "Hanazono Jinja antika pazarı (her pazar, ~06.30–15.00, 25–30 tezgâh, yağmurda yok): Oi’den Shinjuku’ya giderken öğle öncesi uğrayın; Shinjuku-sanchome’den ~5 dk, Kitamura/Map Camera’ya yürüme mesafesi.",
+        "Tomioka Hachimangu antika pazarı (resmî kural: ayın 1., 2., 4., 5. pazarı, gün doğumu–gün batımı; 22 Kasım 4. pazar, doğrulandı; yağmurda iptal olabilir): Oi yerine küçük ve eski usul tapınak pazarı; otelden Oedo hattı aktarmasız Monzen-nakacho ~15 dk."
+      ],
+      "stamp": {
+        "eki": [
+          "Tokyo Monorail Oi Keibajo-mae istasyonu",
+          "JR Nakano istasyonu"
+        ],
+        "goshuin": []
+      },
+      "rain": "Oi bit pazarı iptal olur: sabah Nakano Broadway ya da kamera dükkânları (Kitamura, Map Camera) erkene alınır; teamLab biletiniz varsa iyi bir yağmur günü.",
+      "meet": "Oi Keibajo-mae istasyonu çıkışı; öğleden sonra Nakano Broadway girişi"
+    },
+    "2037-11-23": {
+      "buy": [
+        [
+          "versatil-limited",
+          "Itoya Ginza"
+        ],
+        [
+          "kalem",
+          "Itoya Ginza"
+        ],
+        [
+          "defter",
+          "Itoya / Muji Ginza"
+        ],
+        [
+          "uniqlo-jp",
+          "Uniqlo Ginza (12 kat)"
+        ],
+        [
+          "ysl-ruj",
+          "Ginza depato YSL köşesi"
+        ],
+        [
+          "tokyo-banana",
+          "Daimaru Tokyo / Tokyo Station"
+        ],
+        [
+          "kayanoya",
+          "Daimaru Tokyo depachika"
+        ],
+        [
+          "pokemon",
+          "Tokyo Station Character Street"
+        ],
+        [
+          "washi",
+          "Itoya Ginza"
+        ],
+        [
+          "nishikawa-yastik",
+          "Ginza depato yatak katı (ağırsa kargo)"
+        ],
+        [
+          "hirka",
+          "Uniqlo Ginza (Osaka’da bulunamazsa)"
+        ]
+      ],
+      "alt": [
+        "Lüks akşam: Ginza Happo (rezervasyon gerekli). Ginza Kyubey 23 Kasım Pazartesi kapalı.",
+        "Oedo Antika Pazarı yoksa: Imperial Palace Doğu Bahçeleri (ücretsiz) + KITTE çatı bahçesi.",
+        "Tax-free alışverişleri pasaportla toplayın; yarın havalimanında gösterilecek.",
+        "Tatil (Emek Şükran Günü): İmparatorluk Sarayı Doğu Bahçeleri açık (09.00–16.00), Oedo’dan yürüme mesafesi. Oedo yağmurda iptal; akşamdan sitesine bakın.",
+        "IG: DAWN avatar robot kafe (Nihonbashi) — öğle yerine; Tokyo Garı’ndan ~15 dk yürüyüş."
+      ],
+      "stamp": {
+        "eki": [
+          "Tokyo İstasyonu",
+          "JR Yurakucho istasyonu"
+        ],
+        "goshuin": []
+      },
+      "rain": "Oedo iptal olur: Tokyo Station Character Street, KITTE, Ginza depato (Mitsukoshi, Matsuya), Itoya ve Uniqlo Ginza — hepsi kapalı ve yakın.",
+      "meet": "Tokyo İstasyonu Marunouchi Merkez çıkışı"
+    },
+    "2037-11-24": {
+      "buy": [
+        [
+          "tokyo-banana",
+          "Haneda T3 hediyelikçileri"
+        ],
+        [
+          "kitkat-bolgesel",
+          "Haneda T3"
+        ],
+        [
+          "pocky-pretz",
+          "Haneda T3 / konbini"
+        ]
+      ],
+      "alt": [
+        "Önce tax-free iade terminali, sonra check-in (CZ bankosu 14.05'te kapanır).",
+        "Valiz kilo fazlaysa: Haneda'da Yamato'dan son kargo seçeneği sorun.",
+        "Çakmak ve 2'den fazla powerbank yanınızda olmasın (Guangzhou aktarması).",
+        "Haneda’ya 11.00’de varın: önce kargo valizi, sonra tax-free kioskı, sonra bagaj teslimi. Sırası değişirse iade yapılamaz."
+      ],
+      "stamp": {
+        "eki": [
+          "Haneda Havalimanı Terminal 3 istasyonu (Keikyu / Monorail)"
+        ],
+        "goshuin": []
+      },
+      "rain": "Havalimanı günü; değişiklik yok. Takside değil Keikyu/Monorail ile gidin (trafik).",
+      "meet": "Haneda Terminal 3, 3. kat China Southern bankosu önü"
+    }
+  },
+  "stampNote": "İstasyon ve anma damgaları ücretsiz; çoğu istasyonda bilet kapısının yanında. Bulamazsanız görevliye sorun: 駅スタンプはどこですか？ (eki sutanpu wa doko desu ka). Tapınak mührü (goshuin) ücretlidir, genelde ¥300–500; ayrı mühür defterine (goshuinchō) yazılır, damga defterine değil."
+}

@@ -1,0 +1,8 @@
+{
+  "name":"japonya-gezi-planlayici",
+  "version":"1.0.0",
+  "private":true,
+  "type":"module",
+  "engines":{"node":">=20"},
+  "scripts":{"build":"node scripts/build.mjs","test":"node --test","start":"node scripts/serve.mjs","export:xlsx":"node scripts/export-workbook.mjs"}
+}

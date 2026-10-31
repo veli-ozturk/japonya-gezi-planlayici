@@ -1,0 +1,8 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {directionsUrl} from '../src/maps.mjs';
+const load=n=>JSON.parse(fs.readFileSync(new URL('../data/'+n,import.meta.url)));
+test('Her ulaşım bağlantısı iki ucu tanımlı, anahtarsız Maps rotası açar',()=>{const t=load('transport.json');const ids=new Set();for(const l of t.legs){assert.ok(!ids.has(l.id));ids.add(l.id);assert.ok(l.origin&&l.destination&&l.steps.length);const u=new URL(directionsUrl(l.origin,l.destination,l.mode));assert.equal(u.pathname,'/maps/dir/');assert.equal(u.searchParams.get('origin'),l.origin);assert.equal(u.searchParams.get('destination'),l.destination);assert.equal(u.searchParams.get('api'),'1');assert.ok(!u.searchParams.has('key'));assert.ok(!u.searchParams.has('waypoints'));for(const k of l.sources)assert.ok(t.sources[k],k);}});
+test('Kullanıcının tarihlerine ve çakışmayan saatlere uyulur',()=>{const t=load('trip.json');assert.equal(t.transfer,'2037-11-17');assert.equal(t.routes.find(r=>r[0]===t.transfer)[2],'Osaka → Tokyo');assert.equal(t.routes.filter(r=>r[2].startsWith('Kyoto')).length,2);assert.equal(t.routes.filter(r=>r[2].startsWith('Nara')).length,1);const mins=s=>Number(s.slice(0,2))*60+Number(s.slice(3));for(const [d,ss]of Object.entries(t.hourly)){let end=0;for(const s of ss){assert.ok(mins(s[0])>=end,'Saat çakışması '+d);assert.ok(mins(s[1])>mins(s[0]));end=mins(s[1]);}}});
+test('Yeni ürünlerin boş fiyatı sıfır sayılmaz; kaynak ve mağaza kodları var',()=>{const e=load('extras.json');for(const r of e.items){assert.equal(r.length,10);assert.ok(r[3]===null||r[3]>0);assert.ok(r[9].startsWith('https://'));}assert.ok(e.stores.some(s=>s[0]==='O13'));assert.ok(e.items.some(r=>r[1].includes('tırnak')));});

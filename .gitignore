@@ -1,0 +1,9 @@
+node_modules/
+.previews/
+*.inspect.ndjson
+.env
+.env.*
+*.log
+.DS_Store
+.wrangler/
+docs/

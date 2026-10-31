@@ -1,0 +1,365 @@
+{
+ "checkedAt": "2037-10-26",
+ "items": {
+  "kisshokichi": {
+   "need": "şart",
+   "how": "Resmi sitede öğle/akşam için ayrı WEB rezervasyon butonu ya da telefon; Klook paketleri de var (48 saatte onay)",
+   "link": "https://www.koubegyuu.com/nishishinbashi/",
+   "queue": null,
+   "note": "Yalnız tezgâh oturma; bir yorumda menünün en az 2 kişilik olduğu yazıyor. Ne kadar önceden açıldığı doğrulanmadı. 16 Kasım akşamı Yakiniku M ile aynı akşam, birini seçin.",
+   "source": "https://www.koubegyuu.com/nishishinbashi/google_review/1158/"
+  },
+  "yakiniku-m": {
+   "need": "şart",
+   "how": "TableCheck (Hozenji Yokocho şubesi); değişiklik yalnız telefon",
+   "link": "https://www.tablecheck.com/en/shops/matsusakamhozenjiyokocho/reserve",
+   "queue": null,
+   "note": "15 dk gecikmede masa bırakılıyor, masa süresi 2 saat, son giriş 22.00. Yakında ayrı 'Hozenji Hanare' şubesi var, şubeyi karıştırmayın. Rezervasyonun kaç gün önce açıldığı doğrulanmadı.",
+   "source": "https://www.tablecheck.com/en/shops/matsusakamhozenjiyokocho/reserve"
+  },
+  "ginza-happo": {
+   "need": "şart",
+   "how": "TableCheck ile online",
+   "link": "https://www.tablecheck.com/en/ginza-happo",
+   "queue": null,
+   "note": "Ginza 8-10, Ginza 9 3. bina B1, Shimbashi'ye yakın. TableCheck'te yetişkin ~12.500¥; açılış haberlerinde 100 dk süre. Shinjuku şubesi kuralları: 15 dk gecikmede iptal, 1 gün öncesinden iptal/kişi değişikliği %100 ücret, israf edilen yemek için 100 g başına 500¥ (Ginza için aynı kurallar doğrulanmadı).",
+   "source": "https://weekly.ascii.jp/elem/000/004/184/4184769/"
+  },
+  "kikunoi": {
+   "need": "şart",
+   "how": "Resmi site üzerinden MY CONCIERGE veya TABLE ALL; telefon",
+   "link": "https://myconciergejapan.com/restaurants/kikunoi/",
+   "queue": null,
+   "note": "Michelin 3 yıldız; ziyaretçiler en az ~1 ay önceden ayırtmayı öneriyor, yani artık son dakika. Akşam 17.00–19.30 (son sipariş). Her ayın 1. ve 3. salısı kapalı. Alternatif link: https://www.tableall.com/restaurant/111",
+   "source": "https://kikunoi.jp/en/"
+  },
+  "kyubey": {
+   "need": "şart",
+   "how": "Ginza ana restoran: My Concierge Japan (İngilizce) veya IKYU ile online, ya da telefon",
+   "link": "https://www.kyubey.jp/en/contact/",
+   "queue": null,
+   "note": "Akşam 17.00–22.00. Pazar ve resmi tatillerde kapalı (JPNEAZY listesi). Rezervasyonun kaç gün önce açıldığı resmi sitede yazmıyor. Aracı si telefon erde kişi başı ek ücret ve sıkı iptal koşulları var.",
+   "source": "https://www.kyubey.jp/en/contact/"
+  },
+  "kani-doraku": {
+   "need": "önerilir",
+   "how": "Tabelog/Gurunavi ile online ya da telefon; resmi sitede İngilizce rezervasyon olduğu belirtiliyor (doğrulanmadı)",
+   "link": "https://gurunavi.com/en/kcpd416/rev/rst",
+   "queue": "Bazen aynı gün masa bulunuyor ama yoğun; akşam için rezervasyon önerilir",
+   "note": "11.00–23.00. Masa, tatami veya özel oda seçilebiliyor.",
+   "source": "https://gurunavi.com/en/kcpd416/rev/rst"
+  },
+  "okutan": {
+   "need": "önerilir",
+   "how": "byFood istek formu (onay 7 iş gününe kadar sürebilir) veya Klook paketi (48 saatte onay)",
+   "link": "https://www.byfood.com/restaurant/okutan-kiyomizu-18906",
+   "queue": null,
+   "note": "Hafta içi 11.00–16.30 (son sipariş 16.00). byFood onayı uzun sürdüğü için 10 Kasım için hemen istek gönderin. Sıra süresi verisi bulunamadı.",
+   "source": "https://www.klook.com/en-AE/activity/165154-higashiyama-traditional-japanese-tofu-cuisine-souhonke-yudofu-okutan-kiyomizu-kyoto/"
+  },
+  "innsyoutei": {
+   "need": "önerilir",
+   "how": "TableCheck ile online ya da telefon",
+   "link": "https://www.tablecheck.com/en/shops/inshoutei/reserve",
+   "queue": "Öğle yoğun saatlerinde uzun bekleme olabilir",
+   "note": "Öğle 11.00–15.00 (son sipariş). Kişi başı en az bir yemek. Mevsimlik kaiseki kursları rezervasyon gerektirir.",
+   "source": "https://www.innsyoutei.jp/en/"
+  },
+  "shigetsu": {
+   "need": "şart",
+   "how": "Online (resmi kanal doğrulanmadı) veya byFood üzerinden (kişi başı 2.000¥ rezervasyon ücreti)",
+   "link": "https://www.byfood.com/restaurant/tenryuji-temple-shigetsu-1554",
+   "queue": null,
+   "note": "11.00–14.00. Bahçe girişi ayrıca ücretli. Onay telefon u Japonca gelebilir. byFood'da 4 gün öncesine kadar iade.",
+   "source": "https://happycow.net/reviews/tenryuji-shigetsu-kyoto-11170"
+  },
+  "gyumon": {
+   "need": "önerilir",
+   "how": "TableCheck ile online (Gion şubesi)",
+   "link": "https://www.tablecheck.com/fr/gyumon-kyoto",
+   "queue": null,
+   "note": "Gion, Higashiyama. telefon.",
+   "source": "https://www.tablecheck.com/fr/gyumon-kyoto"
+  },
+  "yukou": {
+   "need": "alınmaz",
+   "how": "Rezervasyon yok, kapıda sıra",
+   "link": null,
+   "queue": "Öğle saatinde sıra olabilir",
+   "note": "Kiyomizu-dera yolundaki Kiyomizu şubesi (Higashiyama). Karasuma Oike’deki Menya Yukou ana dükkânı deniz kabuklusu ramen yapar, wagyu değil.",
+   "source": "https://www.instagram.com/reel/DZ8sV_ro0pH/"
+  },
+  "rikimaru": {
+   "need": "önerilir",
+   "how": "Tabelog ile online veya telefon (Dotonbori şubesi)",
+   "link": null,
+   "queue": null,
+   "note": "Dotonbori şubesinde 90 dk standart sınırsız (82 çeşit); 1 saatlik kurs bulunamadı. Shinsaibashi şubesi için erken rezervasyon öneriliyor.",
+   "source": "https://ssl.tabelog.com/en/osaka/A2701/A270202/27129032/"
+  },
+  "mizuno": {
+   "need": "alınmaz",
+   "how": "Rezervasyon yok, kapıda sıraya girilir; sipariş sırada alınır",
+   "link": null,
+   "queue": "Yoğun saatte 30–60 dk; 2024'te bir ziyaretçi ~20 dk; en yoğun öğle",
+   "note": "Perşembe kapalı (tatile denk gelirse açık); 9 Kasım pazartesi açık. 11.00–22.00, son sipariş 21.00. Sıra uzunsa Ajinoya alternatif.",
+   "source": "https://www.gltjp.com/ja/directory/item/12081/"
+  },
+  "ichiran": {
+   "need": "alınmaz",
+   "how": "Rezervasyon yok; bilet makinesi + sipariş kâğıdı",
+   "link": null,
+   "queue": "Yoğun saatte ~20–35 dk; Güney Bina (Bekkan) 24 saat açık, gece geç saatte kısa",
+   "note": "Ana bina 10.00–22.00; Güney Bina 24 saat (Gurunavi).",
+   "source": "https://gurunavi.com/en/ke47500/rev/rst/"
+  },
+  "harukoma": {
+   "need": "alınmaz",
+   "how": "Rezervasyon yok; sırada sipariş verilir",
+   "link": null,
+   "queue": "30 dk – 2 saat; 11.00 açılış için 10.00'dan sıra başlıyor, 45+ dk erken gelin",
+   "note": "Salı kapalı. Balık bitince kapanıyor. 14 Kasım cumartesi, yoğun olabilir.",
+   "source": "https://insideosaka.com/harukoma/"
+  },
+  "kiji": {
+   "need": "gerekmez",
+   "how": "Kapıda sıra (rezervasyon bilgisi bulunamadı)",
+   "link": null,
+   "queue": "11.00'de ~10 kişi; 17.00 civarı boş, 18.00'den sonra uzun sıra",
+   "note": "Yalnız nakit olabilir (eski yorum). 18.00 yerine 17.00 civarı daha rahat.",
+   "source": "https://wanderlog.com/place/details/424164"
+  },
+  "hokkyokusei": {
+   "need": "gerekmez",
+   "how": "Kapıda; meşgulken numara/bilet sistemi",
+   "link": null,
+   "queue": "Genelde kısa",
+   "note": "Shinsaibashi ana dükkân için online rezervasyon sayfası bulunamadı; telefon.",
+   "source": "https://www.timeout.com/osaka/restaurants/hokkyokusei"
+  },
+  "katsukura": {
+   "need": "gerekmez",
+   "how": "Kapıda sıra; rezervasyon bilgisi bulunamadı ( telefon )",
+   "link": null,
+   "queue": "Akşam ~20 dk; 11.30 civarı beklemesiz",
+   "note": "Saatler kaynaklarda çelişkili (11.00–21.30 20.30).",
+   "source": "https://kyoto.travel/en/restaurants/97.html"
+  },
+  "gogyo": {
+   "need": "gerekmez",
+   "how": "Rezervasyon bilgisi bulunamadı; kapıya gidin",
+   "link": null,
+   "queue": "Hafta içi akşam kalabalık; öğle daha rahat",
+   "note": "Ippudo grubunun Kyoto dükkânı (Yanaginobamba–Takoyakushi). Saatler eski kaynaktan, gitmeden Google Maps’ten kontrol edin.",
+   "source": "https://digitalpr.jp/r/79887"
+  },
+  "shizuka": {
+   "need": "alınmaz",
+   "how": "Rezervasyon sistemi bulunamadı; kapıda sıra",
+   "link": null,
+   "queue": "Öğlen ~1 saat, bazen ~2 saat; yemek ayrıca 20–30 dk pişiyor",
+   "note": "Salı kapalı (11 Kasım çarşamba, sorun yok). Yalnız nakit. Hafta içi son sipariş 15.00.",
+   "source": "https://narashikanko.or.jp/en/spot/cuisine/shiduka-koen"
+  },
+  "daikokuya": {
+   "need": "alınmaz",
+   "how": "Kapıda sıra; resmi rezervasyon kanalı bulunamadı",
+   "link": null,
+   "queue": "Açılışta (11.00) bile ~45 dk; hafta sonu 60–90 dk; 10.30'da sıraya girin",
+   "note": "Alternatif: Kaneko Hannosuke (biraz daha kısa sıra).",
+   "source": "https://trulytokyo.com/tempura-daikokuya/"
+  },
+  "maisen": {
+   "need": "önerilir",
+   "how": "IKYU üzerinden online veya telefon",
+   "link": "https://restaurant.ikyu.com/103591/plan12722438",
+   "queue": "Öğle en az 20–30 dk; 12.00 öncesi veya 14.00 sonrası gidin",
+   "note": "11.00–22.00, kapalı gün yok. IKYU iptal: aynı gün %70, haber vermeden %100. Rezervasyonun her plan/masa için geçerli olduğu doğrulanmadı.",
+   "source": "https://restaurant.ikyu.com/103591/plan12722438"
+  },
+  "motomura": {
+   "need": "alınmaz",
+   "how": "Shibuya şubesi rezervasyon almıyor (yalnız Tachikawa ve Shinjuku ana dükkân alıyor)",
+   "link": null,
+   "queue": "30 dk – 2 saat; 16.30'da gelen biri 45 dk bekledi; sıra açılıştan 1 saat önce başlayabiliyor",
+   "note": "Çok küçük (~10 kişilik) dükkân. Kaynaklar eski bloglar.",
+   "source": "https://www.ladyironchef.com/2016/04/gyukatsu-motomura"
+  },
+  "afuri": {
+   "need": "alınmaz",
+   "how": "Rezervasyon yok; bilet makinesi (İngilizce seçenek)",
+   "link": null,
+   "queue": "Yoğun saatte ~40 dk'ya kadar; öğle sırası uzun",
+   "note": "~15 koltuk. 12.30 yerine 11.30 civarı daha kısa sıra.",
+   "source": "https://japannook.com/en/articles/best-ramen-shops-in-tokyo"
+  },
+  "fuunji": {
+   "need": "alınmaz",
+   "how": "Rezervasyon yok; içeride bilet makinesi (İngilizce, yalnız nakit)",
+   "link": null,
+   "queue": "Tipik 20–40 dk, bazen 45–60 dk; sıra hızlı ilerler",
+   "note": "15 kişilik tezgâh; kalabalık gruplar ayrılabilir. Pazar ve tatillerde kapalı (21 Kasım cumartesi, açık olmalı).",
+   "source": "https://en.japantravel.com/tokyo/fuunji-ramen/36940"
+  },
+  "tempura-makino": {
+   "need": "gerekmez",
+   "how": "Kapıda, oturarak sıra",
+   "link": null,
+   "queue": "Öğle 12–13 arası 5–10 kişi (~5–15 dk); 13.30'da beklemesiz",
+   "note": "Birden fazla Makino şubesi var; şubeye göre değişir.",
+   "source": "https://gurunavi.com/en/ka9m401/rev/rst"
+  },
+  "ajinoya": {
+   "need": "önerilir",
+   "how": "TableCheck ile online (bir yoruma göre yalnız hafta içi); telefon",
+   "link": "https://www.tablecheck.com/en/ajinoya-okonomiyaki",
+   "queue": "Kapıda 40 dk – 1 saat+",
+   "note": "Rezervasyonlu gelen sırayı atlıyor; rezervasyon ücreti olabilir (yorum). 9 ve 16 Kasım: 9 Kasım pazartesi (hafta içi), 16 Kasım pazartesi.",
+   "source": "https://wanderlog.com/place/details/379800"
+  },
+  "daruma": {
+   "need": "alınmaz",
+   "how": "Sohonten için rezervasyon bulunamadı; kapıda sıra",
+   "link": null,
+   "queue": "Her zaman sıra var; 11.00 açılıştan önce gelin",
+   "note": "~12 kişilik küçük tezgâh. Rezervasyon alan Kitashinchi şubesi farklı yer.",
+   "source": "https://www.lonelyplanet.com/pois/1551818"
+  },
+  "wanaka": {
+   "need": "gerekmez",
+   "how": "Tezgâhtan sipariş; al-götür veya arkadaki küçük salonda yeme",
+   "link": null,
+   "queue": "Hafta içi bile sıra olur ama hızlı ilerler",
+   "note": "Hafta içi 10.00–23.00, hafta sonu 8.30–23.00.",
+   "source": "https://gurunavi.com/en/kd4g900/rev/rst"
+  },
+  "rikuro": {
+   "need": "gerekmez",
+   "how": "Al-götür tezgâhı; Namba ana dükkânda tek oturmalı kafe (TableCheck sayfası var)",
+   "link": "https://www.tablecheck.com/th/rikuro-rikucafeterrace-namba",
+   "queue": "Al-götür ~30 dk sıra olabilir; birkaç dakikada bir yeni parti çıkıyor",
+   "note": "Kafe masaları az, kafe beklemesi uzun olabilir.",
+   "source": "https://www.177milkstreet.com/stories/is-japanese-cheesecake-worth-waiting-for"
+  },
+  "arabica": {
+   "need": "alınmaz",
+   "how": "Rezervasyon yok; kapıda sıra (uygulama siparişi yoğunken kapanıyor)",
+   "link": null,
+   "queue": "~30–45 dk, sipariş sonrası +10 dk; 10.00 sonrası kalabalıklaşır",
+   "note": "Saatler 09.00–18.00 (bir kaynak 08.00). 10.15 yerine 09.00 civarı daha kısa.",
+   "source": "https://www.trvlogue.com/en/percent-arabica-kyoto-arashiyama-review"
+  },
+  "nakatanidou": {
+   "need": "gerekmez",
+   "how": "Tezgâhtan al-götür",
+   "link": null,
+   "queue": "Kısa sıra; mochi dövme gösterisi sabit saatli değil, ~30 dk arayla/kalabalık oluşunca",
+   "note": "Resmi site: http://www.nakatanidou.jp",
+   "source": "https://th.jal.japantravel.com/nara/mochi-pounding-at-nakatanidou/20313"
+  },
+  "tsukiji": {
+   "need": "gerekmez",
+   "how": "Açık pazar tezgâhları, rezervasyon yok",
+   "link": null,
+   "queue": null,
+   "note": "Dükkânların çoğu ~05.00–14.00; pazar ve bazı çarşambalar kapalı. 19 Kasım 2037 perşembe. Resmi takvim: tsukiji.or.jp.",
+   "source": "https://tanuki-tabi-travel.com/blog/tsukiji-market-guide"
+  },
+  "matsuya": {
+   "need": "önerilir",
+   "how": "Web formu ile rezervasyon (Savor Japan listesi)",
+   "link": "https://savorjapan.com/0006032112/map.php",
+   "queue": "Dışarıda ~20–30 dk; hafta sonu öğle sıra",
+   "note": "Pazar kapalı (18 Kasım çarşamba, açık). Hafta içi 11.00–20.00. Doluysa Kanda Yabu yakın alternatif.",
+   "source": "https://www.yonder.fr/cityguides/tokyo/restaurants/kanda-matsuya"
+  },
+  "jangara": {
+   "need": "alınmaz",
+   "how": "Rezervasyon yok; sipariş sırada personelce alınır",
+   "link": null,
+   "queue": "Öğle/hafta sonu sıra; hızlı ilerler, ~20 dk",
+   "note": "15 koltuk. 17.30 akşam saati genelde makul.",
+   "source": "https://myannoyingopinions.com/2025/08/03/kyushu-jangara-akihabara-tokyo-june-2025/"
+  },
+  "depachika": {
+   "need": "gerekmez",
+   "how": "Mağaza yemek katı, al-götür",
+   "link": null,
+   "queue": null,
+   "note": "Kontrol edilmedi (rezervasyon gerektirmeyen mağaza katı).",
+   "source": null
+  },
+  "kaitenzushi": {
+   "need": "gerekmez",
+   "how": "Sushiro kendi uygulamasıyla sıra/saat ayırtma sunuyor (Japonya uygulamasının İngilizce desteği doğrulanmadı); EPARK İngilizce değil",
+   "link": null,
+   "queue": "Uygulamayla bile ~50 dk bekleyen var; girişte numarayla tezgâhta check-in",
+   "note": "Sipariş tableti İngilizceye çevrilebiliyor. Kura Sushi kontrol edilmedi.",
+   "source": "https://wanderlog.com/place/details/3454449"
+  },
+  "hanadako": {
+   "need": "alınmaz",
+   "how": "Yalnız walk-in; al-götür sırası öncelikli",
+   "link": null,
+   "queue": "~10–30 dk; sıra sütunun etrafından dolanıyor",
+   "note": "10.00–22.00, kapalı gün yok.",
+   "source": "https://explore.osaka/food/hanadako/"
+  },
+  "cafe-grenier": {
+   "need": "gerekmez",
+   "how": "Pastane, al-götür",
+   "link": null,
+   "queue": "Her gün uzun sıra (süre verisi yok); Umeda şubesi kalabalık, Kitahama daha sakin",
+   "note": "Umeda: Hankyu Grand Building 1. kat bölgesi.",
+   "source": "https://wanderlog.com/place/details/5849253"
+  },
+  "shogun-burger": {
+   "need": "gerekmez",
+   "how": "Tabelog online veya telefon; KKday'de yalnız koltuk ayırtma (3 gün öncesine kadar ücretsiz iptal)",
+   "link": "https://www.kkday.com/en/product/225309",
+   "queue": "Hafta içi açılış öncesi sırasız girilmiş (2023)",
+   "note": "Shinsaibashi şubesi.",
+   "source": "https://ssl.tabelog.com/en/osaka/A2701/A270202/27133604/"
+  },
+  "dekasan": {
+   "need": "alınmaz",
+   "how": "Rezervasyon bulunamadı; kapıda sıra",
+   "link": null,
+   "queue": "Öğle ~45 dk",
+   "note": "11.00–16.00, pazartesi kapalı (Hamoni). Açılışa yakın gidin.",
+   "source": "https://hamoni.jp/en/area/osaka/shops/sandwich"
+  },
+  "tocho-cafeteria": {
+   "need": "gerekmez",
+   "how": "Halka açık; lobiden geçici kart, Ana Bina 1 → 32. kat (bir kaynak önceden online ziyaretçi kaydı diyor)",
+   "link": null,
+   "queue": "12.00–13.00 memur yoğunluğu; 11.30 veya 13.00 sonrası",
+   "note": "11.30–14.00, yalnız mesai günleri (20 Kasım cuma, açık).",
+   "source": "https://www.atlasobscura.com/places/tokyo-metropolitan-building-staff-cafeteria"
+  },
+  "daiki-suisan": {
+   "need": "gerekmez",
+   "how": "Kapıda; Gurunavi'de online rezervasyon modülü görünüyor (doğrulanmadı)",
+   "link": "https://gurunavi.com/en/kdrd830/rev/rst/",
+   "queue": null,
+   "note": "Kyoto Tower B1, 11.00–23.00 (son sipariş 22.30). telefon.",
+   "source": "https://gurunavi.com/en/kdrd830/rev/rst/"
+  },
+  "shirohige": {
+   "need": "önerilir",
+   "how": "Telefonla ön sipariş (Japonca); yoksa sabah erken gidin",
+   "link": null,
+   "queue": "Öğleden sonra tükenebilir",
+   "note": "Salı kapalı.",
+   "source": null
+  },
+  "steak-shima": {
+   "need": "şart",
+   "how": "Rezervasyon şart; otel resepsiyonundan arattırın",
+   "link": null,
+   "queue": null,
+   "note": "Pazar kapalı; 23 Kasım tatilinde yalnız akşam.",
+   "source": "https://retty.me/restaurant/100000015535/"
+  }
+ }
+}

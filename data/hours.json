@@ -1,0 +1,1082 @@
+{
+  "checkedAt": "2037-10-25",
+  "note": "Çalışma saati ve kapalı günler; date = araştırıldığı plan günü. openOnDate o güne göredir.",
+  "places": {
+    "pick-isuien": {
+      "hours": "09.30–16.30, son giriş 16.00",
+      "closed": "Salı (resmî tatilse ertesi gün)",
+      "openOnDate": true,
+      "note": "Bakım kapanışı yalnız Aralık sonu–Ocak ortası ve Eylül son 10 günü",
+      "source": "https://isuien.or.jp/en/access",
+      "date": "2037-11-11"
+    },
+    "pick-shibuya-sky": {
+      "hours": "10.00–22.30, son giriş 21.20",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yalnız 1 Ocak kapalı; kötü havada açık teras (SKY STAGE) kapanabilir",
+      "source": "https://www.gotokyo.org/en/spot/1749/index.html",
+      "date": "2037-11-21"
+    },
+    "pick-east-gardens": {
+      "hours": "09.00–16.00, son giriş 15.30 (Kasım–Şubat)",
+      "closed": "Pazartesi, Cuma",
+      "openOnDate": true,
+      "note": "23 Kasım resmî tatil olduğu için açık; ertesi gün 24 Kasım Salı kapalı",
+      "source": "https://www.kunaicho.go.jp/e-event/higashigyoen02.html",
+      "date": "2037-11-23"
+    },
+    "pick-tocho": {
+      "hours": "Güney: 09.30–22.00 (son giriş 21.30); Kuzey: 09.30–17.30 (son giriş 17.00)",
+      "closed": "Güney: ayın 1. ve 3. Salı; Kuzey: 2. ve 4. Pazartesi",
+      "openOnDate": true,
+      "note": "Kasımda güney 17 Kasım kapalı; 21 Kasım iki teras da açık",
+      "source": "https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou",
+      "date": "2037-11-21"
+    },
+    "pick-kitte": {
+      "hours": "Bahçe: hafta içi 11.00–23.00, hafta sonu/tatil 11.00–22.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yalnız 1 Ocak ve bakım günleri kapalı; kötü havada bahçe kapanabilir",
+      "source": "https://marunouchi.jp-kitte.jp/guide/facilities.jsp",
+      "date": "2037-11-23"
+    },
+    "pick-tenku-noen": {
+      "hours": "07.00–18.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "11. kattan yalnız merdivenle çıkılır; kapalı gün belirtilmemiş",
+      "source": "https://osakastationcity.com/green/tenku/",
+      "date": "2037-11-14"
+    },
+    "pick-ryoanji": {
+      "hours": "08.00–17.00 (Mart–Kasım)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Aralık–Şubat 08.30–16.30",
+      "source": "http://www.ryoanji.jp/smph/eng/",
+      "date": "2037-11-13"
+    },
+    "pick-tnm": {
+      "hours": "09.30–17.00, son giriş 16.30",
+      "closed": "Pazartesi (tatilse ertesi gün)",
+      "openOnDate": true,
+      "note": "Cuma/Cumartesi 20.00'ye kadar; 24 Kasım kapalı; Honkan 4. oda kapalı",
+      "source": "https://www.tnm.jp/modules/r_free_page/index.php?id=113",
+      "date": "2037-11-19"
+    },
+    "pick-teamlab-botanical": {
+      "hours": "18.00–21.30, son giriş 20.30 (9 Kasım'dan itibaren)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Son girişten sonra alınmıyor; 19.30 varış yetişir ama sıkı",
+      "source": "https://www.teamlab.art/jp/e/botanicalgarden/",
+      "date": "2037-11-15"
+    },
+    "pick-mizuno": {
+      "hours": "11.00–22.00, son sipariş 21.00",
+      "closed": "Perşembe",
+      "openOnDate": true,
+      "note": "Kapalı: perşembe (resmî tatile denk gelirse açık); 9 Kasım pazartesi açık",
+      "source": "https://www.gltjp.com/en/directory/item/12081/",
+      "date": "2037-11-09"
+    },
+    "pick-ichiran": {
+      "hours": "24 saat",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık",
+      "source": "https://ichiran.com/shop/kinki/dotonbori/",
+      "date": "2037-11-09"
+    },
+    "pick-yakiniku-m": {
+      "hours": "17.00–24.00, son sipariş 23.00; öğle yalnız Cmt/Paz/tatil 12.00–15.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Üçüncü taraf kaynak; kapalı gün yok",
+      "source": "https://japan-food.guide/en/restaurants/1662",
+      "date": "2037-11-16"
+    },
+    "pick-kiji": {
+      "hours": "11.30–21.30 (son sipariş)",
+      "closed": "Perşembe (tatilse açık)",
+      "openOnDate": true,
+      "note": "Sky Building şubesi; üçüncü taraf kaynak",
+      "source": "https://www.mapple.net/region/a0503010100/spot/",
+      "date": "2037-11-14"
+    },
+    "pick-harukoma": {
+      "hours": "11.00–21.30, malzeme bitince kapanır",
+      "closed": "Salı",
+      "openOnDate": true,
+      "note": "Honten; üçüncü taraf kaynak",
+      "source": "https://www.mapple.net/original/404833/",
+      "date": "2037-11-14"
+    },
+    "pick-daruma": {
+      "hours": "Hafta içi 11.00–22.30, Cmt/Paz/tatil 10.30–22.30, son sipariş 22.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık",
+      "source": "https://www.hotpepper.jp/strJ000109279/",
+      "date": "2037-11-16"
+    },
+    "pick-wanaka": {
+      "hours": "Hafta içi 10.30–21.00, hafta sonu/tatil 09.30–21.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık; saatler zaman zaman değişebiliyor",
+      "source": "https://www.mapple.net/original/487984/",
+      "date": "2037-11-16"
+    },
+    "pick-hokkyokusei": {
+      "hours": "11.30–21.30, son sipariş 21.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yalnız 31 Ara–1 Oca kapalı",
+      "source": "https://r.gnavi.co.jp/n2vf7hd90000/",
+      "date": "2037-11-15"
+    },
+    "pick-okutan": {
+      "hours": "Hafta içi 11.00–16.30 (son sipariş 16.00), hafta sonu/tatil 11.00–17.30",
+      "closed": "Perşembe",
+      "openOnDate": true,
+      "note": null,
+      "source": "https://livejapan.com/ja/in-kansai/in-pref-kyoto/in-gion_kawaramachi_kiyomizu-dera-temple/article-a2000500/",
+      "date": "2037-11-10"
+    },
+    "pick-arabica": {
+      "hours": "09.00–18.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Resmî sitede her gün açık",
+      "source": "https://arabica.com/en/location/arabica-kyoto-arashiyama/",
+      "date": "2037-11-13"
+    },
+    "pick-katsukura": {
+      "hours": "11.00–21.30 (son sipariş 21.00), Cumartesi 22.00'ye kadar",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Kaynaklar saatlerde biraz farklı",
+      "source": "https://kyoto.travel/en/restaurants/97.html",
+      "date": "2037-11-13"
+    },
+    "pick-gogyo": {
+      "hours": "Öğle 11.30–15.00, akşam 17.00–23.00 (eski bir tanıtım yazısından; teyit edin)",
+      "closed": null,
+      "openOnDate": null,
+      "note": "Işletmesi Ippudo grubu (Chikara no Moto); güncel saat resmî kaynakta bulunamadı",
+      "source": "https://www.japankuru.com/tc/food/e2105.html",
+      "date": "2037-11-13"
+    },
+    "pick-shizuka": {
+      "hours": "11.00–19.00",
+      "closed": "Salı (ayda bir Pazartesi+Salı)",
+      "openOnDate": true,
+      "note": null,
+      "source": "https://www.hotpepper.jp/strJ000110820/",
+      "date": "2037-11-11"
+    },
+    "pick-nakatanidou": {
+      "hours": "10.00–19.00",
+      "closed": "Düzensiz (bir kaynak Salı diyor)",
+      "openOnDate": true,
+      "note": "Çarşamba normalde açık; düzensiz kapanış olabilir",
+      "source": "https://www.gltjp.com/ja/directory/item/13285/",
+      "date": "2037-11-11"
+    },
+    "pick-tsukiji": {
+      "hours": "Genel satış 09.00–14.00 (06.00–09.00 esnafa öncelikli)",
+      "closed": "Pazar, tatiller ve bazı Çarşambalar (merkez hal tatil günleri)",
+      "openOnDate": false,
+      "note": "18 Kasım Çarşamba hal tatil günü; dükkanların çoğu kapalı, bazıları açık olabilir",
+      "source": "https://www.tsukiji.or.jp/calendar/?date=2037-11",
+      "date": "2037-11-18"
+    },
+    "pick-matsuya": {
+      "hours": "Hafta içi 11.00–20.30 (son sipariş 20.00); Cmt/tatil 11.00–19.30",
+      "closed": "Pazar",
+      "openOnDate": true,
+      "note": "Bir kaynak Pazartesi kapalı diyor; Çarşamba etkilenmez",
+      "source": "https://www.gltjp.com/en/directory/item/11114/",
+      "date": "2037-11-18"
+    },
+    "pick-jangara": {
+      "hours": null,
+      "closed": null,
+      "openOnDate": false,
+      "note": "30 Eylül'den beri yenileme için kapalı; açılış 'Kasım sonu' planlı, 18 Kasım'da kapalı olması bekleniyor",
+      "source": "https://www.gdm.or.jp/crew/2026/1016/656504",
+      "date": "2037-11-18"
+    },
+    "pick-innsyoutei": {
+      "hours": "11.00–16.00 (son sipariş 15.00), 17.00–23.00 (son sipariş 21.30)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık",
+      "source": "https://www.hotpepper.jp/strJ000104415/",
+      "date": "2037-11-19"
+    },
+    "pick-afuri": {
+      "hours": "10.00–23.00, çorba bitince kapanır",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık; üçüncü taraf kaynak",
+      "source": "https://www.iwafu.com/en/kanbans/95",
+      "date": "2037-11-21"
+    },
+    "pick-motomura": {
+      "hours": "11.00–22.00 (son sipariş 22.00)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık; üçüncü taraf kaynak",
+      "source": "https://omakaseje.com/ja/restaurants/uu647384",
+      "date": "2037-11-21"
+    },
+    "pick-fuunji": {
+      "hours": "11.00–15.00, 17.00–21.00",
+      "closed": "Pazar ve resmî tatiller",
+      "openOnDate": false,
+      "note": "22 Kasım Pazar KAPALI; başka güne kaydır",
+      "source": "https://www.timeout.com/tokyo/restaurants/fu-unji",
+      "date": "2037-11-22"
+    },
+    "pick-depachika": {
+      "hours": "Daimaru Tokyo B1–11F 10.00–20.00; Isetan 10.00–20.00",
+      "closed": "Daimaru: yalnız 1–2 Ocak; Isetan: düzensiz",
+      "openOnDate": true,
+      "note": "Daimaru resmî sitede doğrulandı; Isetan resmî siteye erişilemedi",
+      "source": "https://www.daimaru.co.jp/tokyo/hours.html",
+      "date": "2037-11-23"
+    },
+    "pick-kyubey": {
+      "hours": "Öğle 11.30–14.00, akşam 17.00–22.00",
+      "closed": "Pazar ve Pazartesi (tatil Pazartesileri dahil)",
+      "openOnDate": false,
+      "note": "23 Kasım Pazartesi KAPALI; ayrıca 'Kasım tatil günleri' duyurusu var",
+      "source": "https://www.kyubey.jp/shoplist/ginza/",
+      "date": "2037-11-23"
+    },
+    "pick-itoya": {
+      "hours": "10.00–20.00; Pazar/tatil 10.00–19.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "23 Kasım tatil: 19.00'da kapanır",
+      "source": "https://www.ito-ya.co.jp/ginza/",
+      "date": "2037-11-23"
+    },
+    "pick-loft": {
+      "hours": "Umeda Loft 10.00–20.00",
+      "closed": "Hanshin Umeda'ya bağlı (düzenli kapalı gün yok)",
+      "openOnDate": true,
+      "note": "Umeda Loft 2025'te Hanshin Umeda 6. kata taşındı; Shibuya Loft kontrol edilmedi",
+      "source": "https://tenki.jp/leisure/6/30/200/69862/",
+      "date": "2037-11-14"
+    },
+    "pick-donki": {
+      "hours": "24 saat",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Gece geç saatte vergi iadesi sınırlı olabilir",
+      "source": "https://www.gltjp.com/ja/directory/item/16904/",
+      "date": "2037-11-09"
+    },
+    "pick-muji": {
+      "hours": "11.00–21.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "MUJI Diner 21.00'de kapanır (son sipariş 20.30)",
+      "source": "https://www.navitime.co.jp/category/0206009002/13/",
+      "date": "2037-11-23"
+    },
+    "pick-gachapon": {
+      "hours": "11.00–20.00; Pazar/tatil 11.00–19.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Bir kaynak Cuma/Cumartesi 22.00'ye kadar diyor",
+      "source": "https://www.walkerplus.com/spot/ar0313s564740/data.html",
+      "date": "2037-11-18"
+    },
+    "pick-nintendo": {
+      "hours": "10.00–21.00",
+      "closed": "Shibuya PARCO'ya bağlı",
+      "openOnDate": true,
+      "note": "Hafta sonu/tatilde giriş sıra numarasıyla (1F'de dağıtılır)",
+      "source": "https://www.nintendo.com/jp/officialstore/",
+      "date": "2037-11-21"
+    },
+    "pick-hanadako": {
+      "hours": "10.00–22.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık",
+      "source": "https://shinume.com/shop/%e3%81%af%e3%81%aa%e3%81%a0%e3%81%93/",
+      "date": "2037-11-14"
+    },
+    "pick-kisshokichi": {
+      "hours": "11.30–22.00 (son sipariş 22.00)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Resmî sayfada her gün saat var, kapalı gün yazmıyor",
+      "source": "https://www.koubegyuu.com/nishishinbashi/",
+      "date": "2037-11-16"
+    },
+    "pick-ginza-happo": {
+      "hours": "Hafta içi 17.00–22.30; hafta sonu/tatil 16.00–22.30",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Son giriş saati belirsiz; rezervasyonla doğrula",
+      "source": "https://gurunavi.com/en/gdje111/rst/",
+      "date": "2037-11-23"
+    },
+    "pick-tocho-cafeteria": {
+      "hours": "08.00–17.00",
+      "closed": "Cumartesi, Pazar ve resmî tatiller",
+      "openOnDate": null,
+      "note": "Öğle yemeği 11.00–14.00; girişte 1. kattan ziyaretçi kartı alınır",
+      "source": "https://tabelog.com/en/tokyo/A1304/A130401/13051287/",
+      "date": "2037-11-20",
+      "checked": "2037-10-27"
+    },
+    "pick-tocho-mapping": {
+      "hours": "Kasım: 17.30'dan 20.30'a yarım saatte bir, ayrıca 21.30",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Kötü hava dışında her gün",
+      "source": "https://tokyoprojectionmappingproject.jp/en/",
+      "date": "2037-11-22"
+    },
+    "pick-secondhand": {
+      "hours": "11.00–21.00",
+      "closed": null,
+      "openOnDate": null,
+      "note": "2nd Street Harajuku için; zincirde şubeye göre değişir",
+      "source": "https://tokubai.co.jp/prefectures/13/areas/187/reuse_shop",
+      "date": "2037-11-21",
+      "checked": "2037-10-27"
+    },
+    "pick-daiki-suisan": {
+      "hours": "11.00–23.00",
+      "closed": "Tesise bağlı (düzensiz)",
+      "openOnDate": true,
+      "note": null,
+      "source": "https://hitosara.com/0004027173/",
+      "date": "2037-11-13"
+    },
+    "store-O01": {
+      "hours": "Hafta içi 11.30–20.00; hafta sonu ve tatil 11.00–19.30",
+      "closed": null,
+      "openOnDate": null,
+      "note": "Resmî site erişilemedi; Ağustos 2037 tarihli ikincil kaynak; kapalı gün bilgisi bulunamadı",
+      "source": "https://gamingpcs.jp/knowledge/basic/whatis/osaka",
+      "date": "2037-11-15",
+      "checked": "2037-10-27"
+    },
+    "store-O02": {
+      "hours": "11.00–20.00 (alım 19.30'a kadar)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Resmî sayfada kapalı gün yazmıyor",
+      "source": "https://www.dospara.co.jp/shop/osaka-namba.html",
+      "date": "2037-11-15"
+    },
+    "store-O03": {
+      "hours": "11.00–20.00 (alım 19.30'a kadar)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık",
+      "source": "https://www.e-earphone.jp/pages/shop_npb",
+      "date": "2037-11-15"
+    },
+    "store-O04": {
+      "hours": "Hafta içi 11.00–20.00; hafta sonu/tatil 10.00–20.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık",
+      "source": "https://www.superpotato.com/shop/otaroad/",
+      "date": "2037-11-16"
+    },
+    "store-O05": {
+      "hours": "Hafta içi 12.00–20.00; hafta sonu/tatil 11.00–20.00",
+      "closed": "Çarşamba (tatilse açık)",
+      "openOnDate": true,
+      "note": "Rehber kaydı; resmî site açılmadı",
+      "source": "https://itp.ne.jp/zenkoku/osaka/osakashi-naniwaku/nitsupombashi/273104631194970730",
+      "date": "2037-11-16"
+    },
+    "store-O06": {
+      "hours": "10.00–21.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık",
+      "source": "https://www.suruga-ya.jp/feature/realstore/nihonbashi_main/index.html",
+      "date": "2037-11-16"
+    },
+    "store-O07": {
+      "hours": "12.00–20.00 (alım 19.30'a kadar)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık",
+      "source": "https://www.mandarake.co.jp/dir/gcs/",
+      "date": "2037-11-16"
+    },
+    "store-O08": {
+      "hours": "10.00–20.00",
+      "closed": "Yılda bir gün (Şubat 3. Perşembe)",
+      "openOnDate": true,
+      "note": "Restoranların saatleri farklı",
+      "source": "https://www.premiumoutlets.co.jp/rinku/",
+      "date": "2037-11-12"
+    },
+    "store-O09": {
+      "hours": "10.00–21.00",
+      "closed": "Hankyu Sanbangai'ye bağlı",
+      "openOnDate": true,
+      "note": "Üçüncü taraf kaynak",
+      "source": "https://tokubai.co.jp/transit/rail_lines/station_groups/5922/glasses_shop",
+      "date": "2037-11-14"
+    },
+    "store-O10": {
+      "hours": "12.00–20.00 (alım 19.30'a kadar)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık",
+      "source": "https://www.mandarake.co.jp/dir/umd/",
+      "date": "2037-11-14"
+    },
+    "store-O11": {
+      "hours": null,
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık (üçüncü taraf); saat doğrulanamadı",
+      "source": "https://uridoki.net/shops/14114",
+      "date": "2037-11-15"
+    },
+    "store-T01": {
+      "hours": "Hafta içi 11.30–20.00; hafta sonu/tatil 11.00–19.30",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Son teyit 2024 sonu yılbaşı programından; resmî site erişilemedi",
+      "source": "https://www.gdm.or.jp/crew/2024/1228/569342",
+      "date": "2037-11-18"
+    },
+    "store-T02": {
+      "hours": "10.00–17.00",
+      "closed": "Cumartesi, Pazar ve resmî tatiller",
+      "openOnDate": null,
+      "note": null,
+      "source": "https://www.giga-web.com/shop/contents2/corp_profile.aspx",
+      "date": "2037-11-18",
+      "checked": "2037-10-27"
+    },
+    "store-T03": {
+      "hours": "11.00–20.00 (alım 19.30'a kadar)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Resmî sayfada kapalı gün yazmıyor",
+      "source": "https://www.dospara.co.jp/shop/akihabara.html",
+      "date": "2037-11-18"
+    },
+    "store-T04": {
+      "hours": "11.00–20.00 (alım 10.30–19.30)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık",
+      "source": "https://www.e-earphone.jp/pages/shop_akb",
+      "date": "2037-11-18"
+    },
+    "store-T05": {
+      "hours": "Pzt–Prş 11.00–20.00; Cuma/Cmt 10.00–20.30; Pazar/tatil 10.00–20.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Üçüncü taraf kaynak; resmî sitede saat yok",
+      "source": "https://uridoki.net/shops/1638",
+      "date": "2037-11-18"
+    },
+    "store-T06": {
+      "hours": "11.00–20.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık",
+      "source": "https://www.superpotato.com/shop/akihabara/",
+      "date": "2037-11-18"
+    },
+    "store-T07": {
+      "hours": "12.00–20.00 (alım 19.30'a kadar)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık",
+      "source": "https://www.mandarake.co.jp/dir/cmp/",
+      "date": "2037-11-18"
+    },
+    "store-T08": {
+      "hours": "11.00–19.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Üçüncü taraf kaynak; her gün açık",
+      "source": "https://www.timeout.com/tokyo/shopping/map-camera",
+      "date": "2037-11-20"
+    },
+    "store-T09": {
+      "hours": "10.00–21.00",
+      "closed": "Yalnız 1 Ocak",
+      "openOnDate": true,
+      "note": null,
+      "source": "https://www.kitamuracamera.jp/",
+      "date": "2037-11-20"
+    },
+    "store-T10": {
+      "hours": "10.00–20.30",
+      "closed": "Yalnız yılbaşı",
+      "openOnDate": true,
+      "note": null,
+      "source": "https://www.fujiya-camera.co.jp/shop/abouts/pg/1c-ca-access/",
+      "date": "2037-11-20"
+    },
+    "store-T11": {
+      "hours": "12.00–20.00 (alım 19.30'a kadar)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık",
+      "source": "https://www.mandarake.co.jp/dir/nkn/",
+      "date": "2037-11-20"
+    },
+    "store-T12": {
+      "hours": "11.00–21.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yıl boyu açık; resmî site bakımda, ikincil kaynak",
+      "source": "https://tokubai.co.jp/prefectures/13/areas/187/reuse_shop",
+      "date": "2037-11-21",
+      "checked": "2037-10-27"
+    },
+    "store-T13": {
+      "hours": "10.00–19.00",
+      "closed": "Yalnız yılbaşı ilk 3 gün",
+      "openOnDate": true,
+      "note": null,
+      "source": "https://www.takeya.co.jp/",
+      "date": "2037-11-19"
+    },
+    "store-T14": {
+      "hours": "24 saat",
+      "closed": null,
+      "openOnDate": true,
+      "note": null,
+      "source": "https://www.gotokyo.org/tc/spot/1879/index.html",
+      "date": "2037-11-21"
+    },
+    "store-T15": {
+      "hours": "10.00–20.00",
+      "closed": "Yılda bir gün (Şubat 3. Perşembe)",
+      "openOnDate": true,
+      "note": null,
+      "source": "https://www.premiumoutlets.co.jp/gotemba/",
+      "date": "2037-11-20"
+    },
+    "store-T16": {
+      "hours": "09.00–16.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "23 Kasım pazar günü; yağmurda iptal",
+      "source": "https://www.antique-market.jp/",
+      "date": "2037-11-23"
+    },
+    "store-T17": {
+      "hours": "08.45–14.15",
+      "closed": "Düzensiz",
+      "openOnDate": true,
+      "note": "Yalnız etkinlik günleri: 14, 15, 21, 22 Kasım 08.45–14.15; 23 Kasım 08.45–13.30; yağmurda iptal (hafif yağmurda yapılır)",
+      "source": "https://trx.jp/schejule",
+      "date": "2037-11-22",
+      "checked": "2037-10-27"
+    },
+    "store-T18": {
+      "hours": "09.00–15.00",
+      "closed": "Düzensiz",
+      "openOnDate": null,
+      "note": "Tek seferlik etkinlik: 21 Kasım 2037 Cumartesi; yağmurda iptal",
+      "source": "https://shinjuku20261121.peatix.com/",
+      "date": "2037-11-21",
+      "checked": "2037-10-27"
+    },
+    "pick-yukou": {
+      "hours": "11.00–20.30",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Kapalı gün listelenmemiş (Tabelog); Kiyomizu şubesi, Karasuma Oike’deki ana dükkân değil",
+      "source": "https://tabelog.com/kyoto/",
+      "date": "2037-11-10"
+    },
+    "place-G03": {
+      "hours": "08.00–18.00",
+      "closed": null,
+      "note": "Dükkâna göre değişir; birçoğu Pazar ve resmî tatillerde kapalı",
+      "source": "https://www.japan-guide.com/e/e4031.html",
+      "checked": "2037-10-27"
+    },
+    "place-G08": {
+      "hours": "06.00–18.00",
+      "closed": null,
+      "note": "21–30 Kasım sonbahar aydınlatması: 21.30'a kadar açık (son giriş 21.00)",
+      "source": "https://www.japan-guide.com/e/e3901.html",
+      "checked": "2037-10-27"
+    },
+    "place-G13": {
+      "hours": "10.00–18.00",
+      "closed": null,
+      "note": "Dükkâna göre değişir; kapalı gün genelde Çarşamba veya Pazar",
+      "source": "https://www.japan-guide.com/e/e3931.html",
+      "checked": "2037-10-27"
+    },
+    "place-G22": {
+      "hours": "24 saat (açık alan)",
+      "closed": null,
+      "note": "Dış cephe sokaktan görülür; istasyon içi tesislerin saatleri ayrı",
+      "source": "https://www.japan-guide.com/e/e3037.html",
+      "checked": "2037-10-27"
+    },
+    "place-G23": {
+      "hours": "13 Kasım: 08.00–20.00",
+      "closed": null,
+      "note": "Tarihe göre değişir; 9–24 Kasım arasında açılış 08.00–09.00, kapanış 19.00–22.00 (20 Kasım 08.30–19.00)",
+      "source": "https://www.usj.co.jp/web/en/us/park-guide/schedule/park-hour",
+      "checked": "2037-10-27"
+    },
+    "store-K03": {
+      "hours": "11.00–18.00",
+      "closed": "Çarşamba",
+      "note": "Kat bazında saatler değişir; 1 Ocak kapalı",
+      "source": "https://www.gltjp.com/en/directory/item/16998/",
+      "checked": "2037-10-27"
+    },
+    "store-T19": {
+      "hours": "10.00–17.00",
+      "closed": null,
+      "note": "Dükkâna göre değişir; birçoğu Pazar ve resmî tatillerde kapalı",
+      "source": "https://www.japan-guide.com/e/e3020.html",
+      "checked": "2037-10-27"
+    },
+    "pick-tofukuji": {
+      "hours": "09.00–16.30",
+      "closed": null,
+      "note": "Kasım ortasından aralık başına 08.30–16.30; son giriş kapanıştan 30 dk önce; 15 Kasım–7 Aralık Tsutenkyo bileti 1000 yen",
+      "source": "https://www.japan-guide.com/e/e3930.html",
+      "checked": "2037-10-27"
+    },
+    "pick-naramachi": {
+      "hours": "24 saat (açık alan)",
+      "closed": null,
+      "note": "Müze/evler çoğunlukla 09.00–17.00; Koshi-no-ie Pazartesi, Nigiwai-no-ie ve Karakuri Omochakan Çarşamba, Naramachi Shiryokan Salı–Perşembe kapalı",
+      "source": "https://www.japan-guide.com/e/e4108.html",
+      "checked": "2037-10-27"
+    },
+    "pick-tombori": {
+      "hours": "11.00–21.00",
+      "closed": null,
+      "note": "Kalkışlar saat başı ve buçukta; hava koşuluna göre iptal olabilir",
+      "source": "https://osaka-info.jp/special/coolosaka/en/cool-spot/1210/",
+      "checked": "2037-10-27"
+    },
+    "pick-kaiyukan": {
+      "hours": "Hafta içi 10.30–20.00; hafta sonu 09.30–20.00",
+      "closed": "Düzensiz",
+      "note": "Son giriş 19.00; 21 ve 23 Kasım 09.00, 22 Kasım 08.30 açılış; Kasım 2037'da kapalı gün yok",
+      "source": "https://www.kaiyukan.com/info/hours/",
+      "checked": "2037-10-27"
+    },
+    "pick-minoo": {
+      "hours": "24 saat (açık alan)",
+      "closed": null,
+      "note": "Parkın kapısı yok; şelale yolu gün ışığında önerilir",
+      "source": "https://www.japannakama.co.uk/travel/osaka-guides/minoo-park/",
+      "checked": "2037-10-27"
+    },
+    "pick-yanaka": {
+      "hours": "10.00–18.00",
+      "closed": null,
+      "note": "Dükkâna göre değişir; birçoğu Pazartesi kapalı; mezarlık açık alan",
+      "source": "https://www.japan-guide.com/e/e3068.html",
+      "checked": "2037-10-27"
+    },
+    "pick-teamlab": {
+      "hours": "08.00–22.00",
+      "closed": "Düzensiz",
+      "note": "Son giriş kapanıştan 1 saat önce; kapalı günler 5 Kasım ve 3 Aralık",
+      "source": "https://www.teamlab.art/e/planets/",
+      "checked": "2037-10-27"
+    },
+    "pick-omoide": {
+      "hours": "17.00–24.00",
+      "closed": null,
+      "note": "Omoide Yokocho dükkâna göre değişir (bazıları öğlen açık, kapalı günler düzensiz); Golden Gai barları 19.00–sabah, çoğu Pazar kapalı",
+      "source": "https://www.japan-guide.com/e/e3011.html",
+      "checked": "2037-10-27"
+    },
+    "pick-shimokita": {
+      "hours": "12.00–20.00",
+      "closed": null,
+      "note": "Dükkâna göre değişir; kapalı günler çoğunlukla Pazartesi/Salı",
+      "source": "https://www.getaroundjapan.jp/archives/2683",
+      "checked": "2037-10-27"
+    },
+    "pick-kamakura": {
+      "hours": "08.00–17.00",
+      "closed": null,
+      "note": "Kotoku-in Büyük Buda; Ekim–Mart saati; son giriş kapanıştan 15 dk önce",
+      "source": "https://www.japan-guide.com/e/e3100.html",
+      "checked": "2037-10-27"
+    },
+    "pick-asakusa-tic": {
+      "hours": "09.00–22.00",
+      "closed": null,
+      "note": "8. kat terası; turizm merkezi 09.00–20.00",
+      "source": "https://tokyotouristinfo.com/en/detail/K0002",
+      "checked": "2037-10-27"
+    },
+    "pick-hikarie": {
+      "hours": "07.00–24.00",
+      "closed": null,
+      "note": "11. kat Sky Lobby, ücretsiz",
+      "source": "https://nightscape.tokyo/en/shibuya/shibuya-hikarie/",
+      "checked": "2037-10-27"
+    },
+    "pick-harukas16": {
+      "hours": "09.00–22.00",
+      "closed": null,
+      "note": "Döneme göre değişir; resmî site erişilemedi, ikincil kaynak; geçen kış aydınlatma döneminde bahçe 17.00–22.30",
+      "source": "https://news.yahoo.co.jp/expert/articles/b44fb3981d84bb705d68ce05308ab7f056f7944d",
+      "checked": "2037-10-27"
+    },
+    "pick-sanjusangendo": {
+      "hours": "08.30–17.00",
+      "closed": null,
+      "note": "16 Kasım'dan itibaren 09.00–16.00; bilet satışı kapanıştan 30 dk önce biter",
+      "source": "https://www.sanjusangendo.jp/",
+      "checked": "2037-10-27"
+    },
+    "pick-nijo": {
+      "hours": "08.45–17.00",
+      "closed": null,
+      "note": "Son giriş 16.00; Honmaru Sarayı her ayın 3. Pazartesi ve ertesi günü kapalı (16–17 Kasım)",
+      "source": "https://nijo-jocastle.city.kyoto.lg.jp/?lang=en",
+      "checked": "2037-10-27"
+    },
+    "pick-himeji": {
+      "hours": "09.00–17.00",
+      "closed": null,
+      "note": "Son giriş 16.00; 29–30 Aralık kapalı",
+      "source": "https://www.japan-guide.com/e/e3501.html",
+      "checked": "2037-10-27"
+    },
+    "pick-byodoin": {
+      "hours": "08.45–17.30",
+      "closed": null,
+      "note": "Son giriş 17.15; Anka Salonu turları 09.30–16.10; müze 09.00–17.00",
+      "source": "https://www.japan-guide.com/e/e3923.html",
+      "checked": "2037-10-27"
+    },
+    "pick-horyuji": {
+      "hours": "08.00–16.30",
+      "closed": null,
+      "note": "Kasım başından şubat sonuna kadar kapanış 16.30",
+      "source": "https://www.japan-guide.com/e/e4104.html",
+      "checked": "2037-10-27"
+    },
+    "pick-shitennoji": {
+      "hours": "08.30–16.00",
+      "closed": null,
+      "note": "Ekim–Mart saati; bahçe bazı günler kapalı",
+      "source": "https://www.japan-guide.com/e/e4011.html",
+      "checked": "2037-10-27"
+    },
+    "pick-nikko": {
+      "hours": "09.00–16.00",
+      "closed": null,
+      "note": "Kasım–Mart saati; son giriş kapanıştan 30 dk önce",
+      "source": "https://www.japan-guide.com/e/e3801.html",
+      "checked": "2037-10-27"
+    },
+    "pick-teamlab-borderless": {
+      "hours": "08.30–21.00",
+      "closed": "Düzensiz",
+      "note": "Son giriş kapanıştan 1 saat önce; 9, 12, 13 Kasım 22.00'ye kadar; 24 Kasım Salı kapalı",
+      "source": "https://www.teamlab.art/e/borderless-azabudai/",
+      "checked": "2037-10-27"
+    },
+    "pick-kabuki": {
+      "hours": "Matine 11.00'de, akşam bölümü 16.30'da başlar",
+      "closed": "Düzensiz",
+      "note": "Kasım programı 1–25 Kasım; 9 ve 17 Kasım temsil yok; tek perde biletleri 4. kat",
+      "source": "https://www.kabukiweb.net/theatres/kabukiza/kabukiza_november_2026/",
+      "checked": "2037-10-27"
+    },
+    "pick-spa-world": {
+      "hours": "10.00–08.45",
+      "closed": null,
+      "note": "Onsen; 08.45–10.00 arası temizlik; gece yarısından sonra ek ücret",
+      "source": "https://www.spaworld.co.jp/info/eigyo/",
+      "checked": "2037-10-27"
+    },
+    "pick-ghibli": {
+      "hours": "10.00–18.00",
+      "closed": "Düzensiz",
+      "note": "Rezervasyonla giriş; Kasım 2037'da 4–18 ve 24 Kasım kapalı, yalnız 19–23 Kasım açık",
+      "source": "https://www.ghibli-museum.jp/en/tickets/",
+      "checked": "2037-10-27"
+    },
+    "pick-rikuro": {
+      "hours": "09.00–20.00",
+      "closed": null,
+      "note": "1. kat dükkân; 2. kat kafe 11.00–17.30 (son sipariş 16.30)",
+      "source": "https://www.rikuro.co.jp/shoplist/134.html",
+      "checked": "2037-10-27"
+    },
+    "pick-shigetsu": {
+      "hours": "11.00–14.00",
+      "closed": "Perşembe",
+      "note": null,
+      "source": "https://www.tenryuji.com/en/shigetsu/",
+      "checked": "2037-10-27"
+    },
+    "pick-kikunoi": {
+      "hours": "Öğle 12.00–12.30, akşam 17.00–19.30 (son sipariş/giriş aralığı)",
+      "closed": "Ayın 1. ve 3. Salısı",
+      "note": "Kasım 2037'da 3 ve 17 Kasım kapalı; rezervasyon gerekir",
+      "source": "https://kikunoi.jp/en/",
+      "checked": "2037-10-27"
+    },
+    "pick-daikokuya": {
+      "hours": "11.00–20.00",
+      "closed": null,
+      "note": "Bazı kaynaklar Cumartesi/tatil 21.00'e kadar diyor",
+      "source": "https://www.gltjp.com/en/directory/item/10627",
+      "checked": "2037-10-27"
+    },
+    "pick-maisen": {
+      "hours": "11.00–22.00",
+      "closed": null,
+      "note": "Son sipariş 21.00; yalnız 1–2 Ocak kapalı",
+      "source": "https://mai-sen.com/restaurant/aoyama/",
+      "checked": "2037-10-27"
+    },
+    "pick-daiso": {
+      "hours": "10.00–23.00",
+      "closed": null,
+      "note": "Daiso Namba Ebisubashi; ikincil kaynak, şubeye göre değişir",
+      "source": "https://www.ekiten.jp/g0322/st2867/?f%5B%5D=7",
+      "checked": "2037-10-27"
+    },
+    "pick-tempura-makino": {
+      "hours": "11.00–21.30",
+      "closed": null,
+      "note": "Namba Sennichimae şubesi; son sipariş 21.00",
+      "source": "https://tabelog.com/en/osaka/A2701/A270202/27095097/",
+      "checked": "2037-10-27"
+    },
+    "pick-shogun-burger": {
+      "hours": "Pazartesi, Perşembe, Pazar 11.00–23.00; Salı, Çarşamba, Cuma, Cumartesi 11.00–02.00",
+      "closed": "Düzensiz",
+      "note": "Shinsaibashi şubesi",
+      "source": "https://tabelog.com/en/osaka/A2701/A270202/27133604/",
+      "checked": "2037-10-27"
+    },
+    "pick-namba-yasaka": {
+      "hours": "06.00–17.00",
+      "closed": null,
+      "note": "Ofis/ziyaret işlemleri 09.00–16.50",
+      "source": "http://osaka-info.jp/en/spot/nanbayasakajinja/",
+      "checked": "2037-10-27"
+    },
+    "pick-amerikamura": {
+      "hours": "12.00–20.00",
+      "closed": null,
+      "note": "Dükkâna göre değişir",
+      "source": "https://www.japannakama.co.uk/travel/osaka-guides/amerikamura-osakas-center-of-youth-culture-and-street-fashion/",
+      "checked": "2037-10-27"
+    },
+    "pick-ginkakuji": {
+      "hours": "08.30–17.00",
+      "closed": null,
+      "note": "Mart–Kasım saati; Felsefe Yolu açık alan",
+      "source": "https://www.japan-guide.com/e/e3907.html",
+      "checked": "2037-10-27"
+    },
+    "pick-ajinoya": {
+      "hours": "11.00–22.00",
+      "closed": "Pazartesi",
+      "note": "Resmî tatillerde açık olabilir (23 Kasım için teyit et)",
+      "source": "https://hcs.heteml.net/okonomiyaki/en/company/main-shop/",
+      "checked": "2037-10-27"
+    },
+    "pick-katsuoji": {
+      "hours": "Hafta içi 08.00–17.00; Cumartesi 08.00–18.00; Pazar ve tatil 08.00–17.00",
+      "closed": null,
+      "note": "Son kabul kapanıştan 30 dk önce; sonbahar aydınlatma tarihleri sitede görselde, teyit edilemedi",
+      "source": "https://www.katsuo-ji-temple.or.jp/",
+      "checked": "2037-10-27"
+    },
+    "pick-aeon-mall": {
+      "hours": "10.00–21.00",
+      "closed": null,
+      "note": "AEON Mall Osaka Dome City mağazaları; restoranlar farklı",
+      "source": "https://www.aeon.com/store/イオン/イオン大阪ドームシティ店/shop_info/hours/",
+      "checked": "2037-10-27"
+    },
+    "pick-jins": {
+      "hours": "11.00–22.00",
+      "closed": null,
+      "note": "JINS Shinsaibashi; ikincil kaynak",
+      "source": "https://tokubai.co.jp/transit/rail_lines/station_groups/5486/glasses_shop",
+      "checked": "2037-10-27"
+    },
+    "pick-tokyo-flea": {
+      "hours": "08.45–14.15",
+      "closed": "Düzensiz",
+      "note": "Yalnız etkinlik günleri: 14, 15, 21, 22 Kasım 08.45–14.15; 23 Kasım 08.45–13.30; yağmurda iptal",
+      "source": "https://trx.jp/schejule",
+      "checked": "2037-10-27"
+    },
+    "pick-hardoff-higashiyamato": {
+      "hours": "10.30–19.30",
+      "closed": null,
+      "note": "Yıl boyu açık",
+      "source": "https://www.hardoff.co.jp/shop/detail/?p=201271",
+      "checked": "2037-10-27"
+    },
+    "pick-hardoff-hachioji": {
+      "hours": "10.30–19.30",
+      "closed": null,
+      "note": "Yıl boyu açık",
+      "source": "https://www.hardoff.co.jp/shop/detail/?p=201028",
+      "checked": "2037-10-27"
+    },
+    "pick-surugaya": {
+      "hours": "Hafta içi 11.00–21.00; hafta sonu ve tatil 10.00–21.00",
+      "closed": null,
+      "note": "Surugaya Akihabara Honkan; diğer şubeler farklı",
+      "source": "https://www.suruga-ya.jp/feature/realstore/akihabara_main/index.html",
+      "checked": "2037-10-27"
+    },
+    "pick-shinjuku-3d-kedi": {
+      "hours": "07.00–01.00",
+      "closed": null,
+      "note": "Kedi videosu her saat :00, :15, :30, :45'te",
+      "source": "https://cdn.gltjp.com/en/directory/item/17061/",
+      "checked": "2037-10-27"
+    },
+    "pick-edo-tokyo": {
+      "hours": "09.30–17.30 (son giriş 17.00); Cumartesi 09.30–19.30",
+      "closed": "Pazartesi (tatilse ertesi gün)",
+      "openOnDate": null,
+      "note": null,
+      "source": "https://www.edo-tokyo-museum.or.jp/",
+      "date": null
+    },
+    "pick-snoopy-chocolat": {
+      "hours": "09.30–17.30 (Kiyomizuzaka); Arashiyama 10.00–18.00",
+      "closed": null,
+      "openOnDate": null,
+      "note": null,
+      "source": "https://www.snoopy-chocolat.jp/",
+      "date": null
+    },
+    "pick-snoopy-town": {
+      "hours": "10.00–21.00",
+      "closed": "Düzensiz",
+      "openOnDate": null,
+      "note": null,
+      "source": null,
+      "date": null
+    },
+    "pick-snoopy-museum": {
+      "hours": "Hafta içi 10.00–18.00; hafta sonu/tatil 10.00–19.00",
+      "closed": null,
+      "openOnDate": null,
+      "note": null,
+      "source": "https://snoopymuseum.tokyo/",
+      "date": null
+    },
+    "pick-donguri": {
+      "hours": "Ninenzaka 10.30–18.30; Kiyomizu 09.30–17.30",
+      "closed": "Düzensiz",
+      "openOnDate": null,
+      "note": null,
+      "source": "https://www.benelic.com/donguri/shop-list/",
+      "date": null
+    },
+    "pick-shirohige": {
+      "hours": "10.30–19.00",
+      "closed": "Salı (tatilse açık, ertesi Çarşamba kapalı)",
+      "openOnDate": null,
+      "note": null,
+      "source": null,
+      "date": null
+    },
+    "pick-hardoff-city": {
+      "hours": "11.00–20.00 (Shinjuku); Okachimachi hafta içi 11.00–21.00",
+      "closed": null,
+      "openOnDate": null,
+      "note": null,
+      "source": null,
+      "date": null
+    },
+    "pick-steak-shima": {
+      "hours": "12.00–13.00, 18.00–21.00",
+      "closed": "Pazar",
+      "openOnDate": null,
+      "note": null,
+      "source": null,
+      "date": null
+    },
+    "pick-yodobashi-akiba": {
+      "hours": "09.30–22.00",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Yılın her günü açık; bazı katlardaki operatör dükkânları farklı saatte.",
+      "source": "https://tokyotouristinfo.com/detail/M0288",
+      "date": "2037-11-18"
+    },
+    "pick-2k540": {
+      "hours": "11.00–19.00",
+      "closed": "Çarşamba",
+      "openOnDate": true,
+      "note": "19 Kasım Perşembe açık.",
+      "source": "https://www.jrtk.jp/2k540/",
+      "date": "2037-11-19"
+    },
+    "pick-tonkatsu-yamabe": {
+      "hours": "11.00–15.00, 17.00–21.30 (son sipariş 21.00)",
+      "closed": null,
+      "openOnDate": true,
+      "note": "Kaynakların çoğu her gün açık diyor (biri yalnız 1 Ocak kapalı). Öğle sırası uzun olabilir.",
+      "source": "https://news.yahoo.co.jp/expert/articles/e5dd47138a3aaf5d8d5de8e9b9309c977fbbfbab",
+      "date": "2037-11-19"
+    },
+    "pick-kikanbo": {
+      "hours": "11.00–21.30",
+      "closed": null,
+      "openOnDate": null,
+      "note": "Kapalı gün doğrulanmadı; Kanda istasyonu ~2 dk.",
+      "source": "https://hamoni.jp/area/tokyo/chiyoda/kanda/shops/oyakodon",
+      "date": "2037-11-23"
+    }
+  },
+  "pick-dawn-cafe": {
+    "hours": "11.00–21.00",
+    "closed": null,
+    "openOnDate": null,
+    "note": "Özel etkinliklerde saat değişebilir; gitmeden Google sayfasına bak",
+    "source": "https://dawn2021.orylab.com/en/",
+    "date": null
+  },
+  "pick-hp-cafe": {
+    "hours": "10.00–22.00 (son sipariş 21.30); Window 11.00–21.00",
+    "closed": null,
+    "openOnDate": null,
+    "note": "17.00’dan sonra akşam menüsü",
+    "source": "https://hpcafe.jp/",
+    "date": null
+  }
+}

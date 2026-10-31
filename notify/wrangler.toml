@@ -1,0 +1,12 @@
+# Telegram bildirim Worker'ı (yalnız zamanlayıcı; web adresi kapalı). Yayın: npx wrangler deploy -c notify/wrangler.toml
+name = "japonya-gezi-bildirim"
+main = "index.js"
+compatibility_date = "2026-10-01"
+workers_dev = false
+
+[[kv_namespaces]]
+binding = "CHECKS"
+id = "<KV_NAMESPACE_ID>"
+
+[triggers]
+crons = ["0 6 * * *", "0 17 * * *", "0 23 * * *", "0 12 * * *", "*/10 * * * *"]

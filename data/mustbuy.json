@@ -1,0 +1,1169 @@
+{
+  "checkedAt": "2037-10-25",
+  "intro": "Japonya’dan ne alınır, nereden, ne kadar. ★ puanı Türkiye’ye göre ne kadar değerli olduğunu gösterir. “kaynak” yazan fiyatlar doğrulandı, diğerleri tahmini; raf fiyatı değişebilir.",
+  "categories": [
+    {
+      "id": "atistirmalik",
+      "title": "Atıştırmalık ve yiyecek",
+      "items": [
+        {
+          "id": "kitkat-bolgesel",
+          "name": "Bölgesel Kit Kat çeşitleri",
+          "where": "Donki, istasyon hediyelikçileri, havalimanı",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Matcha, sake, bölgeye özel tatlar. Küçük paket al; çikolata sıcakta erir.",
+          "ja": "キットカット 地域限定"
+        },
+        {
+          "id": "pocky-pretz",
+          "name": "Pocky ve Pretz sınırlı/bölgesel tatlar",
+          "where": "Market, konbini, Donki",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Tuzlu Pretz çeşitleri Japonya dışında zor bulunur."
+        },
+        {
+          "id": "jagariko",
+          "name": "Calbee Jagariko ve mevsimlik cips",
+          "where": "Konbini, süpermarket",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Hafif ama hacimli; valizde ezilmemesi için üstte taşı.",
+          "ja": "じゃがりこ"
+        },
+        {
+          "id": "tokyo-banana",
+          "checkKey": "pick-tokyo-banana",
+          "name": "Tokyo Banana / Royce' çikolata",
+          "where": "Tokyo Garı Gransta, Haneda",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Klasik paketli hediyelik; raf ömrü kısa, Royce' soğuk saklama ister. Son gün al.",
+          "ja": "東京ばな奈"
+        },
+        {
+          "id": "curry",
+          "checkKey": "pick-curry",
+          "name": "Japon köri küpleri, furikake, Kewpie mayonez",
+          "where": "Süpermarket (Life, Gyomu Super)",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Evde Japon yemeği için ucuz temel ürünler; içerik etiketini oku."
+        },
+        {
+          "id": "kayanoya",
+          "checkKey": "pick-kayanoya",
+          "name": "Kayanoya dashi paketleri",
+          "where": "Coredo Muromachi (Nihonbashi), Tokyo Midtown",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Poşet çay gibi kullanılan premium et suyu; hafif, valize uygun."
+        },
+        {
+          "id": "cay-kyoto",
+          "name": "Kyoto çayı: sencha, hojicha, matcha",
+          "where": "Fukujuen (Kyoto), Uji ürünleri",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Ana listede de var; ilk kez alıyorsan küçük paket."
+        },
+        {
+          "id": "wagashi",
+          "name": "Kuru wagashi ve senbei",
+          "where": "Depachika, Nishiki, Asakusa",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Taze wagashi dayanmaz; kuru çeşit ve pirinç krakeri seç."
+        },
+        {
+          "id": "muji-furikake",
+          "name": "MUJI furikake: Dashi Curry ve Kyō Rāyu",
+          "where": "MUJI (Namba, Ginza)",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Videoda “günlerce aradım, MUJI’de buldum” deniyor; pilav üstüne baharat. Ucuz ve hafif hediye.",
+          "ig": [
+            16
+          ],
+          "ja": "だしカレーふりかけ／京ラー油ふりかけ"
+        }
+      ]
+    },
+    {
+      "id": "eczane",
+      "title": "Eczane (drugstore) ve kozmetik",
+      "items": [
+        {
+          "id": "melano",
+          "checkKey": "pick-melano",
+          "name": "Melano CC C vitamini serum",
+          "where": "Cocokarafine, Matsumoto Kiyoshi, Donki",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Ucuz ve popüler; hassas ciltte önce az dene. Premium Essence’ta 3 tür C vitamini türevi var; aynı serinin Melano CC + AZ yaprak maskesi gözenek için.",
+          "ig": [
+            80,
+            101
+          ],
+          "ja": "メラノCC 薬用しみ集中対策美容液"
+        },
+        {
+          "id": "biore",
+          "checkKey": "pick-biore",
+          "name": "Bioré UV Aqua Rich güneş kremi",
+          "where": "Drugstore",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Günlük, hafif; ANESSA'dan ucuz ama suya dayanıklılığı daha düşük.",
+          "ig": [
+            80
+          ],
+          "ja": "ビオレUV アクアリッチ ウォータリーエッセンス"
+        },
+        {
+          "id": "lululun",
+          "checkKey": "pick-lululun",
+          "name": "Lululun yüz maskesi",
+          "where": "Drugstore",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Bölgesel seriler hediyelik; kutular hacimli.",
+          "ja": "ルルルン フェイスマスク"
+        },
+        {
+          "id": "megrhythm",
+          "name": "Kao MegRhythm ısınan göz maskesi",
+          "where": "Drugstore, Donki",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Tek kullanımlık, kendiliğinden ısınır; uzun uçuş ve yorgun gözler için. 12’li kutu ¥1.280 (vergili ¥1.408), Matsukiyo rafı.",
+          "ig": [
+            90,
+            96
+          ],
+          "ja": "めぐりズム 蒸気でホットアイマスク"
+        },
+        {
+          "id": "salonpas",
+          "name": "Salonpas / ağrı bandı",
+          "where": "Drugstore",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Çok yürüyüşlü günler için; içerik ve kullanım talimatını oku.",
+          "es": true,
+          "ja": "サロンパス"
+        },
+        {
+          "id": "sunscreen-anessa",
+          "name": "ANESSA Perfect UV (ana listede)",
+          "where": "Cocokarafine, Donki",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Ana alışveriş listesinde model ve fiyatıyla var.",
+          "es": true,
+          "ja": "アネッサ パーフェクトUV スキンケアミルク"
+        },
+        {
+          "id": "ayak-konbini",
+          "name": "Yorgun ayak için konbini içecekleri (Ukon no Chikara, Kireto Lemon, limonlu jöle)",
+          "where": "Konbini, eczane",
+          "tier": "F/P",
+          "score": 2,
+          "note": "Videodaki 'ayak şişliği' önerisi; tıbbi tavsiye değil, içerikleri oku.",
+          "ig": [
+            64
+          ],
+          "ja": "休足時間（足のシート）"
+        },
+        {
+          "id": "agri-bantlari",
+          "name": "Ağrı bantları (bacak, ayak, sırt, baş)",
+          "where": "Matsumoto Kiyoshi, Sugi, Welcia, Daikoku Drug",
+          "tier": "F/P",
+          "score": 5,
+          "note": "Sırt/bacak için Salonpas, Feitas, Loxonin S Tape; ayak için Kyusoku Jikan (gece). Baş ağrısı için alna yapıştırılan serinletici bant (Netsusama Sheet). İlaçlı bantlarda eczacıya danış.",
+          "es": true,
+          "ig": [
+            90
+          ],
+          "ja": "湿布（ロキソニンSテープ、フェイタス）"
+        },
+        {
+          "id": "regl-bandi",
+          "name": "Regl ağrısı için ısıtıcı bant",
+          "where": "Eczaneler, konbini",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Kairo/Megrhythm sıcak yamaları; iç çamaşırı üstüne yapıştırılan türü seç. Cilde doğrudan yapıştırma.",
+          "es": true,
+          "ja": "生理痛用の温熱シート（下腹部用）"
+        },
+        {
+          "id": "bacak-icecek",
+          "name": "Bacak krampı için karışım",
+          "where": "Eczane (eczacıya “komura-gaeri” de)",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Japonya’da bacak krampına 芍薬甘草湯 (Shakuyaku-kanzō-tō) granül karışım satılır; suyla içilir. İlaç kullanıyorsan önce eczacıya sor.",
+          "es": true,
+          "ja": "芍薬甘草湯（こむら返り用）"
+        },
+        {
+          "id": "kolajen",
+          "name": "Kolajen",
+          "where": "Eczaneler, Don Quijote",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Shiseido The Collagen (içecek/tablet) ve Meiji Amino Collagen yaygın. Sıvı içecekler bagajda ağır.",
+          "es": true,
+          "ja": "ザ・コラーゲン（資生堂）"
+        },
+        {
+          "id": "tirnak",
+          "name": "Tırnak ürünleri, kalıcı oje ve kurutma makinesi",
+          "where": "Loft, Don Quijote, Daiso, 3Coins, Plaza",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Soyulabilir jel ojeler ve UV/LED kurutucu Loft ve Donki’de. Kurutucu prizli ise Japonya 100 V; Türkiye 220 V için etiketine bak (100–240 V yazmalı).",
+          "es": true,
+          "ja": "ジェルネイル と UVライト"
+        },
+        {
+          "id": "siyah-nokta",
+          "name": "3Coins siyah nokta temizleme aleti",
+          "where": "3Coins",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Bataryalı ise pilini kabin bagajına koy.",
+          "es": true,
+          "ja": "毛穴吸引器"
+        },
+        {
+          "id": "ysl-ruj",
+          "name": "YSL isme özel ruj (gravürlü)",
+          "where": "YSL Beauty Tokyo mağazaları (ör. Omotesando, Ginza depato)",
+          "tier": "Lüks",
+          "score": 3,
+          "note": "Gravür hizmeti mağazaya ve döneme göre değişir; sakuralı özel seri baharda olabilir, Kasımda yoksa gravür seçeneğini sor. Videodaki mağaza: YSL Beauty Omotesando (Omotesando Hills batı kanadı 1. kat, 11.00–20.00), 21 Kasım rotasında; gravür/isim baskısının 2037’da sürdüğü doğrulanamadı.",
+          "es": true,
+          "ig": [
+            22
+          ]
+        },
+        {
+          "id": "fujiko-sampuan",
+          "name": "Fujiko kuru şampuan",
+          "where": "Loft, Plaza, Don Quijote, eczaneler",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Toz/sprey türleri var. Sprey (aerosol) ise Çin aktarmasında sorun çıkabilir; tozu tercih et.",
+          "es": true,
+          "ig": [
+            92
+          ],
+          "ja": "フジコ ポンポンパフ ドライシャンプー"
+        },
+        {
+          "id": "kissme-maskara",
+          "name": "Heroine Make (KissMe) maskara",
+          "where": "Eczaneler, Don Quijote, Loft",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Suya dayanıklı, kıvrık kalıcı; Türkiye fiyatının yarısı civarında.",
+          "es": true,
+          "ig": [
+            92
+          ],
+          "ja": "ヒロインメイク マスカラ"
+        },
+        {
+          "id": "gunes-stick",
+          "name": "Güneş kremi (normal ve stick)",
+          "where": "Eczaneler, Don Quijote",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Anessa, Biore UV Aqua Rich, Skin Aqua; stick için Anessa veya Allie. Sıvıları kayıtlı bagaja.",
+          "es": true,
+          "ja": "日焼け止めスティック"
+        },
+        {
+          "id": "haku-pola",
+          "name": "Yaşlanma karşıtı: Haku Melano Focus, Pola Wrinkle Shot",
+          "where": "Matsumoto Kiyoshi, @cosme, depato kozmetik katı",
+          "tier": "Lüks",
+          "score": 4,
+          "note": "Instagram’daki 41 yaşındaki kullanıcının en iyileri: Haku Melano Focus serum ve gece maskesi, Pola Wrinkle Shot (kırışıklık), Biore kil yüz yıkama. Pola pahalı; tax-free ile al.",
+          "ig": [
+            80
+          ],
+          "ja": "HAKU メラノフォーカス／ポーラ リンクルショット"
+        },
+        {
+          "id": "sac-bakimi",
+          "name": "Japon saç bakımı (Fino, Tsubaki, The Answer, 8 The Thalasso)",
+          "where": "Donki, eczaneler, Loft, Ainz & Tulpe",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Fino saç maskesi/yağı ince tele iyi; yorumlara göre Tsubaki daha iyi. Kakül için Cape maskara. Sıvıları kayıtlı bagaja koy. The Answer saç sütü ~¥1.300–1.430.",
+          "ig": [
+            87,
+            89,
+            92,
+            98,
+            99
+          ],
+          "ja": "フィーノ ヘアマスク／TSUBAKI"
+        },
+        {
+          "id": "kirpik-kivirici",
+          "name": "Shiseido kirpik kıvırıcı",
+          "where": "Donki, @cosme, Loft, eczaneler",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Japonya’da çok popüler, kıvırması kalıcı; yedek lastiğiyle satılır. D-UP Perfect Extension maskara da öneriliyor.",
+          "ig": [
+            92
+          ],
+          "ja": "資生堂 アイラッシュカーラー 213"
+        },
+        {
+          "id": "kairo",
+          "name": "Kairo ısı bandı (yapışan / ayak tipi)",
+          "where": "Matsumoto Kiyoshi, eczaneler, konbini",
+          "tier": "F/P",
+          "score": 5,
+          "note": "Kıyafetin üstüne yapışır, ~7–8 saat ısıtır; Kasım sabah/akşamları gezide hemen kullanın. Matsukiyo 10’lu ~¥798, ayak tipi de var. Cilde doğrudan yapıştırmayın.",
+          "ig": [
+            96
+          ],
+          "ja": "貼るカイロ"
+        },
+        {
+          "id": "harenurse",
+          "name": "Harenurse boğaz pastili (Kobayashi)",
+          "where": "Matsumoto Kiyoshi, eczaneler",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Boğaz ağrısı/şişliği için ağızda eriyen pastil (18’li). Yorumlarda çok övülüyor. İlaç sayılır: kendi kullanımınız kadar alın, prospektüse bakın.",
+          "ig": [
+            96
+          ],
+          "ja": "ハレナース"
+        },
+        {
+          "id": "roihi",
+          "name": "Roihi-Tsuboko ısıtan yuvarlak ağrı bandı",
+          "where": "Eczaneler, Donki",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Küçük yuvarlak bantlar; boyun/omuz noktasal ağrı için. Salonpas’a alternatif.",
+          "ig": [
+            99
+          ],
+          "ja": "ロイヒつぼ膏"
+        },
+        {
+          "id": "matomage",
+          "name": "Diane Matomage saç toplama stick’i",
+          "where": "Daikoku Drug, eczaneler, Loft",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Kabarık/uçuşan saçı toplar; videoda ¥598 (vergili ~¥657). Fino/&honey gibi viral ürünler yerine önerilen alternatiflerden.",
+          "ig": [
+            98
+          ],
+          "ja": "まとめ髪スティック"
+        },
+        {
+          "id": "melt",
+          "name": "melt toz şampuan ve saç derisi spreyi",
+          "where": "Loft, Plaza, eczaneler",
+          "tier": "Orta",
+          "score": 3,
+          "note": "Creamy Melt Powder (1 g × 10) ~¥1.800; seyahatte pratik. Aynı serinin Sparkling Care saç derisi spreyi de var. &honey viral ama videoya göre bunlar daha iyi.",
+          "ig": [
+            98,
+            99
+          ],
+          "ja": "メルト"
+        },
+        {
+          "id": "derma-vc100",
+          "name": "Derma Laser Super VC100 yüz maskesi",
+          "where": "Drugstore (Matsukiyo, Cocokarafine), Donki",
+          "tier": "F/P",
+          "score": 4,
+          "note": "C vitaminli kâğıt maske; videoda Keana pirinç maskesi yerine öneriliyor.",
+          "ig": [
+            67
+          ],
+          "ja": "ダーマレーザー スーパーVC100 マスク",
+          "es": true
+        },
+        {
+          "id": "botanist",
+          "name": "BOTANIST Botanical Shampoo Moist",
+          "where": "Drugstore (Matsukiyo, Cocokarafine), Donki",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Videoda &honey yerine öneriliyor. Sıvı: kayıtlı bagaja.",
+          "ig": [
+            67
+          ],
+          "ja": "ボタニスト ボタニカルシャンプー モイスト",
+          "es": true
+        },
+        {
+          "id": "house-of-rose",
+          "name": "House of Rose Oh! Baby vücut peelingi",
+          "where": "House of Rose, Loft",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Dove scrub yerine öneriliyor; House of Rose mağazaları ve bazı drugstore’lar.",
+          "ig": [
+            67
+          ],
+          "ja": "ハウスオブローゼ ボディスムーザー",
+          "es": true
+        },
+        {
+          "id": "elixir-mist",
+          "name": "ELIXIR Tsuyadama Mist",
+          "where": "Drugstore (Matsukiyo, Cocokarafine), Donki",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Makyaj üstüne parlaklık spreyi; Japonya’da sosyal medyada çok konuşulan ürün.",
+          "ig": [
+            67
+          ],
+          "ja": "エリクシール つや玉ミスト",
+          "es": true
+        },
+        {
+          "id": "elixir-toneup",
+          "name": "ELIXIR Day Care Revolution Tone Up SPF50",
+          "where": "Drugstore (Matsukiyo, Cocokarafine), Donki",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Gündüz nemlendirici + ton eşitleyici + güneş koruma; @cosme 2024 ödüllü.",
+          "ig": [
+            67
+          ],
+          "ja": "エリクシール デーケアレボリューション トーンアップ",
+          "es": true
+        },
+        {
+          "id": "rosy-rosa",
+          "name": "Rosy Rosa makyaj pufu",
+          "where": "Drugstore, Loft",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Tüm fondötenler için puf, ~¥580; ucuz ve çok satan.",
+          "ig": [
+            67
+          ],
+          "ja": "ロージーローザ パフ",
+          "es": true
+        },
+        {
+          "id": "daiso-kyumme",
+          "name": "Daiso Kyumme makyaj (far paleti, kaş kalemi, kapatıcı)",
+          "where": "Daiso",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Daiso’nun kendi makyaj serisi; videoda ¥200 etiketli raflar görünüyor (fiyat doğrulanmadı). Önce test edip renk seçin.",
+          "ig": [
+            120
+          ],
+          "es": true
+        },
+        {
+          "id": "repair-one",
+          "name": "Mentholatum Repair ONE gece dudak bakımı",
+          "where": "Drugstore (Matsukiyo, Cocokarafine), Donki",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Gece kullanılan dudak bakım stick’i.",
+          "ig": [
+            67
+          ],
+          "ja": "メンソレータム リペアワン ナイトリップ",
+          "es": true
+        },
+        {
+          "id": "lip-monster",
+          "name": "KATE Lip Monster ruj",
+          "where": "Drugstore (Matsukiyo, Cocokarafine), Donki",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Uzun süre kalıcı, Japonya’nın en çok satan rujlarından; renk seçerek alın.",
+          "ig": [
+            67
+          ],
+          "ja": "ケイト リップモンスター",
+          "es": true
+        },
+        {
+          "id": "regl-urunleri",
+          "name": "Japon regl ürünleri (çift katlı ped, pelin ısıtma pedi, Period Melt)",
+          "where": "Matsumoto Kiyoshi, Cocokarafine, Welcia, Loft",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Sarasaty çift katlı günlük ped (üst katı soyulup ikinci kez kullanılır), WithFEM pelin (yomogi) ısıtma pedi, UHA Period Melt (B vitamini, susuz eriyen tablet), NaturaMoon organik pamuk regl külodu. Tablet takviyedir, ilaç kullanıyorsan eczacıya sor.",
+          "es": true,
+          "ig": [
+            100
+          ]
+        },
+        {
+          "id": "hada-labo-goz",
+          "name": "Hada Labo Gokujyun göz kremi ve kırmızı şişe emülsiyon",
+          "where": "Matsumoto Kiyoshi, Cocokarafine, Donki",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Premium Hyaluronic Eye Cream 7 tür hyalüronik asit içerir. Kırmızı şişe (Aging Care Firming) niasinamidli, kırışıklık karşıtı. Sıvılar kayıtlı bagaja.",
+          "es": true,
+          "ig": [
+            101
+          ],
+          "ja": "肌ラボ 極潤"
+        },
+        {
+          "id": "ducato-parlatma",
+          "name": "Ducato tırnak parlatma seti (ojesiz parlaklık)",
+          "where": "Loft, Plaza, Don Quijote, eczaneler (Matsumoto Kiyoshi)",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Set: törpü, buffer (tampon) ve pembe killi parlatma cilası. Törpüle → cilayı tamponla bastırarak sür → cilasız yüzle parlat. Oje gibi parlak görünür, duşta gitmez; tırnak nefes alır.",
+          "es": true,
+          "ig": [
+            110
+          ],
+          "ja": "デュカート ネイルケア 爪磨き"
+        }
+      ]
+    },
+    {
+      "id": "mutfak",
+      "title": "Mutfak ve ev",
+      "items": [
+        {
+          "id": "bicak",
+          "name": "Japon mutfak bıçağı (ana listede)",
+          "where": "Sakai Ichimonji (Osaka), Kappabashi (Tokyo)",
+          "tier": "Orta",
+          "score": 5,
+          "note": "Kayıtlı bagaja. Ana listede santoku ve petty ayrıntılı.",
+          "es": true,
+          "ig": [
+            82
+          ],
+          "ja": "包丁（三徳包丁・ペティナイフ）"
+        },
+        {
+          "id": "bento",
+          "name": "Bento kutusu ve yemek çubuğu seti",
+          "where": "Hands, Loft, Kappabashi, Daiso",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Daiso'da çok ucuz; kaliteli olanı Hands/Kappabashi."
+        },
+        {
+          "id": "seramik",
+          "name": "Seramik kase ve çay fincanı",
+          "where": "Doguyasuji, Kappabashi, bit pazarları",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Kırılmaya karşı giysiye sar, kayıtlı bagajın ortasına."
+        },
+        {
+          "id": "termos",
+          "name": "THERMOS / Zojirushi termos",
+          "where": "Hands, Bic Camera",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Ana listede THERMOS JNL-S500 var; Zojirushi ile kıyasla.",
+          "ja": "サーモス 水筒（真空断熱ケータイマグ）"
+        },
+        {
+          "id": "nishikawa-yastik",
+          "name": "Nishikawa yastık",
+          "where": "Nishikawa Rose Shinsoukan, Shimogamo (Kyoto)",
+          "tier": "Orta",
+          "score": 2,
+          "note": "Uyku kalitesi için önerilmiş; mağaza rotanızın dışında ve yastık valizde çok yer kaplar.",
+          "ig": [
+            0
+          ]
+        },
+        {
+          "id": "kamakura-bicak",
+          "name": "Kamakura'da uygun fiyatlı Damascus bıçak",
+          "where": "Kamakura (20 Kasım Kamakura seçilirse)",
+          "tier": "Orta",
+          "score": 3,
+          "note": "Videoda Kamakura dükkânlarında bulunmuş; Sakai/Kappabashi ile kıyasla.",
+          "ig": [
+            44
+          ]
+        },
+        {
+          "id": "matcha-seti",
+          "name": "Matcha, fırçası (chasen) ve kasesi (chawan)",
+          "where": "Kyoto Uji (Ippodo, Marukyu Koyamaen), Ippodo Tokyo, depato",
+          "tier": "Orta",
+          "score": 5,
+          "note": "Uji matchası taze ve kaliteli. Fırça bambu ve kırılgan; kutusunda taşı.",
+          "es": true,
+          "ja": "抹茶・茶筅・抹茶碗"
+        },
+        {
+          "id": "chopstick",
+          "name": "Chopstick (hashi)",
+          "where": "Kyoto Ichihara, Asakusa hediyelikçileri, Tokyu Hands, Daiso",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Kalitelisi için Ichihara; isim kazıtma yapan dükkânlar var.",
+          "es": true,
+          "ja": "お箸"
+        },
+        {
+          "id": "noodle",
+          "name": "Noodle (ramen, udon, soba)",
+          "where": "Don Quijote, süpermarket, Ichiran (paket ramen)",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Ichiran ve Nissin Japonya’ya özel tatlar. Hayvansal içerikli olanları Türkiye’ye sokarken dikkat.",
+          "es": true,
+          "ja": "カップ麺・袋麺"
+        }
+      ]
+    },
+    {
+      "id": "kirtasiye",
+      "title": "Kırtasiye",
+      "items": [
+        {
+          "id": "kalem",
+          "name": "Uni Jetstream, Pilot FriXion, Zebra Sarasa",
+          "where": "Itoya, Loft, Hands, Don Quijote",
+          "tier": "F/P",
+          "score": 5,
+          "note": "Türkiye'nin yarı fiyatına; refill uçlarını da al."
+        },
+        {
+          "id": "defter",
+          "name": "Midori, Hobonichi, Kokuyo defterleri",
+          "where": "Itoya Ginza, Loft",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Hobonichi 2027 planlayıcıları Kasım'da rafta olur.",
+          "es": true
+        },
+        {
+          "id": "washi",
+          "name": "Washi bant ve kartpostal",
+          "where": "Loft, Itoya, Daiso",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Hafif hediye.",
+          "es": true
+        },
+        {
+          "id": "pentel-graph",
+          "name": "Pentel Graph 1000, Orenz, Kerry; Staedtler Japonya serisi",
+          "where": "Loft, Itoya, Hands, kırtasiyeler",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Kaydedilen videoda 'TR fiyatının çok altında' denen versatil/mekanik kalemler.",
+          "ig": [
+            37
+          ],
+          "es": true
+        },
+        {
+          "id": "versatil-limited",
+          "name": "Versatil kalem (Japonya’ya özel seriler)",
+          "where": "Itoya, Loft, Tokyu Hands, Muji",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Pentel Orenz/Graph 1000, Muji alüminyum, Staedtler 925 Japonya limited serileri. Limited renkler hızlı tükenir.",
+          "es": true,
+          "ja": "シャープペンシル（日本限定）"
+        },
+        {
+          "id": "defter-damga",
+          "name": "Defter ve damga (eki stamp)",
+          "where": "İstasyon damgaları ücretsiz; defter için Loft, Itoya, Muji",
+          "tier": "F/P",
+          "score": 4,
+          "note": "İstasyonlarda ve tapınaklarda damga toplamak için küçük defter al. Tapınak mührü (goshuin) için goshuinchō ayrı defterdir. Program sayfasında her günün damga ve mühür noktaları yazılı. İstasyon damgası ücretsiz; tapınak mührü (goshuin) ¥300–500 ve ayrı deftere.",
+          "es": true,
+          "ig": [
+            85
+          ],
+          "ja": "スタンプ帳"
+        },
+        {
+          "id": "sticker",
+          "name": "Kırtasiye: sticker, kalem, defter",
+          "where": "Loft, Itoya, Tokyu Hands, Daiso, Seria",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Kırtasiye için en iyi adresler Itoya (Ginza) ve Loft.",
+          "es": true
+        }
+      ]
+    },
+    {
+      "id": "elektronik",
+      "title": "Elektronik ve oyun",
+      "items": [
+        {
+          "id": "pc",
+          "name": "PC parçaları, kulaklık, konsol (ana listede)",
+          "where": "Nipponbashi (Osaka), Akihabara (Tokyo)",
+          "tier": "Lüks",
+          "score": 5,
+          "note": "Ana alışveriş listesinde model ve fiyatıyla. Tax-free iadesi dönüşte."
+        },
+        {
+          "id": "gachapon",
+          "name": "Gachapon kapsül oyuncakları",
+          "where": "Akihabara Gachapon Kaikan, her AVM",
+          "tier": "F/P",
+          "score": 3,
+          "note": "100'lük bozukluk hazırla.",
+          "es": true
+        },
+        {
+          "id": "retro",
+          "name": "Retro oyun ve aksesuar",
+          "where": "Super Potato, Surugaya, Mandarake",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Bölge kilidi (NTSC-J) ve voltajı kontrol et.",
+          "es": true
+        },
+        {
+          "id": "orient-star",
+          "name": "Orient Star / Japon saatleri",
+          "where": "Bic Camera Shibuya",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Videoda 3 yıl uluslararası garanti belgesiyle satıldığı belirtilmiş; ana listedeki saatlerle kıyasla.",
+          "ig": [
+            18
+          ],
+          "es": true
+        },
+        {
+          "id": "kamera",
+          "name": "Kamera",
+          "where": "Yodobashi, Bic Camera, Map Camera (ikinci el, Shinjuku)",
+          "tier": "Lüks",
+          "score": 4,
+          "note": "Japonya modeli menü dili kısıtlı olabilir; “international/英語” menü sor. Tax-free ve kur farkını hesapla.",
+          "es": true
+        },
+        {
+          "id": "mouse",
+          "name": "Mouse",
+          "where": "Yodobashi, Bic Camera",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Japonya’ya özel Logitech (Logicool) ve Elecom modelleri; bataryalı ürünleri kabine koy.",
+          "es": true
+        },
+        {
+          "id": "anime-figur",
+          "name": "Anime figür",
+          "where": "Akihabara (Surugaya, Mandarake), Nakano Broadway, Den Den Town (Osaka)",
+          "tier": "Orta",
+          "score": 4,
+          "note": "İkinci el figürler kutulu ve uygun. Kutu hacmi büyük; valiz yerini hesapla.",
+          "es": true
+        },
+        {
+          "id": "inzone-buds",
+          "name": "Sony INZONE Buds (WF-G700N) — Altay için",
+          "where": "Yodobashi Umeda (14 Kasım), yedek: Yodobashi Akiba (18 Kasım); Bic Camera ve e☆earphone’da da var",
+          "tier": "F/P",
+          "score": 5,
+          "note": "Liste fiyatı ¥29.700 (KDV dahil). 2037 tax-free: KDV kasada ödenir, ¥5.000 üstü alışverişte çıkışta (Haneda) iade edilir → net ~¥27.000 ≈ 8.560 TL (planlama kuru). Türkiye’de ~27.264 TL (haber tarihi doğrulanmadı). Ekim’de Amazon Japonya’da ¥20.800 indirim görüldü; mağazada indirim/puan sorun. Kutuyu açmayın (tax-free). Japonya modeli: garanti Japonya’da geçerli; Bluetooth ve USB-C dongle Türkiye’de sorunsuz çalışır.",
+          "ja": "ソニー INZONE Buds WF-G700N"
+        },
+        {
+          "id": "instax-film",
+          "name": "Instax mini film (Instax mini 12 için)",
+          "where": "Yodobashi Umeda (14 Kasım), yedek: Yodobashi Akiba (18 Kasım); Bic Camera, Loft",
+          "tier": "F/P",
+          "score": 5,
+          "note": "Mini 12 standart instax mini film kullanır (tüm mini modellerle aynı). Japonya’da 10’lu kutu ~¥1.450–1.600 → 20 poz ~¥2.900–3.200 ≈ 920–1.015 TL; Türkiye’de 20’li ~1.180 TL. Fark kutu başına ~%15–25, tax-free (aynı mağazada tüketim ürünü ¥5.000 üstü, mühürlü poşet) ile biraz daha. Japonya’da da talep yüksek; büyük mağazada adet sınırı olabilir, ilk fırsatta al. Kutuyu sıcak bagajda bırakma. Marka alternatifi: mini boyut filmi yalnız Fujifilm üretir; Leica Sofort ve Lomography Instant Mini filmleri de uyar ama daha pahalı. Polaroid (Go/i-Type) filmi Mini 12’ye UYMAZ. Ucuzlatmak için çoklu paket al; Japonya’ya özel desenli çerçeveler (Sanrio, Pokémon, renkli kenar) hediyelik olarak güzel.",
+          "es": true,
+          "ja": "チェキフィルム instax mini"
+        }
+      ]
+    },
+    {
+      "id": "giyim",
+      "title": "Giyim ve ayakkabı",
+      "items": [
+        {
+          "id": "asics-onitsuka",
+          "name": "ASICS ve Onitsuka Tiger (ana listede)",
+          "where": "Rinku outlet, mağazalar",
+          "tier": "Orta",
+          "score": 5,
+          "note": "Japonya'ya özel modeller; ana listede."
+        },
+        {
+          "id": "uniqlo-jp",
+          "name": "Uniqlo/GU Japonya'ya özel serileri",
+          "where": "Shinsaibashi, Ginza amiral mağazalar",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Tax-free'ye uygun; Türkiye'de olmayan iş birliği serilerine bak.",
+          "es": true
+        },
+        {
+          "id": "montbell",
+          "name": "Montbell yağmurluk / polar (ana listede)",
+          "where": "Montbell mağazaları",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Hafif ve kaliteli; ana listede."
+        },
+        {
+          "id": "tabi",
+          "name": "Tabi çorap",
+          "where": "Hands, Donki, hediyelik dükkânlar",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Ucuz ve hafif hediye."
+        },
+        {
+          "id": "uniqlo-airism",
+          "name": "Uniqlo AIRism iç çamaşırı, kırışmaz gömlek ve pantolon",
+          "where": "Uniqlo Ginza (en büyük mağaza), Shinsaibashi",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Videoda gömlek/pantolon ~1.300 TL, AIRism 3'lü alımda indirimli; fleece astarlı ceket de önerilmiş.",
+          "ig": [
+            48,
+            2,
+            23
+          ]
+        },
+        {
+          "id": "abc-mart",
+          "name": "ABC-Mart indirimli spor ayakkabı",
+          "where": "ABC-Mart şubeleri",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Japonların indirim için gittiği ayakkabı zinciri; Onitsuka/ASICS fiyatlarını kıyasla.",
+          "ig": [
+            29,
+            61
+          ],
+          "es": true
+        },
+        {
+          "id": "trenckot",
+          "name": "Trençkot",
+          "where": "Uniqlo, GU, Beams, Lumine (Shinjuku), Daimaru",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Kasım tam trençkot havası; Japon kalıpları dar ve kol kısa olabilir, mutlaka dene.",
+          "es": true
+        },
+        {
+          "id": "yagmurluk",
+          "name": "Yağmurluk",
+          "where": "Montbell, Workman, Uniqlo (Blocktech)",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Montbell hafif ve katlanır; Workman çok ucuz. Kasımda yağmur olasılığı var, ilk günlerde alınabilir.",
+          "es": true
+        },
+        {
+          "id": "baharlik-ceket",
+          "name": "Baharlık ceket",
+          "where": "Uniqlo, GU, Muji, Beams",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Kat kat giyim için ince ceket; Türkiye fiyatına göre çoğu zaman ucuz.",
+          "es": true
+        },
+        {
+          "id": "mont-kaban",
+          "name": "Mont ve kaban",
+          "where": "Uniqlo (Ultra Light Down), Montbell, The North Face Japan, Daimaru/Hankyu indirim katları",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Ultra Light Down çantaya sığar. The North Face Japonya modelleri Türkiye’de yok; fiyat yüksek ama tax-free.",
+          "es": true,
+          "ig": [
+            94
+          ]
+        },
+        {
+          "id": "uniqlo-polar",
+          "name": "Uniqlo içi polarlı ceket/mont",
+          "where": "Uniqlo (Shinsaibashi, Ginza 12 kat)",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Fleece-lined ve Heattech serileri; Ginza mağazasında beden ve renk en geniş.",
+          "es": true,
+          "ig": [
+            94
+          ],
+          "ja": "フリース裏地のジャケット"
+        },
+        {
+          "id": "esofman",
+          "name": "Eşofman altı veya takımı",
+          "where": "Uniqlo, GU, ABC-Mart, Asics, Workman",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Uçuş ve otel için rahat takım; Japon bedenleri bir küçük kalır.",
+          "es": true
+        },
+        {
+          "id": "ic-camasiri",
+          "name": "İç çamaşırı",
+          "where": "Uniqlo (AIRism, Heattech), GU, Muji, Wacoal (depato)",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Wacoal kalite için; Uniqlo/GU fiyat için. Japon bedenlerinde deneme kabini olmayabilir, tabloya bak. Instagram’da çiçek desenli Wacoal tasarımları çok beğenilmiş.",
+          "es": true,
+          "ig": [
+            86
+          ],
+          "ja": "ワコール 下着"
+        },
+        {
+          "id": "spor-babet",
+          "name": "Spor ayakkabı ve spor babet",
+          "where": "ABC-Mart, Asics, Onitsuka Tiger, Moonstar, Muji",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Japonya’ya özel renkler ABC-Mart Grand Stage’de. Numara Japonya’da cm yazılır (39 ≈ 25 cm).",
+          "es": true
+        },
+        {
+          "id": "bot-cizme",
+          "name": "Bot ve çizme",
+          "where": "ABC-Mart, Lumine, Marui, depato ayakkabı katları",
+          "tier": "Orta",
+          "score": 3,
+          "note": "Kasım bot sezonu başlangıcı; dar kalıp olabileceği için öğleden sonra dene.",
+          "es": true
+        },
+        {
+          "id": "kimono-al",
+          "name": "Kimono veya yukata",
+          "where": "Kyoto: 1円着物 wargo (Shin-Kyogoku, gramla), Nishiki çevresi ikinci el kimono dükkânları, Tansu-ya; Tokyo: Asakusa, bit pazarları",
+          "tier": "Orta",
+          "score": 3,
+          "note": "Yeni ipek kimono çok pahalı; ikinci el (中古着物) birkaç bin yenden başlar. Kuşak (obi) ayrı satılır. Instagram: 1円着物 wargo’da kimono gramla satılıyor; firma 1 g = ¥1 diyor, videoda etiket rengine göre g başı ¥0,5 / 1 / 3 / 5. Tokyo Yanaka Ginza şubesi Ağustos 2037’da açılacaktı (adres doğrulanmadı).",
+          "es": true,
+          "ig": [
+            116
+          ]
+        },
+        {
+          "id": "gomlek",
+          "name": "Gömlek",
+          "where": "Uniqlo, GU, Muji, Beams, United Arrows",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Uniqlo/GU ütü gerektirmeyen (Easy Care) ve keten gömlekler ucuz; Beams/United Arrows daha şık. Japon kalıbında kol kısa olabilir, dene.",
+          "es": true
+        },
+        {
+          "id": "atki",
+          "name": "Atkı",
+          "where": "Uniqlo (kaşmir, Heattech), Muji, depato; Kyoto’da ipek/yün atkı dükkânları",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Uniqlo %100 kaşmir atkı Türkiye’ye göre uygun. Kasım sabahları Kyoto’da serin; ilk günlerde almak işe yarar.",
+          "es": true
+        },
+        {
+          "id": "hirka",
+          "name": "Hırka",
+          "where": "Uniqlo (kaşmir, merino, 3D örgü), GU, Muji, Beams",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Uniqlo kaşmir ve merino hırkalar kat kat giyime uygun; Ginza mağazasında renk ve beden en geniş.",
+          "es": true
+        }
+      ]
+    },
+    {
+      "id": "hediyelik",
+      "title": "Hediyelik ve el işi",
+      "items": [
+        {
+          "id": "tenugui",
+          "name": "Tenugui ve furoshiki",
+          "where": "Kyoto dükkânları, Hands",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Hafif, kullanışlı; ana listede tenugui var."
+        },
+        {
+          "id": "shichimi",
+          "name": "Shichimiya Kyoto baharatı (ana listede)",
+          "where": "Kiyomizu (K01)",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Ana listede.",
+          "ja": "七味唐辛子"
+        },
+        {
+          "id": "omamori",
+          "name": "Omamori (tapınak muskası)",
+          "where": "Fushimi Inari, Sensoji, Meiji Jingu",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Tapınak gişesinden; nakit."
+        },
+        {
+          "id": "pokemon",
+          "name": "Pokémon Center / Nintendo Tokyo ürünleri",
+          "where": "Shibuya Parco, Osaka DX",
+          "tier": "Orta",
+          "score": 3,
+          "note": "Japonya'ya özel karakter ürünleri. Pokémon kart için Pokémon Center, Hareruya (Akihabara) ve Card Secret (Ikebukuro) öneriliyor.",
+          "es": true,
+          "ig": [
+            82
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aksesuar",
+      "title": "Çanta, gözlük, saat ve aksesuar",
+      "items": [
+        {
+          "id": "bavul",
+          "name": "Bavul",
+          "where": "Don Quijote, Bic Camera, Tokyu Hands, ABC-Mart, Muji",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Dönüşte fazla eşya için; Muji ve Proteca sağlam. Valizi ilk alışveriş günlerinde al ki takkyubin ile gönderebilesiniz. Instagram’a göre Asakusa, Shinjuku ve Shibuya’da Japon markası büyük valiz ¥10.000–20.000.",
+          "es": true,
+          "ig": [
+            82
+          ]
+        },
+        {
+          "id": "jins-gozluk",
+          "name": "Numaralı gözlük (JINS)",
+          "where": "JINS (Shinsaibashi, Shinjuku, Ginza)",
+          "tier": "F/P",
+          "score": 5,
+          "note": "Numarayı yazılı götür veya mağazada ölçtür; çoğu çerçeve 30–60 dakikada hazır. Pasaportla tax-free.",
+          "es": true,
+          "ja": "度付きメガネ（当日受け取り）"
+        },
+        {
+          "id": "gunes-gozlugu",
+          "name": "Güneş gözlüğü",
+          "where": "JINS, Zoff, depato aksesuar katları",
+          "tier": "F/P",
+          "score": 3,
+          "note": "JINS/Zoff’ta numaralı güneş gözlüğü de aynı gün yapılır.",
+          "es": true
+        },
+        {
+          "id": "kol-saati",
+          "name": "Kol saati",
+          "where": "Bic Camera, Yodobashi, Seiko/Citizen/Orient mağazaları",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Seiko Presage, Citizen, Grand Seiko Japonya’da daha uygun; tax-free ve kur farkına bak. Orient Star kartı da bu kategoride.",
+          "es": true,
+          "ja": "腕時計"
+        },
+        {
+          "id": "ikinci-el-canta",
+          "name": "İkinci el marka çanta",
+          "where": "Komehyo (Shinjuku), Brand Off, Daikokuya, 2nd Street, Ragtag",
+          "tier": "Lüks",
+          "score": 4,
+          "note": "Japonya ikinci el markada güvenilir; kondisyon notu (S/A/AB/B) yazılır. Sertifikalı dükkândan al, fişi sakla.",
+          "es": true
+        },
+        {
+          "id": "marka-cuzdan",
+          "name": "Marka cüzdan",
+          "where": "Komehyo, Daikokuya, depato, outlet (Gotemba)",
+          "tier": "Orta",
+          "score": 3,
+          "note": "İkinci el veya Gotemba outlet; Türkiye’ye göre ucuz olabilir.",
+          "es": true
+        },
+        {
+          "id": "sirt-cantasi",
+          "name": "Sırt çantası",
+          "where": "Porter (Yoshida), Anello, Montbell, Muji",
+          "tier": "Orta",
+          "score": 4,
+          "note": "Porter Japonya’ya özel ve kaliteli; Anello uygun fiyatlı.",
+          "es": true
+        },
+        {
+          "id": "makyaj-cantasi",
+          "name": "Makyaj çantası",
+          "where": "Muji, Loft, 3Coins, Daiso",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Muji asılabilir çanta ve şeffaf kutular çok kullanışlı.",
+          "es": true
+        },
+        {
+          "id": "ayna-yelpaze-toka",
+          "name": "Ayna, yelpaze, saç tokası",
+          "where": "3Coins, Daiso, Kyoto hediyelikçileri (yelpaze için Miyawaki Baisen-an)",
+          "tier": "F/P",
+          "score": 3,
+          "note": "Kyoto el yapımı yelpaze güzel hediye; toka ve ayna için 3Coins/Daiso.",
+          "es": true
+        },
+        {
+          "id": "semsiye",
+          "name": "Şemsiye",
+          "where": "Konbini (acil), Loft, Tokyu Hands, Waterfront marka katlanır",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Japon katlanır şemsiyeler çok hafif. Dükkân girişindeki şemsiye poşetini kullan.",
+          "es": true,
+          "ja": "折りたたみ傘"
+        },
+        {
+          "id": "kanzashi",
+          "name": "Kanzashi (geleneksel saç çubuğu)",
+          "where": "Kanzashiya Wargo: Nishiki Market (Kyoto), Asakusa Shin-Nakamise (1-32-3), Harajuku",
+          "tier": "F/P",
+          "score": 4,
+          "note": "Tek çubukla tüm saçı toplayan geleneksel Japon saç süsü; cam, metal, doğal taş modelleri el yapımı. Kimonoyla da günlük kıyafetle de olur. Fiyat ve saat doğrulanmadı (videoda Nishiki şubesi 10.00–19.00 deniyor).",
+          "es": true,
+          "ig": [
+            114
+          ],
+          "ja": "かんざし"
+        }
+      ]
+    }
+  ],
+  "sources": {
+    "Japonya alışveriş rehberi 2037": "https://www.getroamify.com/en/blogs/best-things-to-buy-in-japan-in-2026-the-ultimate-souvenir-guide/",
+    "Don Quijote rehberi": "https://jw-webmagazine.com/tips/don-quijote-shopping-guide-20-must-buy-items-at-donki-japan/",
+    "Hediyelik rehberi": "https://watabi.org/en/articles/japan-souvenirs-shopping-guide"
+  }
+}

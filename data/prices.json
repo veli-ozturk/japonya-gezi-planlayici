@@ -1,0 +1,810 @@
+{
+  "checkedAt": "2037-10-26",
+  "note": "verified: araştırmayla bulunan tek ürün fiyatı (Japonya ¥ vergi dahil, Türkiye TL). estimate: tipik alım aralığı, tahmini. jpOnly: Türkiye’de bulunmayan veya Japonya’ya özel ürünler (gerekçeli).",
+  "verified": {
+    "biore": {
+      "product": "Kao Bioré UV Aqua Rich Watery Essence SPF50+ PA++++ 70g",
+      "jpy": 967,
+      "try": 1719,
+      "note": "TR fiyatı Hepsiburada 3x573 TL'den; ithalatçı satıcı. Trendyol'da bulunamadı.",
+      "jpySource": "https://www.yodobashi.com/product/100000001008909033/",
+      "trySource": "https://www.hepsiburada.com/biore-uv-aqua-rich-spf50-pa-su-bazli-gunes-kremi-70-g-pm-HBC0000HBIM8V"
+    },
+    "melano": {
+      "product": "Rohto Melano CC Medicated Spot Essence (薬用しみ集中対策美容液) 20ml",
+      "jpy": 1050,
+      "try": 999,
+      "note": "TR'de ithalatçı satıcı (3x333 TL). Premium versiyonu Japonya'da ¥1.460.",
+      "jpySource": "https://www.yodobashi.com/product/100000001005991732/",
+      "trySource": "https://www.hepsiburada.com/ara?q=melano+cc"
+    },
+    "sunscreen-anessa": {
+      "product": "Shiseido ANESSA Perfect UV Skincare Milk NA SPF50+ 60ml",
+      "jpy": 3050,
+      "try": 3190,
+      "note": "TR'de resmi marka mağazası var; fiyat farkı küçük (kur ile Japonya ~yarı fiyat).",
+      "jpySource": "https://www.yodobashi.com/product/100000001008243370/",
+      "trySource": "https://www.trendyol.com/anessa/perfect-uv-skincare-milk-spf50-pa-ikonik-japon-gunes-koruyucu-60-ml-p-1191814656"
+    },
+    "lululun": {
+      "product": "LuLuLun Hydra EX Mask",
+      "jpy": 2640,
+      "try": 2247,
+      "note": "Paketler farklı: Japonya 28 yaprak (~¥94/yaprak), TR 7 yaprak (3x749 TL, ~321 TL/yaprak). Japonya çok daha ucuz.",
+      "jpySource": "https://www.cosme.net/variations/1159381/",
+      "trySource": "https://www.hepsiburada.com/ara?q=lululun+hydra+ex"
+    },
+    "megrhythm": {
+      "product": "Kao MegRhythm Steam Hot Eye Mask (無香料) 12'li",
+      "jpy": 1230,
+      "try": null,
+      "note": "Trendyol ve Hepsiburada'da satışı bulunamadı.",
+      "jpySource": "https://www.yodobashi.com/product/100000001009303424/",
+      "trySource": null
+    },
+    "salonpas": {
+      "product": "Hisamitsu Salonpas Ae 140 yaprak",
+      "jpy": 1520,
+      "try": null,
+      "note": "TR'de aynı ürün yok; yalnız ithal 'Salonpas 60 patch' ~2.499 TL (3x833) bulunuyor — Japonya'da adet başı çok daha ucuz.",
+      "jpySource": "https://www.yodobashi.com/product/100000001002273383/",
+      "trySource": "https://www.hepsiburada.com/hisamitsu-salonpas-60-patch-yaki-pm-HBC0000C7L699"
+    },
+    "kissme-maskara": {
+      "product": "Heroine Make SP Long UP Mascara Super WP N",
+      "jpy": 1320,
+      "try": null,
+      "note": "TR'de satışı bulunamadı.",
+      "jpySource": "https://www.yodobashi.com/product/100000001009742188/",
+      "trySource": null
+    },
+    "kirpik-kivirici": {
+      "product": "Shiseido Eyelash Curler (eski adı 213)",
+      "jpy": 1320,
+      "try": 2790,
+      "note": "Ağustos 2024'te adı '213'ten 'Eyelash Curler'a döndü, fiyat ¥880→¥1.320 oldu. TR fiyatı 3x930 TL, ithalatçı.",
+      "jpySource": "https://www.cosme.net/products/1191/",
+      "trySource": "https://www.hepsiburada.com/ara?q=shiseido+eyelash+curler"
+    },
+    "sac-bakimi": {
+      "product": "Fino Premium Touch 浸透美容液 Hair Mask 230g",
+      "jpy": 778,
+      "try": 938,
+      "note": "JPY online en düşük; mağazada genelde ¥800–950. TSUBAKI Premium Moist şampuan TR 450ml ~1.539 TL.",
+      "jpySource": "https://search.kakaku.com/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8E%20%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%82%BF%E3%83%83%E3%83%81%20230g/",
+      "trySource": "https://www.trendyol.com/fino/premium-touch-sac-maskesi-230gr-p-857563502"
+    },
+    "kalem": {
+      "product": "Zebra Sarasa Clip 0.5mm jel kalem 5'li set",
+      "jpy": 594,
+      "try": 599,
+      "note": "JP seti 5 siyah, TR seti 5 renk. Jetstream SXN-150-07 tekli Japonya'da ~¥128, TR'de SX-101 ~145 TL.",
+      "jpySource": "https://www.yodobashi.com/product/100000001000592318/",
+      "trySource": "https://www.trendyol.com/zebra/sarasa-clip-jel-murekkepli-kalem-0-5-mm-5-li-set-jj15-jm-5cb-p-971523737"
+    },
+    "sticker": {
+      "product": "Pilot FriXion Ball 0.7mm mavi (LFB-20F-L / BL-FR7-L)",
+      "jpy": 220,
+      "try": 274,
+      "note": "Kategori geniş; temsilci ürün olarak FriXion seçildi. TR'de başka satıcıda 170 TL.",
+      "jpySource": "https://search.kakaku.com/%E3%83%95%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20LFB-20F/",
+      "trySource": "https://www.trendyol.com/pilot/frixion-ball-silinebilir-jel-kalem-mavi-0-7mm-p-41306177"
+    },
+    "pentel-graph": {
+      "product": "Pentel Graph 1000 For Pro 0.5mm PG1005",
+      "jpy": 1090,
+      "try": 1773,
+      "note": "TR 3x591 TL. Orenz Metal Grip 0.3 (Japonya'ya özel renk) ¥1.650.",
+      "jpySource": "https://www.yodobashi.com/product/000000359103053100/",
+      "trySource": "https://www.hepsiburada.com/pentel-ypg1005-graph-1000-versatil-kalem-0-5-mm-pm-HBC00000BLJB6"
+    },
+    "versatil-limited": {
+      "product": "Uni Kuru Toga standart 0.5mm (JP M5-450 1P / TR M5-450T)",
+      "jpy": 495,
+      "try": 199,
+      "note": "TR daha ucuz görünüyor. Japonya'ya özel/limitli seriler TR'de yok; asıl alım sebebi bu olmalı.",
+      "jpySource": "https://search.kakaku.com/%E3%82%AF%E3%83%AB%E3%83%88%E3%82%AC%20M5-450%201P/",
+      "trySource": "https://www.trendyol.com/uni/versatil-kalem-kuru-toga-t-m5-450t-0-5-siyah-p-229945498"
+    },
+    "curry": {
+      "product": "Kewpie Mayonez (JP 450g / TR 500ml ithal)",
+      "jpy": 497,
+      "try": 549,
+      "note": "Ambalaj farklı (450g vs 500ml). Golden Curry TR'de bulunamadı.",
+      "jpySource": "https://www.yodobashi.com/product/100000001002973154/",
+      "trySource": "https://www.hepsiburada.com/kewpie-mayonez-500-ml-pm-HBC00006WNCQ8"
+    },
+    "termos": {
+      "product": "THERMOS Ultralight Mug 0.5L (JP JNL-506 / TR JNL-500)",
+      "jpy": 2640,
+      "try": 1420,
+      "note": "Model kodları farklı (yurt içi/uluslararası). Zojirushi SM-SR60 TR'de 3.088,80 TL.",
+      "jpySource": "https://search.kakaku.com/JNL-506/",
+      "trySource": "https://www.trendyol.com/thermos/jnl-500-ultralight-mug-0-50l-deep-black-199374-p-655288427"
+    },
+    "kol-saati": {
+      "product": "Casio G-SHOCK GA-2100-1A1 (JP GA-2100-1A1JF)",
+      "jpy": 14080,
+      "try": 7644,
+      "note": "JP liste fiyatı ¥17.600; Joshin ¥14.080. Kurla Japonya hâlâ ucuz.",
+      "jpySource": "https://search.kakaku.com/GA-2100-1A1JF/",
+      "trySource": "https://www.trendyol.com/casio/g-shock-ga-2100-1a1dr-erkek-kol-saati-p-33139591"
+    },
+    "orient-star": {
+      "product": "Orient Star Contemporary Layered Skeleton (JP RK-AV0B01S / TR RE-AV0B01S00B)",
+      "jpy": 77000,
+      "try": 48600,
+      "note": "JPY kakaku en düşük (¥77.000+); 2021 depato fiyatı ¥96.800. Japonya belirgin ucuz.",
+      "jpySource": "https://search.kakaku.com/%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%E3%82%B9%E3%82%BF%E3%83%BC%20RK-AV0B01S/",
+      "trySource": "https://www.trendyol.com/orient/star-re-av0b01s00b-erkek-kol-saati-p-1176541195"
+    },
+    "mouse": {
+      "product": "Logitech MX Master 3S Bluetooth Edition",
+      "jpy": 15390,
+      "try": 4799,
+      "note": "Kurla neredeyse aynı fiyat; Japonya'dan almanın anlamı yok (klavye düzeni de sorun değil ama garanti JP).",
+      "jpySource": "https://search.kakaku.com/MX2300/",
+      "trySource": "https://www.trendyol.com/sr?q=logitech%20mx%20master%203s"
+    },
+    "kamera": {
+      "product": "Fujifilm X100VI (gümüş)",
+      "jpy": 287800,
+      "try": 89639,
+      "note": "Kurla benzer; JP menüsü çok dilli ama garanti Japonya'da. Tax-free %10 iade ile Japonya biraz avantajlı.",
+      "jpySource": "https://search.kakaku.com/X100VI/",
+      "trySource": "https://www.trendyol.com/fujifilm/x100vi-gumus-p-809141847"
+    },
+    "pc": {
+      "product": "Sony WH-1000XM6 kulaklık",
+      "jpy": 59400,
+      "try": 16799,
+      "note": "JPY Sony Store fiyatı; kakaku'da ~¥50.600'dan. Konsol: Switch 2 JP sürümü ¥59.980 (Mayıs 2037 zammı, yalnız Japonca/JP hesap), TR ithalatçı garantili 30.397,50 TL.",
+      "jpySource": "https://www.ksdenki.com/shop/g/g4548736162600/",
+      "trySource": "https://www.hepsiburada.com/sony-wh-1000xm6-kulak-ustu-bluetooth-kulaklik-p-HBCV00009AGS5W"
+    },
+    "asics-onitsuka": {
+      "product": "ASICS GEL-KAYANO 14 (1203A537)",
+      "jpy": 20900,
+      "try": 13758,
+      "note": "Trendyol'da başka renk 10.559 TL liste / 5.279,50 TL indirimde — TR indirimi Japonya'dan ucuz olabilir. Onitsuka Tiger TR'de bulunamadı.",
+      "jpySource": "https://search.kakaku.com/1203A537/",
+      "trySource": "https://www.hepsiburada.com/asics-gel-kayano-14-unisex-sneaker-1203a537-p-HBCV0000KLATAS"
+    },
+    "ysl-ruj": {
+      "product": "YSL Rouge Pur Couture The Slim",
+      "jpy": null,
+      "try": 3350,
+      "note": "Japonya güncel The Slim fiyatı doğrulanamadı (klasik Rouge Pur Couture ¥6.710). Gravür hizmeti için mağazaya sorulmalı.",
+      "jpySource": null,
+      "trySource": "https://www.trendyol.com/yves-saint-laurent/the-slim-ruj-314-3614274297324-p-1030840334"
+    },
+    "abc-mart": {
+      "product": "New Balance 530 (MR530SG, unisex)",
+      "jpy": 12980,
+      "try": 7499,
+      "note": "JP fiyatı resmi sitede 'from' (en düşük beden/renk) fiyatı; ABC-Mart'ta da benzer.",
+      "jpySource": "https://shop.newbalance.jp/search?q=MR530SG",
+      "trySource": "https://www.newbalance.com.tr/arama?q=530"
+    },
+    "spor-babet": {
+      "product": "Asics GEL-1130 (1203A609)",
+      "jpy": 10010,
+      "try": 5249,
+      "note": "JP: kakaku.com'daki tipik Rakuten mağaza fiyatı (indirimli olabilir); TR: Trendyol Asics, renk 108.",
+      "jpySource": "https://search.kakaku.com/GEL-1130%201203A609/",
+      "trySource": "https://www.trendyol.com/asics/gel-1130-unisex-white-ironclad-sneakers-1203a609-108-p-1105468361"
+    },
+    "bot-cizme": {
+      "product": "Dr. Martens 1460 8 delikli Smooth siyah bot",
+      "jpy": 30800,
+      "try": 13669,
+      "note": "JP fiyatı ANA Mall'daki 1460 Smooth (kod 31158001) içindir; TR ürün kodu 11822006. Resmi JP sitesinden doğrulanamadı.",
+      "jpySource": "https://anamall.ana.co.jp/shop/g/g0242-1-drm-u-31158-01-uk60-311/",
+      "trySource": "https://www.trendyol.com/dr-martens/dr-martens-unisex-bot-11822006-1460-p-333067434"
+    },
+    "bicak": {
+      "product": "Global G-46 santoku 18 cm",
+      "jpy": 12100,
+      "try": 5350,
+      "note": "JP: kakaku.com'da Rakuten mağazalarının ortak fiyatı.",
+      "jpySource": "https://search.kakaku.com/GLOBAL%20G-46/",
+      "trySource": "https://www.trendyol.com/global/yoshikin-japon-santoku-sef-bicagi-g46-p-65145909"
+    },
+    "kamakura-bicak": {
+      "product": "Kai Shun Classic santoku 17,5 cm (DM0702)",
+      "jpy": 22000,
+      "try": 14985,
+      "note": "Şam (Damascus) desenli bıçağın referansı. TR ilanı beyaz saplı DM0702W; JP fiyatı standart DM0702 için.",
+      "jpySource": "https://search.kakaku.com/DM0702/",
+      "trySource": "https://www.trendyol.com/kai/shun-classic-santoku-sef-bicagi-beyaz-dm0702w-p-986130836"
+    },
+    "gunes-stick": {
+      "product": "Bioré UV Aqua Rich Watery Essence SPF50+ 70 g",
+      "jpy": 780,
+      "try": 1680,
+      "note": "Anessa Perfect UV Milk 60 ml de aynı tabloda: JP 2.190 ¥ (kakaku), TR 3.149 TL (Trendyol).",
+      "jpySource": "https://search.kakaku.com/%E3%83%93%E3%82%AA%E3%83%ACUV%20%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%AA%E3%83%83%E3%83%81%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%2070g/",
+      "trySource": "https://www.trendyol.com/biore/biore-uv-aqua-rich-spf50-pa-su-bazli-gunes-kremi-70-g-p-1146127637"
+    },
+    "defter": {
+      "product": "Midori MD Note Diary 2027, 1 gün 1 sayfa, A6 (bunko)",
+      "jpy": 2860,
+      "try": 3290,
+      "note": "Hobonichi ve Kokuyo Türkiye'de bulunamadı.",
+      "jpySource": "https://www.yodobashi.com/?word=MD%E3%83%8E%E3%83%BC%E3%83%88%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC%202027%201%E6%97%A51%E3%83%9A%E3%83%BC%E3%82%B8%20A6",
+      "trySource": "https://www.trendyol.com/midori/1-day-1-page-2027-a6-p-1210434683"
+    },
+    "anime-figur": {
+      "product": "Nendoroid #1655 Shinobu Kocho (Demon Slayer)",
+      "jpy": 6780,
+      "try": 9999,
+      "note": "TR'de yalnız ithalatçı/üçüncü taraf satıcı var. JP: kakaku.com'daki en düşük fiyat.",
+      "jpySource": "https://kakaku.com/item/K0001368189/",
+      "trySource": "https://www.trendyol.com/genel-markalar/demon-slayer-kimetsu-no-yaiba-nendoroid-1655-shinobu-kocho-action-figure-10-cm-anime-figur-p-1154025651"
+    },
+    "sirt-cantasi": {
+      "product": "Fjällräven Kånken Classic 16L (23510)",
+      "jpy": 14300,
+      "try": 8869,
+      "note": "Porter, Anello ve Montbell çantaları Türkiye'de bulunamadı; bu yüzden ikisinde de satılan Kånken seçildi.",
+      "jpySource": "https://www.yodobashi.com/?word=%E3%83%95%E3%82%A7%E3%83%BC%E3%83%AB%E3%83%A9%E3%83%BC%E3%83%99%E3%83%B3%20%E3%82%AB%E3%83%B3%E3%82%B1%E3%83%B3%2023510",
+      "trySource": "https://www.trendyol.com/fjallraven/kanken-classic-sky-blue-sirt-cantasi-23510-501-p-41651726"
+    },
+    "gunes-gozlugu": {
+      "product": "Ray-Ban Wayfarer RB2140F 901 52 (Asya kalıbı)",
+      "jpy": 24460,
+      "try": 7750,
+      "note": "Fark küçük. Standart RB2140 901 50 Türkiye'de yaklaşık 6.500–6.800 TL.",
+      "jpySource": "https://www.yodobashi.com/?word=%E3%83%AC%E3%82%A4%E3%83%90%E3%83%B3%20RB2140F%20901",
+      "trySource": "https://www.trendyol.com/ray-ban/wayfarer-unisex-kemik-gunes-gozlugu-rb2140f-901-52-p-1164482171"
+    },
+    "mont-kaban": {
+      "product": "Uniqlo Seamless Down Short Coat (kadın, 481137)",
+      "jpy": 17900,
+      "try": 26499,
+      "note": "Uniqlo'nun Türkiye'de mağazası yok; TR fiyatı ithalatçı satıcıya ait. Ultra Light Down ceket JP'de 7.990 ¥.",
+      "jpySource": "https://www.uniqlo.com/jp/ja/products/E481137-000",
+      "trySource": "https://www.trendyol.com/uniqlo/kadin-mont-211-481137-09-p-1135617714"
+    },
+    "baharlik-ceket": {
+      "product": "Uniqlo PUFFTECH ceket (kadın, 479751)",
+      "jpy": 5990,
+      "try": 13779,
+      "note": "TR fiyatı ithalatçı satıcıya ait (Trendyol/Hepsiburada).",
+      "jpySource": "https://www.uniqlo.com/jp/ja/products/E479751-000",
+      "trySource": "https://www.trendyol.com/uniqlo/kadin-mont-211-479751-39-p-1137945997"
+    },
+    "bavul": {
+      "product": "Samsonite C-Lite Spinner 55 cm kabin valiz",
+      "jpy": 83600,
+      "try": 14999,
+      "note": "Japonya'da almaya değmez. JP fiyatı Bic Camera/Rakuten'deki genişleyebilen CS2-007 modeline ait; en ucuz ilan 42.980 ¥. TR modeli 122859.",
+      "jpySource": "https://search.kakaku.com/%E3%82%B5%E3%83%A0%E3%82%BD%E3%83%8A%E3%82%A4%E3%83%88%20%E3%82%B7%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%20%E3%82%B9%E3%83%94%E3%83%8A%E3%83%BC55/",
+      "trySource": "https://www.trendyol.com/samsonite/c-lite-spinner-55-20-122859-1542-1huu-valiz-kabin-boy-metalik-yesil-p-1081757433"
+    },
+    "uniqlo-airism": {
+      "product": "Uniqlo AIRism Cotton bisiklet yaka tişört (erkek)",
+      "jpy": 1290,
+      "try": null,
+      "note": "Uniqlo'nun Türkiye'de resmi satışı yok; AIRism ürünü TR'de bulunamadı.",
+      "jpySource": "https://www.uniqlo.com/jp/ja/products/E482522-000",
+      "trySource": null
+    },
+    "ic-camasiri": {
+      "product": "Uniqlo Heattech bisiklet yaka uzun kollu tişört",
+      "jpy": 1290,
+      "try": null,
+      "note": "Heattech TR'de bulunamadı. Extra Warm 2.490 ¥, Ultra Warm 2.990 ¥.",
+      "jpySource": "https://www.uniqlo.com/jp/ja/products/E461001-000",
+      "trySource": null
+    },
+    "uniqlo-polar": {
+      "product": "Uniqlo Furry Fleece fermuarlı ceket (kadın)",
+      "jpy": 2990,
+      "try": null,
+      "note": "TR'de bulunamadı.",
+      "jpySource": "https://www.uniqlo.com/jp/ja/products/E449753-000",
+      "trySource": null
+    },
+    "trenckot": {
+      "product": "Uniqlo trençkot (kadın)",
+      "jpy": 12900,
+      "try": null,
+      "note": "TR'de bulunamadı.",
+      "jpySource": "https://www.uniqlo.com/jp/ja/products/E487420-000",
+      "trySource": null
+    },
+    "yagmurluk": {
+      "product": "Uniqlo BLOCKTECH Parka 3D Cut (erkek)",
+      "jpy": 6990,
+      "try": null,
+      "note": "Bazı renklerde süreli 3.990 ¥ fiyatı var. TR'de bulunamadı.",
+      "jpySource": "https://www.uniqlo.com/jp/ja/products/E482211-000",
+      "trySource": null
+    },
+    "esofman": {
+      "product": "Uniqlo eşofman altı (unisex)",
+      "jpy": 3990,
+      "try": null,
+      "note": "Düz kesim modeli 2.990 ¥. TR'de bulunamadı.",
+      "jpySource": "https://www.uniqlo.com/jp/ja/products/E486120-000",
+      "trySource": null
+    },
+    "montbell": {
+      "product": "Montbell Rain Trekker Jacket (kadın)",
+      "jpy": 28200,
+      "try": null,
+      "note": "Montbell Türkiye'de satılmıyor (Trendyol'daki 'Montbell' aynı adlı elektrik markası).",
+      "jpySource": "https://webshop.montbell.jp/goods/disp.php?product_id=1128730",
+      "trySource": null
+    },
+    "inzone-buds": {
+      "product": "Sony INZONE Buds WF-G700N",
+      "jpy": 29700,
+      "try": 27264,
+      "note": "JP liste fiyatı (Ekim 2037 haberi). TR fiyatı Tamindir haberinden, tarihi doğrulanmadı.",
+      "jpySource": "https://www.phileweb.com/news/d-av/202610/07/66093.html",
+      "trySource": "https://www.tamindir.com/haber/inzone-buds-yeni-renk-secenegi_107822/"
+    },
+    "instax-film": {
+      "product": "Fujifilm instax mini film, 20 poz (2×10)",
+      "jpy": 3000,
+      "try": 1179,
+      "note": "JP: 10’lu kutu piyasa fiyatı ¥1.450–1.600 (Mayıs 2037, Nisan 2037 zammı sonrası); 20 poz ~¥3.000 alındı. TR: MediaMarkt 20’li 1.179 TL, ilan tarihi net değil.",
+      "jpySource": "https://pricey.jp/web/articles/5046",
+      "trySource": "https://www.mediamarkt.com.tr/tr/product/_fujifilm-instax-tum-mini-makineler-ile-uyumlu-20li-film-107503794.html"
+    }
+  },
+  "estimate": {
+    "kitkat-bolgesel": [
+      500,
+      1200
+    ],
+    "pocky-pretz": [
+      150,
+      800
+    ],
+    "jagariko": [
+      150,
+      250
+    ],
+    "tokyo-banana": [
+      1200,
+      2500
+    ],
+    "kayanoya": [
+      1000,
+      2500
+    ],
+    "cay-kyoto": [
+      800,
+      3000
+    ],
+    "wagashi": [
+      500,
+      2000
+    ],
+    "ayak-konbini": [
+      150,
+      400
+    ],
+    "agri-bantlari": [
+      800,
+      2000
+    ],
+    "regl-bandi": [
+      600,
+      1000
+    ],
+    "bacak-icecek": [
+      1000,
+      2000
+    ],
+    "kolajen": [
+      1500,
+      4500
+    ],
+    "tirnak": [
+      500,
+      4000
+    ],
+    "siyah-nokta": [
+      1100,
+      1650
+    ],
+    "ysl-ruj": [
+      5000,
+      7500
+    ],
+    "fujiko-sampuan": [
+      1300,
+      1700
+    ],
+    "gunes-stick": [
+      900,
+      2500
+    ],
+    "haku-pola": [
+      7000,
+      16000
+    ],
+    "bicak": [
+      8000,
+      30000
+    ],
+    "bento": [
+      1000,
+      4000
+    ],
+    "seramik": [
+      500,
+      5000
+    ],
+    "nishikawa-yastik": [
+      5000,
+      20000
+    ],
+    "kamakura-bicak": [
+      10000,
+      30000
+    ],
+    "matcha-seti": [
+      5000,
+      15000
+    ],
+    "chopstick": [
+      500,
+      3000
+    ],
+    "noodle": [
+      150,
+      500
+    ],
+    "defter": [
+      500,
+      3000
+    ],
+    "washi": [
+      150,
+      800
+    ],
+    "defter-damga": [
+      500,
+      1500
+    ],
+    "gachapon": [
+      200,
+      500
+    ],
+    "retro": [
+      2000,
+      15000
+    ],
+    "anime-figur": [
+      2000,
+      15000
+    ],
+    "uniqlo-jp": [
+      1990,
+      5990
+    ],
+    "montbell": [
+      5000,
+      20000
+    ],
+    "tabi": [
+      500,
+      2000
+    ],
+    "uniqlo-airism": [
+      990,
+      2990
+    ],
+    "abc-mart": [
+      5000,
+      15000
+    ],
+    "trenckot": [
+      7990,
+      40000
+    ],
+    "yagmurluk": [
+      2000,
+      15000
+    ],
+    "baharlik-ceket": [
+      3990,
+      9990
+    ],
+    "mont-kaban": [
+      9990,
+      40000
+    ],
+    "uniqlo-polar": [
+      3990,
+      7990
+    ],
+    "esofman": [
+      2990,
+      9990
+    ],
+    "ic-camasiri": [
+      990,
+      6000
+    ],
+    "spor-babet": [
+      5000,
+      15000
+    ],
+    "bot-cizme": [
+      8000,
+      25000
+    ],
+    "kimono-al": [
+      2000,
+      20000
+    ],
+    "tenugui": [
+      800,
+      2000
+    ],
+    "shichimi": [
+      600,
+      1500
+    ],
+    "omamori": [
+      500,
+      1500
+    ],
+    "pokemon": [
+      500,
+      5000
+    ],
+    "bavul": [
+      10000,
+      30000
+    ],
+    "jins-gozluk": [
+      5500,
+      13000
+    ],
+    "gunes-gozlugu": [
+      3000,
+      10000
+    ],
+    "ikinci-el-canta": [
+      30000,
+      200000
+    ],
+    "marka-cuzdan": [
+      10000,
+      60000
+    ],
+    "sirt-cantasi": [
+      5000,
+      40000
+    ],
+    "makyaj-cantasi": [
+      300,
+      3000
+    ],
+    "ayna-yelpaze-toka": [
+      300,
+      3000
+    ],
+    "semsiye": [
+      1000,
+      4000
+    ]
+  },
+  "coupons": [
+    {
+      "store": "Vergi iadesi (tüm mağazalar, 1 Kasım 2037'dan itibaren)",
+      "discount": "%10 (gıda %8) tüketim vergisi iadesi; mağaza başına günlük ¥5.000+ (vergi hariç)",
+      "how": "Kasada pasaport göster, vergili tam fiyatı öde. Kalkışta havalimanındaki self-servis kioskta pasaportu okut (Haneda/Narita'da nakit iade kioskları var); iade mağaza/operatör tarafından karta, banka/uygulamaya veya nakit yapılır.",
+      "conditions": "Geçiş dönemi yok: 9–24 Kasım alışverişlerinin hepsi yeni sistemde. Mühürlü poşet ve ¥500.000 sarf limiti kalktı. Alımdan itibaren 90 gün içinde gümrük onayı; vergisiz ürünleri bagaja vermeden önce kioska git. Gümrük fiş bazında kontrol eder; fişteki bir ürün eksikse fişin tamamı reddedilir. Kupon önce uygulanır, iade indirimli tutar üzerinden hesaplanır. İşlem ücreti mağazaya göre (Donki/PPIH ücret almıyor; Seibu/Sogo %1,55 kesiyor).",
+      "url": "https://cdn.gltjp.com/en/article/item/21542/",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Don Quijote (Donki, APITA, PIAGO)",
+      "discount": "%5 ¥10.000+; %7 ¥30.000+ (vergisiz alışverişe ek)",
+      "how": "Resmi kupon sayfasını kasada telefonda canlı aç ya da majica uygulamasındaki kuponu göster; ekran görüntüsü kabul edilmez. Pasaport gerekli.",
+      "conditions": "Eşiğin vergi hariç mi dahil mi olduğu kaynaklarda çelişkili; kasada sor. ~600 mağaza. Yeni iade sisteminde PPIH işlem ücreti almıyor.",
+      "url": "https://livejapan.com/public/operation/coupon/donki/en.html",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Bic Camera",
+      "discount": "Elektronik/kamera/saat %7, kozmetik/ilaç/günlük ürün %5, sake %3; ¥5.000+ (vergi hariç)",
+      "how": "Kupon barkodunu telefonda kasada göster + pasaport.",
+      "conditions": "Yalnız vergisiz alışverişte. Apple, ithal marka saatler, Grand Seiko, oyun konsolları ve oyunlar, outlet/ikinci el hariç; diğer indirimlerle birleşmez. Geçerlilik tarihi kaynaklarda 31.08.2026 / 31.10.2026 — Kasım için yenilenip yenilenmediği doğrulanamadı.",
+      "url": "https://livejapan.com/public/operation/coupon/biccamera/en.html",
+      "verified": null
+    },
+    {
+      "store": "Yodobashi Camera",
+      "discount": "Turist kuponu yok; ~%10 Gold Point puan",
+      "how": "Kupon yok; puan kartı/uygulaması üzerinden.",
+      "conditions": "Kupon yerine puan iadesi uygular; puanların vergisiz alışverişte geçerliliğini kasada sor.",
+      "url": "https://watabi.org/en/articles/japan-discount-coupons-guide",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Matsumoto Kiyoshi",
+      "discount": "%3 ¥10.000–29.999; %5 ¥30.000–49.999; %7 ¥50.000+",
+      "how": "Kuponu ödeme öncesi telefonda göster (veya Matsukiyo Cocokara uygulaması) + pasaport.",
+      "conditions": "1 Nisan 2037–31 Mart 2027. Danışmanlı kozmetik, tütün, alkol, dergi, bebek bezi/maması hariç; diğer indirimlerle birleşmez; bazı mağazalar katılmıyor.",
+      "url": "https://www.iwafu.com/en/coupons/48",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Cocokara Fine",
+      "discount": "%3 ¥10.000–29.999; %5 ¥30.000–49.999; %7 ¥50.000+ (vergi hariç)",
+      "how": "Kuponu telefonda göster + pasaport.",
+      "conditions": "31.03.2027'ye kadar; yalnız vergisiz mağazalarda; diğer kampanyalarla birleşmez; bazı ürünler hariç.",
+      "url": "https://www.fun-japan.jp/en/category/special_light-coupons",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Tsuruha Drug",
+      "discount": "%3 ¥10.000–29.999; %5 ¥30.000–49.999; %7 ¥50.000+ (vergi dahil)",
+      "how": "Kuponu telefonda göster + pasaport.",
+      "conditions": "Eşik vergi dahil. Ayrıntılar ikincil kaynaktan.",
+      "url": "https://livejapan.com/public/operation/coupon/tsuruhadrug/en.html",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Sugi Drug / Sundrug / Satudora",
+      "discount": "Yaklaşık %5–7 (kademeler doğrulanamadı)",
+      "how": "Resmi kupon sayfasını telefonda göster + pasaport.",
+      "conditions": "Sugi kuponu FUN! JAPAN dizininde listeleniyor ama oran/geçerlilik görülemedi; kasada sor.",
+      "url": "https://watabi.org/en/coupons",
+      "verified": null
+    },
+    {
+      "store": "Daimaru / Matsuzakaya (Shinsaibashi, Umeda, Kyoto, Tokyo, Ueno)",
+      "discount": "%5 tek seferde ¥3.000+ (vergi dahil); ¥100.000+ vergisiz alışverişe ¥2.000 gurme kuponu",
+      "how": "Kuponu pasaportla birlikte kasada göster; gurme kuponu için vergisiz işlemden ÖNCE göster.",
+      "conditions": "31.08.2027'ye kadar (bir kaynak 31.08.2026 diyor — mağazada teyit et). Japonya'da 6 aydan kısa kalan yabancılar. Uluslararası butikler, saat, gıda, kampanyalı ürünler, restoran/kafe hariç; başka %5 kuponla ve uygulama puanıyla birleşmez.",
+      "url": "https://en.japaholic.com/?p=6592",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Takashimaya (Osaka Namba, Kyoto, Nihonbashi, Shinjuku)",
+      "discount": "%5 (Shopper's Card), ¥3.000+ (vergi hariç)",
+      "how": "Mağazadaki Tax Refund Counter gibi noktalarda pasaport gösterip Shopper's Card al.",
+      "conditions": "Saat, mücevher ve lüks marka ürünleri hariç.",
+      "url": "https://www.takashimaya.co.jp/store/special/shopperscard/index_en.html",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Isetan / Mitsukoshi",
+      "discount": "%5",
+      "how": "MITSUKOSHI ISETAN JAPAN APP'i indir, vergisiz kontuarında 'REWARDS'ı aktive ettir; kasada uygulama + pasaport göster.",
+      "conditions": "Kaynak UnionPay üye işyeri sayfası; resmi koşullar doğrulanamadı.",
+      "url": "https://m.unionpayintl.com/cardholderServ/serviceCenter/wap/merchant/1092537388585?type=1",
+      "verified": null
+    },
+    {
+      "store": "Hankyu Umeda (Hankyu Hanshin depato)",
+      "discount": "%5 Guest Coupon",
+      "how": "Pasaportla B1 Overseas Customer Counter, 1F Information Center veya 1F Duty Free Counter'dan kuponu al; kasada göster.",
+      "conditions": "Verildiği gün dahil 7 gün sınırsız kullanım. ¥1.000 altı ürünler (vergi hariç), indirimli ürün, şans çantası, hediye çeki, gıda, restoran/kafe hariç; puan kartıyla birleşmez; UnionPay/WeChat Pay/Alipay ödemelerinde geçmez; ödemeden sonra uygulanmaz.",
+      "url": "https://global.hankyu-hanshin-dept.co.jp/store/hankyuhonten/service/",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Seibu (Ikebukuro, Shibuya) / Sogo",
+      "discount": "%5, ¥1.000+ ürünlerde (vergi hariç)",
+      "how": "Kupon QR kodunu ve pasaportu ödeme öncesi göster.",
+      "conditions": "31.12.2026'ya kadar; yalnız yabancı turist. Gıda, indirimli ürün, restoran, bazı lüks markalar hariç; başka kuponla birleşmez. Vergi iadesinden %1,55 komisyon kesiliyor.",
+      "url": "https://fun-japan.jp/en/light-coupons/29",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "LAOX",
+      "discount": "%5 veya %8 (kaynaklar çelişkili), ¥5.000+",
+      "how": "Kuponu pasaportla ödeme öncesi kasada göster.",
+      "conditions": "31.12.2026'ya kadar. Oyunlar, Chow Tai Fook, lüks markalar, ithal saatler, ilaç, indirimli ürünler hariç; diğer indirimlerle birleşmez.",
+      "url": "https://livejapan.com/public/operation/coupon/laox/en.html",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Loft / Hands (Tokyu Hands)",
+      "discount": "Turist kuponu yok",
+      "how": "Yalnız vergi iadesi (¥5.000+ vergi hariç).",
+      "conditions": "Eski '%5 misafir kuponu' bilgileri güncel değil (Ağustos 2037 rehberi).",
+      "url": "https://watabi.org/en/articles/loft-coupon-guide",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Uniqlo / GU",
+      "discount": "Turist kuponu bulunamadı",
+      "how": "Yalnız vergi iadesi.",
+      "conditions": null,
+      "url": null,
+      "verified": null
+    },
+    {
+      "store": "MUJI",
+      "discount": "Üyelere %10 (vergi iadesiyle birleşmez)",
+      "how": "MUJI uygulaması üyeliği.",
+      "conditions": "Resmi olarak vergisiz alışverişle birlikte kullanılamaz; turist için genelde vergi iadesi daha avantajlı.",
+      "url": "https://watabi.org/en/coupons",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Rinku Premium Outlets (Osaka) / Gotemba Premium Outlets",
+      "discount": "Doğrulanamadı",
+      "how": "Rinku: Information Center'a pasaportla sor. Gotemba: resmi 'Shopping Navi' uygulamasındaki kuponlar (üyelik gerekmez, kasada göster).",
+      "conditions": "Mitsui Outlet Park kupon kitapçığı Premium Outlets'te geçmez. Rinku için 2037 ziyaretçi kuponu kaynağı bulunamadı.",
+      "url": "https://watabi.org/en/articles/gotemba-premium-outlet-guide",
+      "verified": null
+    },
+    {
+      "store": "Mitsui Outlet Park / LaLaport",
+      "discount": "Kupon kitapçığı, ~%10'a kadar",
+      "how": "Tourist Information kontuarında pasaport + QR ile al.",
+      "conditions": "Japonya'da ikamet kartı olanlar genelde hariç; Premium Outlets (Rinku, Gotemba) kapsam dışı.",
+      "url": "https://watabi.org/en/articles/japan-discount-coupons-guide",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Kobe-Sanda Premium Outlets",
+      "discount": "Kupon sayfası (oran belirtilmemiş)",
+      "how": "KANSAI ONE PASS kartını Information Center'da göster.",
+      "conditions": "31.03.2027'ye kadar; kart başına 1 set.",
+      "url": "https://kansaionepass.com/en/article/detail/460",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Snow Peak",
+      "discount": "%5 ¥30.000+; %7 ¥50.000+",
+      "how": "Resmi kupon sayfasını telefonda göster.",
+      "conditions": "Ayrıntılar ikincil kaynaktan.",
+      "url": "https://watabi.org/en/articles/japan-discount-coupons-guide",
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Visa / Mastercard / JCB kart kampanyaları",
+      "discount": "Türk kartları için güncel kampanya bulunamadı",
+      "how": "Kart çıkaran bankanın kampanya sayfasını kontrol et.",
+      "conditions": "Bulunan kampanyalar Tayland/Filipin bankalarına özel (ör. KTC JCB Bic Camera %20 iade, Eylül 2037'da bitti) veya süresi dolmuş. Yabancı kartta ~%1,5–2 kur/işlem ücreti olabilir.",
+      "url": null,
+      "verified": "2037-10-25"
+    },
+    {
+      "store": "Klook / Japanican",
+      "discount": "Doğrulanmış alışveriş kuponu bulunamadı",
+      "how": null,
+      "conditions": "Klook promosyon kodları kısa ömürlü ve çoğu tur/bilet için; mağaza indirimi değil.",
+      "url": "https://www.shopback.sg/blog/finance/klook-discounts-2026",
+      "verified": null
+    }
+  ],
+  "jpOnly": {
+    "kitkat-bolgesel": "Bölgesel tatlar yalnız Japonya’da",
+    "pocky-pretz": "Sınırlı/bölgesel tatlar Türkiye’de yok",
+    "jagariko": "Türkiye’de satılmıyor",
+    "tokyo-banana": "Yalnız Japonya’da",
+    "kayanoya": "Türkiye’de satılmıyor",
+    "cay-kyoto": "Taze Kyoto çayı, Türkiye’de çok pahalı",
+    "wagashi": "Taze, yalnız Japonya’da",
+    "megrhythm": "Türkiye’de satılmıyor",
+    "kissme-maskara": "Türkiye’de satılmıyor",
+    "shichimi": "Kyoto’ya özel",
+    "omamori": "Yalnız tapınaklarda",
+    "tenugui": "Japonya’ya özel",
+    "matcha-seti": "Uji matchası ve el yapımı chasen burada",
+    "gachapon": "Yalnız Japonya’da",
+    "pokemon": "Pokémon Center’a özel ürünler",
+    "versatil-limited": "Japonya’ya özel limitli seriler",
+    "uniqlo-jp": "Japonya’ya özel seriler",
+    "asics-onitsuka": "Onitsuka Tiger Türkiye’de resmî satılmıyor; Japonya modelleri",
+    "uniqlo-airism": "Uniqlo’nun Türkiye mağazası yok",
+    "uniqlo-polar": "Uniqlo’nun Türkiye mağazası yok",
+    "yagmurluk": "Uniqlo’nun Türkiye mağazası yok",
+    "montbell": "Montbell Türkiye’de satılmıyor"
+  }
+}

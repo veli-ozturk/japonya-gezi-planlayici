@@ -1,0 +1,98 @@
+{
+  "checkedAt": "2037-10-25",
+  "numbers": [
+    {"name": "Polis", "number": "110", "note": "Ücretsiz, 7/24. İngilizce destek sınırlı olabilir; yavaş ve net konuşun, konumu söyleyin."},
+    {"name": "İtfaiye / Ambulans", "number": "119", "note": "Ücretsiz, 7/24. 'Kyūkyū' (ambulans) veya 'Kaji' (yangın) deyin."},
+    {"name": "Sahil Güvenlik (denizde kaza)", "number": "118", "note": "Japonya Sahil Güvenlik acil hattı; yalnız deniz kazaları için. Kaynak: kaiho.mlit.go.jp."},
+    {"name": "JNTO Japan Visitor Hotline", "number": "050-3816-2787", "note": "7/24, yılın her günü; İngilizce/Çince/Korece. Kaza, hastalık, afet ve genel turist yardımı. Yurt dışından: +81-50-3816-2787."},
+    {"name": "Tokyo Emniyeti İngilizce yardım hattı", "number": "03-3501-0110", "note": "JNTO'ya göre 7/24 İngilizce. Acil olmayan polis işleri için; acilde 110."},
+    {"name": "Tokyo yabancılar için tıbbi bilgi hattı (Tokyo Metropolitan Government)", "number": "03-5285-8181", "note": "Her gün 09:00-20:00; İngilizce, Çince, Korece, Tayca, İspanyolca. Yabancı dil konuşan hastane/klinik yönlendirmesi. (Bazı kaynaklar 'Himawari' adını kullanır; 'Himawari' Japonca hattı 03-5272-0303.)"},
+    {"name": "AMDA Uluslararası Tıbbi Bilgi Merkezi", "number": "03-6233-9266", "note": "İngilizce: Pazartesi-Cuma 10:00-16:00 (Chuo-ku resmi sayfasına göre). Telefonla tıbbi yönlendirme; acil değil."},
+    {"name": "#7119 Ambulans gerekli mi? danışma hattı - Tokyo", "number": "#7119", "note": "7/24, Tokyo'da çalışır (alternatif 03-3212-2323, 23 ilçe). Tokyo belgelerine göre yalnız JAPONCA; yabancılar 03-5285-8181'e yönlendirilir. Şüphede doğrudan 119."},
+    {"name": "#7119 Ambulans gerekli mi? danışma hattı - Osaka", "number": "#7119", "note": "7/24, hemşire danışmanlığı (alternatif 06-6582-7119). İngilizce desteği resmi kaynakta doğrulanamadı; şüphede 119 veya JNTO hattı."},
+    {"name": "T.C. Dışişleri Konsolosluk Çağrı Merkezi", "number": "+90 312 292 29 29", "note": "7/24, Türkiye'deki merkez; Tokyo Büyükelçiliği sitesinde belirtilir."},
+    {"name": "Tokyo Emniyeti Kayıp Eşya Merkezi", "number": "0570-550-142", "note": "JNTO 'Lost & Found' olarak listeliyor (Tokyo)."},
+    {"name": "Tokyo Metro kayıp eşya", "number": "0570-033-777", "note": "09:00-17:00. Yurt dışı numaralardan bağlanmaz. Aynı gün ise kaybettiğiniz istasyonun ofisine gidin; sonraki günler Iidabashi Kayıp Eşya Merkezi (09:00-20:00)."},
+    {"name": "JR East InfoLine (İngilizce, kayıp eşya dahil)", "number": "050-2016-1603", "note": "10:00-18:00 (29 Ara-3 Oca hariç). Önce istasyon görevlisine başvurun."},
+    {"name": "Osaka Metro kayıp eşya (Müşteri Merkezi)", "number": "050-3355-8208", "note": "08:00-20:00, her gün; İngilizce için bağlanınca 1'e basın. Namba Kayıp Eşya Merkezi 08:30-20:00."},
+    {"name": "JR West kayıp eşya", "number": "0570-00-4146", "note": "Sesli menüde 2'ye basın. Yurt dışından/alternatif: +81-6-6133-4146 (ücretli)."}
+  ],
+  "missions": [
+    {
+      "name": "T.C. Tokyo Büyükelçiliği",
+      "address": "2-33-6 Jingumae, Shibuya-ku, Tokyo 150-0001",
+      "ja": "〒150-0001 東京都渋谷区神宮前2-33-6",
+      "phone": "+81-3-6439-5700 (Japonya içinden 03-6439-5700)",
+      "emergency": "+81-70-1456-9122 (acil durum hattı; Japonya içinden 070-1456-9122)",
+      "email": "embassy.tokyo@mfa.gov.tr",
+      "hours": "Pzt-Cuma 09:00-12:30 / 14:00-18:00; Konsolosluk şubesi başvuru: 09:00-12:00 / 13:00-16:00",
+      "url": "https://tokyo-be.mfa.gov.tr/Mission/Contact"
+    },
+    {
+      "name": "T.C. Nagoya Başkonsolosluğu (Osaka bu konsolosluğun görev bölgesinde: Kinki bölgesi)",
+      "address": "KS Iseya Bldg. 4F, Sakae 3-21-23, Naka-ku, Nagoya, Aichi 460-0008",
+      "ja": "〒460-0008 愛知県名古屋市中区栄3-21-23 KSイセヤビル4階",
+      "phone": "+81-52-263-6200 (Japonya içinden 052-263-6200)",
+      "emergency": "+81-80-3673-1923 (mesai dışı nöbetçi; Japonya içinden 080-3673-1923)",
+      "email": "consulate.nagoya@mfa.gov.tr",
+      "hours": "Pzt-Cuma 09:00-18:00; konsolosluk işlemleri 09:00-12:00 / 13:00-16:00",
+      "url": "https://nagoya-bk.mfa.gov.tr/Mission/Contact"
+    },
+    {
+      "name": "T.C. Osaka Fahri Başkonsolosluğu",
+      "address": null,
+      "ja": null,
+      "phone": null,
+      "emergency": null,
+      "email": null,
+      "hours": null,
+      "url": "https://tokyo-be.mfa.gov.tr/Mission/HonoraryConsulates"
+    }
+  ],
+  "hospitals": [
+    {
+      "city": "Osaka",
+      "name": "Osaka National Hospital (NHO Osaka Ulusal Hastanesi)",
+      "ja": "国立病院機構 大阪医療センター",
+      "address": "2-1-14 Hoenzaka, Chuo-ku, Osaka 540-0006 (〒540-0006 大阪市中央区法円坂2-1-14)",
+      "phone": "06-6942-1331",
+      "note": "Chuo-ku'da, Shinsaibashi'ye en yakın büyük hastanelerden. 1./2./3. basamak acil için 24 saat hizmet. Yabancı hastalar sayfası ve İngilizce ücret rehberi var; İngilizce personel/tercüman resmi sitede belirtilmiyor. Sigortasız yabancılara puan başı 20 yen + KDV.",
+      "url": "https://osaka.hosp.go.jp/fip/index.html"
+    },
+    {
+      "city": "Osaka",
+      "name": "Osaka Red Cross Hospital (Osaka Kızılhaç Hastanesi)",
+      "ja": "大阪赤十字病院",
+      "address": "5-30 Fudegasaki-cho, Tennoji-ku, Osaka (大阪市天王寺区筆ケ崎町5-30)",
+      "phone": "06-6774-5111",
+      "note": "Osaka Valiliği 'yabancı hasta kabul merkez hastanesi' (yatış gerektiren acil yabancı hastaları kabul edebilir). Tsuruhashi istasyonundan ~7 dk yürüme. Resmi site 23 Eki'den beri bakımda; 24 saat acil ve İngilizce desteği hastane sitesinden doğrulanamadı. Gitmeden arayın.",
+      "url": "https://www.osaka-med.jrc.or.jp/"
+    },
+    {
+      "city": "Tokyo",
+      "name": "The University of Tokyo Hospital (Tokyo Üniversitesi Hastanesi)",
+      "ja": "東京大学医学部附属病院",
+      "address": "7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8655 (〒113-8655 東京都文京区本郷7-3-1)",
+      "phone": "03-3815-5411",
+      "note": "Ueno'ya yakın. Acil Merkezi/ER 24 saat 365 gün; gitmeden önce mutlaka arayın (mesai dışı: 'Kyūmei kyūkyū sentā' isteyin). Uluslararası Tıp Merkezi var: international@adm.h.u-tokyo.ac.jp. Yoğunlukta uzun bekleme olabilir.",
+      "url": "https://www.h.u-tokyo.ac.jp/patient/er/"
+    },
+    {
+      "city": "Tokyo",
+      "name": "Mitsui Memorial Hospital (Mitsui Memorial Hastanesi)",
+      "ja": "三井記念病院",
+      "address": "Kanda-Izumi-cho 1, Chiyoda-ku, Tokyo 101-8643 (〒101-8643 東京都千代田区神田和泉町1番地)",
+      "phone": "03-3862-9111",
+      "note": "Akihabara'ya yürüme mesafesinde. Acil hasta kabulü 24 saat (gece yalnız dahiliye ve cerrahi); gelmeden önce mutlaka arayın. Mesai dışı 8.800 yen ek ücret olabilir. DİKKAT: Japonca bilmeyen hastanın kendi tercümanını (20 yaş üstü) getirmesi isteniyor; İngilizce personel garanti değil.",
+      "url": "https://www.mitsuihosp.or.jp/outpatient/first/emergency/index.html"
+    }
+  ],
+  "tips": [
+    {"title": "Pasaport kaybı/çalınması", "text": "1) En yakın kōban'a (polis kulübesi) veya karakola gidip kayıp/hırsızlık tutanağı alın (otel resepsiyonu yardım edebilir). 2) Tokyo'da Büyükelçiliği, Osaka'dayken Nagoya Başkonsolosluğu'nu arayın (mesai dışı acil hatlar listede); dönüş için pasaport/geçici seyahat belgesi işlemlerini başlatın. 3) Pasaportun fotokopisini/fotoğrafını ayrı yerde tutun; vesikalık fotoğraf yanınızda olsun."},
+    {"title": "Kayıp eşya", "text": "Aynı gün kaybettiğiniz istasyonun görevlisine veya en yakın kōban'a başvurun. Tren/metro eşyaları 1-2 gün içinde merkeze gider (Tokyo Metro: Iidabashi; Osaka Metro: Namba). Teslim alırken kimlik (pasaport) gerekir. Kredi kartı çalınırsa bankanızı hemen arayın."},
+    {"title": "Deprem", "text": "Sarsıntıda sakin kalın; içerideyseniz masa altına girin, görevlilerin talimatına uyun. Otele girişte acil çıkış yollarını öğrenin. Açık ateşi söndürün. Kıyıdaysanız büyük depremden sonra hemen yüksek yere çıkın (tsunami). Telefonu şarjlı tutun, powerbank taşıyın."},
+    {"title": "Uygulamalar (yola çıkmadan kurun)", "text": "JNTO 'Safety tips' (deprem erken uyarısı, tsunami ve hava uyarıları, çok dilli) ve 'NHK WORLD-JAPAN' (afet haberleri). Web: Japan Safe Travel Information (JNTO)."},
+    {"title": "Hastaneye giderken", "text": "Büyük hastaneler acile gelmeden önce telefon ister. Dil sorunu için önce JNTO hattı (050-3816-2787, 7/24) veya Tokyo'da 03-5285-8181. Seyahat sigortası poliçenizi ve pasaportu yanınızda taşıyın; sigortasız tedavi pahalıdır."},
+    {"title": "Japonca kısa ifadeler", "text": "Kyūkyūsha onegaishimasu = Ambulans lütfen. Tasukete = İmdat. Eigo o hanasemasu ka? = İngilizce konuşuyor musunuz? Torukojin desu = Türküm. Otelin Japonca adresini telefonunuzda/kağıtta tutun."}
+  ]
+}

@@ -1,0 +1,999 @@
+{
+  "checkedAt": "2037-10-25",
+  "privacy": "Rezervasyon kodu, bilet ve pasaport numarası bilerek yazılmadı. Biniş kartları havayolu uygulamasında.",
+  "changeNote": "Havayolu saat değişikliği e-postasına göre: İstanbul kalkışı 14.25 → 14.10, Guangzhou varışı (24 Kasım) 19.10 → 19.20 olarak okundu. China Southern uygulamasından veya web check-in'den son saati teyit et.",
+  "flights": [
+    {
+      "date": "2037-11-08",
+      "flight": "CZ0101",
+      "from": "IST",
+      "fromName": "İstanbul Havalimanı",
+      "dep": "14:10",
+      "to": "CAN",
+      "toName": "Guangzhou Baiyun",
+      "arr": "05:25",
+      "arrDate": "2037-11-09",
+      "note": "Gece uçuşu ~10 sa 15 dk (saat farkı +5)."
+    },
+    {
+      "date": "2037-11-09",
+      "flight": "CZ0102",
+      "from": "CAN",
+      "fromName": "Guangzhou Baiyun",
+      "dep": "09:40",
+      "to": "KIX",
+      "toName": "Osaka Kansai",
+      "arr": "14:10",
+      "arrDate": "2037-11-09",
+      "note": "Aktarma 4 sa 15 dk. Uçuş ~3 sa 30 dk (saat farkı +1)."
+    },
+    {
+      "date": "2037-11-24",
+      "flight": "CZ0201",
+      "from": "HND",
+      "fromName": "Tokyo Haneda",
+      "dep": "15:05",
+      "to": "CAN",
+      "toName": "Guangzhou Baiyun",
+      "arr": "19:20",
+      "arrDate": "2037-11-24",
+      "note": "Uluslararası terminal (Terminal 3) beklenir; biletten teyit et."
+    },
+    {
+      "date": "2037-11-25",
+      "flight": "CZ0202",
+      "from": "CAN",
+      "fromName": "Guangzhou Baiyun",
+      "dep": "00:50",
+      "to": "IST",
+      "toName": "İstanbul Havalimanı",
+      "arr": "07:10",
+      "arrDate": "2037-11-25",
+      "note": "Aktarma ~5 sa 30 dk, gece. Uçuş ~11 sa 20 dk."
+    }
+  ],
+  "drive": {
+    "route": "Evden İstanbul Havalimanı’na otoyol rotası (örnek). Mesafe ve süreyi harita uygulamasından teyit edin.",
+    "tolls": "Otoyol ve köprü geçişleri HGS ile; güncel ücretleri KGM / HGS uygulamasından kontrol edin.",
+    "mapsOrigin": "Ev",
+    "mapsDestination": "İstanbul Havalimanı Otopark",
+    "out": {
+      "title": "Gidiş: 8 Kasım Pazar, uçuş 14.10",
+      "timeline": [
+        [
+          "04:45",
+          "Evden çıkış",
+          "Pazar sabahı trafik az. Yakıt ve HGS bakiyesi önceden."
+        ],
+        [
+          "07:00",
+          "Bolu Dağı / Düzce civarı 30 dk mola",
+          "Kahvaltı. Kasım sabahı Bolu Dağı'nda sis ve buzlanma olabilir."
+        ],
+        [
+          "10:00",
+          "Örnek Otopark (havalimanı yakını)",
+          "Aracı teslim et (4 yan + km fotoğrafı, fiş), servisle terminale ~7 dk. Gelmeden 30 dk önce WhatsApp’tan haber ver."
+        ],
+        [
+          "10:45",
+          "Terminal, check-in",
+          "Dış hat: kalkıştan 3 saat önce terminalde. Bagajın KIX'e kadar etiketlendiğini ve iki biniş kartını kontrol et."
+        ],
+        [
+          "14:10",
+          "CZ0101 kalkış",
+          "Duty-free'den 100 ml üstü sıvı alma (Guangzhou'da aktarma güvenliği)."
+        ]
+      ],
+      "choices": [
+        {
+          "name": "8 Kasım 04.45'te çıkış",
+          "pick": true,
+          "plus": "Otel masrafı yok; Pazar sabahı yol boş. İki sürücü dönüşümlü sürerse en F/P seçenek.",
+          "minus": "Gece yarısı kalkış; sis veya kaza gecikmesine ~1 saat pay var."
+        },
+        {
+          "name": "7 Kasım akşamı İstanbul'a git, havalimanı yakınında kal",
+          "pick": false,
+          "plus": "Dinlenmiş uçarsın; yol gecikmesi riski sıfır. Tek sürücü varsa daha güvenli.",
+          "minus": "Otel + bir gece; bazı oteller 'park et-uç' paketi verir, fiyat kıyasla."
+        }
+      ]
+    },
+    "back": {
+      "title": "Dönüş: 25 Kasım Çarşamba, iniş 07.10",
+      "timeline": [
+        [
+          "07:10",
+          "İniş",
+          "Pasaport ve bagaj ~45–75 dk."
+        ],
+        [
+          "08:30",
+          "Otoparktan çıkış veya dinlenme",
+          "Gece uçuşu ve 5,5 saatlik aktarmadan sonra uykusuz olacaksın."
+        ],
+        [
+          "13:30–15:00",
+          "Ev",
+          "Çıkış saatine ve molalara göre."
+        ]
+      ],
+      "choices": [
+        {
+          "name": "İner inmez yola çık",
+          "pick": false,
+          "plus": "Öğleden sonra evde.",
+          "minus": "Gece uçuşu sonrası uykusuz 5 saat otoyol; en riskli seçenek."
+        },
+        {
+          "name": "Havalimanında 2–3 saat dinlen, sonra çık",
+          "pick": true,
+          "plus": "Terminaldeki kısa süreli otel (ör. YOTEL) veya araçta kestirme; daha güvenli sürüş.",
+          "minus": "Ev'ya akşamüstü varış; kısa süreli otel ücreti."
+        },
+        {
+          "name": "İki sürücü, 1,5 saatte bir değiş",
+          "pick": false,
+          "plus": "Hızlı ve güvenli arası.",
+          "minus": "İkiniz de uykusuzsanız fayda sınırlı."
+        }
+      ]
+    }
+  },
+  "parking": {
+    "days": "8 Kasım ~10.15 → 25 Kasım ~08.30: yaklaşık 17 gün.",
+    "note": "Resmî tarife sitesi okunamadı; 2037 rakamları birbirini tutan ikincil kaynaklardan (Ocak 2037 tarifesi: 12–24 saat 740 TL, 7–15 gün abonman 5.920 TL, aylık 9.480 TL; açık otopark aylık 6.670 TL). 17 gün 15 günlük abonmanı aşar. Rezervasyon öncesi İstanbul Airport uygulamasından teyit et.",
+    "verdict": "Seçilen: Örnek Otopark (havalimanı yakını), 8 Kasım 10.00 – 25 Kasım 08.30 toplam 5.000 TL (31 Ekim WhatsApp’ta yazılı teyit, rezervasyon yapıldı). Transfer ücretsiz, 7/24. Ödeme nakit veya EFT; bir kısmı dönüşte ödenebilir. Anahtar sizde, aracı kendiniz park edersiniz. Hasarda kamera kaydıyla sorumluluk tespiti; maddi sorumluluk sigortası var (işletmenin beyanı). Yedek: İGA açık otopark aylık abonmanı (~6.670 TL).",
+    "options": [
+      {
+        "name": "Örnek Otopark (seçilen)",
+        "tier": "F/P",
+        "score": 4,
+        "price": "5.000 TL toplam (8 Kasım 10.00 – 25 Kasım 08.30, yazılı teyit)",
+        "plus": "İGA açık abonmandan ~1.670 TL ucuz; ücretsiz 7/24 servis (dönüşte havalimanı -2. kat 9 numaralı kolon); anahtar sizde; giriş kaydı ve ödeme belgesi veriliyor; maddi sorumluluk sigortası (işletmenin beyanı). Google 4,9 (101), şikayet kaydı yok.",
+        "minus": "Yeni işletme (web sitesi Ağustos 2037). Açık alan; hasar sorumluluğu kamera kaydına göre belirleniyor. Önlem: ödemenin bir kısmını dönüşte yap, teslimde aracın 4 yanı + km fotoğrafı, giriş kaydı/belgeyi sakla."
+      },
+      {
+        "name": "İGA açık otopark, aylık abonman",
+        "tier": "F/P",
+        "score": 5,
+        "price": "~6.670 TL (30 güne kadar)",
+        "plus": "Resmî otopark, terminale yakın, ring/servis derdi yok; 17 gün için en ucuz resmî seçenek.",
+        "minus": "Açık alan (yağmur/güneş); abonmanın uygulamadan alınması ve başlangıç koşulu teyit edilmeli."
+      },
+      {
+        "name": "İGA kapalı otopark, 15 gün abonman + 2 gün",
+        "tier": "F/P",
+        "score": 4,
+        "price": "~5.920 + 2 × 740 ≈ 7.400 TL",
+        "plus": "Kapalı ve terminale yürüme mesafesi; kapalı aylıktan ~2.000 TL ucuz.",
+        "minus": "Abonman bitince aşan sürenin günlük ücretle mi işlediğini otopark gişesinden teyit et."
+      },
+      {
+        "name": "Ringli özel otopark (havalimanı çevresi)",
+        "tier": "F/P",
+        "score": 3,
+        "price": "Tahmini ~3.000–4.000 TL (doğrulanmadı)",
+        "plus": "Bir 2037 kaynağına göre 7 gün ortalama ~1.450 TL ve terminale 7–12 dk ring; resmî abonmandan ucuz olabilir.",
+        "minus": "İsim ve fiyat güvenilir kaynakta doğrulanamadı. Dönüşte 07.10 inişte ringi beklemek, araç teslim tutanağı ve sigorta riski. Seçersen: Google puanı ≥4,3, kapalı/kameralı, 7/24 ring, yazılı fiyat."
+      },
+      {
+        "name": "İGA kapalı otopark, aylık abonman",
+        "tier": "Orta",
+        "score": 3,
+        "price": "~9.480 TL",
+        "plus": "Kapalı; tek işlem.",
+        "minus": "15 gün + 2 gün kombinasyonundan pahalı."
+      },
+      {
+        "name": "Vale",
+        "tier": "Lüks",
+        "score": 2,
+        "price": null,
+        "plus": "Terminal kapısında teslim.",
+        "minus": "En pahalı seçenek; uzun süre için anlamsız."
+      },
+      {
+        "name": "Günlük ücretle kapalı otopark (abonmansız)",
+        "tier": "Lüks",
+        "score": 1,
+        "price": "~740 TL/gün → 17 gün ~12.580 TL",
+        "plus": "Hiçbir işlem gerekmez.",
+        "minus": "Aynı yer için aylık abonmanın ~1,3 katı. Abonmansız park etme."
+      }
+    ]
+  },
+  "airportIntro": "İlk ve son gün, kapıdan kapıya. Saatler hedef saattir; havayolu saatini uygulamadan teyit edin. 24 Kasım: Örnek Otel Ueno → Haneda Terminal 3 (Okachimachi–Hamamatsucho–Monorail).",
+  "airports": [
+    {
+      "id": "hv-ist-gidis",
+      "when": "8 Kasım Pazar · İstanbul Havalimanı",
+      "title": "İstanbul'dan çıkış (CZ0101, 14.10)",
+      "steps": [
+        [
+          "10.00",
+          "otoparka aracı teslim et, servisle terminale (~7 dk)",
+          "Aracın fotoğraflarını çek, plakalı fiş al; servis gidiş katına bırakır."
+        ],
+        [
+          "10.45",
+          "Dış hatlar gidiş katı, China Southern bankosu",
+          "Bankonun yeri uçuş ekranında yazar. Bagaj etiketinde KIX yazdığını ve iki biniş kartını (CZ0101 + CZ0102) aldığını kontrol et."
+        ],
+        [
+          "11.30",
+          "Pasaport kontrolü ve güvenlik",
+          "Powerbank kabinde, sıvılar 100 ml kuralına göre. Duty-free'den 100 ml üstü sıvı alma (Guangzhou aktarma güvenliği)."
+        ],
+        [
+          "13.30",
+          "Kapıda ol",
+          "Biniş genelde kalkıştan 30–40 dk önce başlar."
+        ]
+      ]
+    },
+    {
+      "id": "hv-can-gidis",
+      "when": "9 Kasım Pazartesi · Guangzhou Baiyun",
+      "title": "Guangzhou aktarması (05.25 → 09.40)",
+      "steps": [
+        [
+          "05.25",
+          "İniş; 'International Transfer / 国际中转' tabelalarını izle",
+          "Pasaport kontrolüne (Arrival) gitme; havalimanından çıkmıyorsun."
+        ],
+        [
+          "",
+          "Biniş kartın yoksa: pasaport kontrolünden önceki China Southern aktarma bankosu",
+          "Bagaj etiketini göster, CZ0102 biniş kartını al."
+        ],
+        [
+          "06.00",
+          "Aktarma güvenlik kontrolü",
+          "Sıvılar ve powerbank yeniden kontrol edilir; 3C işareti olmayan/etiketi okunmayan powerbank'e el konabilir."
+        ],
+        [
+          "06.30",
+          "Kalkış katında kapını bul, kahvaltı",
+          "Wi-Fi'ye bağlanma; Google/WhatsApp mobil veride (eSIM) çalışır."
+        ],
+        [
+          "09.00",
+          "Kapıda ol (CZ0102 kalkış 09.40)",
+          ""
+        ]
+      ]
+    },
+    {
+      "id": "hv-kix-varis",
+      "when": "9 Kasım Pazartesi · Kansai Havalimanı Terminal 1",
+      "title": "Kansai'ye varış → Örnek Otel Shinsaibashi",
+      "steps": [
+        [
+          "14.10",
+          "İniş, pasaport kontrolü",
+          "Visit Japan Web göçmenlik QR'ını aç; parmak izi ve fotoğraf."
+        ],
+        [
+          "14.40",
+          "Bagaj bandı, ardından gümrük",
+          "Visit Japan Web gümrük QR'ı ile hızlı kapı."
+        ],
+        [
+          "15.00",
+          "Varış salonu (1. kat). İstersen valizi kargoya ver",
+          "Terminal 1, 4. kat kuzeyde Yamato bankosu (06.30–22.30): bazı otellere aynı gün 18.00 sonrası teslim; Örnek Otel kabul ediyor mu önceden sor."
+        ],
+        [
+          "15.10",
+          "2. kattan köprüyle Kansai Airport istasyonuna geç",
+          "Solda JR, sağda Nankai (mavi). ICOCA'yı JR gişesinden al; rapi:t biletini Nankai gişesinden."
+        ],
+        [
+          "15.30",
+          "Nankai rapi:t → Namba (~38 dk, rezerve koltuk)",
+          "Valizi vagon başındaki bagaj rafına koy."
+        ],
+        [
+          "16.10",
+          "Namba: taksi durağı (~10 dk) veya Midosuji hattı 1 durak Shinsaibashi",
+          "Valizle en kolayı taksi; adres kartı: Minamisenba, Chuo-ku."
+        ],
+        [
+          "16.30",
+          "Örnek Otel'e giriş",
+          "Giriş talimatı rezervasyonda (kapı kodu/kutu)."
+        ]
+      ],
+      "choices": [
+        {
+          "name": "Nankai rapi:t",
+          "pick": true,
+          "plus": "Namba'ya ~38 dk, rezerve koltuk ve bagaj rafı; ~¥1.450 (2037 rehberleri, teyit et).",
+          "minus": "Her 30 dk'da bir; dolu sefer olabilir."
+        },
+        {
+          "name": "Nankai havalimanı ekspresi",
+          "pick": false,
+          "plus": "En ucuzu, ICOCA ile, rezervasyonsuz; ~45 dk.",
+          "minus": "Banliyö treni; kalabalıkta valizle ayakta kalabilirsin."
+        },
+        {
+          "name": "Limuzin otobüs → OCAT (Namba)",
+          "pick": false,
+          "plus": "Valiz bagaja; ~50 dk, ~¥1.400 (2037 rehberi).",
+          "minus": "Trafiğe bağlı; OCAT'tan Örnek Otel'e yine taksi/metro."
+        },
+        {
+          "name": "Taksi",
+          "pick": false,
+          "plus": "Kapıdan kapıya.",
+          "minus": "Taksimetre ~¥20.000+ ve köprü ücreti; sabit ücretli taksi önceden rezervasyonla."
+        }
+      ],
+      "maps": [
+        [
+          "Kansai → Örnek Otel rotası",
+          "Kansai International Airport",
+          "34.67787108,135.5024929",
+          "transit"
+        ]
+      ]
+    },
+    {
+      "id": "hv-hnd-cikis",
+      "when": "24 Kasım Salı · Haneda Terminal 3",
+      "title": "Örnek Otel Ueno → Haneda (CZ0201, 15.05)",
+      "steps": [
+        [
+          "10.00",
+          "Otelden çıkış (Örnek Otel Ueno)",
+          "Okachimachi güney çıkışı ~5 dk → JR Yamanote (Shinagawa yönü) Hamamatsucho ~12 dk → Tokyo Monorail Haneda Express Terminal 3 ~13 dk (~¥519 IC). Kapıdan kapıya ~40–50 dk. Yedek: Suehirocho → Ginza hattı Shimbashi → Toei Asakusa hattı Haneda’ya direkt; ya da Shinagawa → Keikyu."
+        ],
+        [
+          "10.50",
+          "Terminal 3'e varış; valizleri kargoyla gönderdiysen Yamato bankosundan al",
+          "Airport TA-Q-BIN teslim noktası varış/gidiş katındaki bankolar; fişi hazır tut."
+        ],
+        [
+          "11.50",
+          "Tax-free iade terminali (check-in'den ÖNCE)",
+          "Pasaportu okut; kontrol çıkarsa ürünü gümrüğe göster. İade sonra mağazanın yöntemiyle gelir."
+        ],
+        [
+          "12.05",
+          "China Southern check-in: 3. kat, Island N",
+          "Bankolar kalkıştan 3 saat önce açılır, 60 dk önce (14.05) kapanır. Bagaj etiketinde IST yazdığını ve iki biniş kartını al."
+        ],
+        [
+          "12.45",
+          "Güvenlik ve pasaport",
+          "Powerbank kabinde, en fazla 2; sake ve büyük sıvılar kayıtlı bagajda olmalı."
+        ],
+        [
+          "14.30",
+          "Kapıda ol (biniş ~14.35)",
+          ""
+        ]
+      ]
+    },
+    {
+      "id": "hv-can-donus",
+      "when": "24–25 Kasım · Guangzhou Baiyun",
+      "title": "Guangzhou aktarması (19.20 → 00.50)",
+      "steps": [
+        [
+          "19.20",
+          "İniş; 'International Transfer' tabelaları",
+          "Havalimanından çıkma; vize gerekmez."
+        ],
+        [
+          "20.00",
+          "Aktarma güvenlik kontrolü",
+          "Haneda duty-free sıvıları burada sorun çıkarabilir."
+        ],
+        [
+          "20.30",
+          "Akşam yemeği, kapı",
+          "Yaklaşık 5 saat: yemek ve dinlenme için zaman var."
+        ],
+        [
+          "00.10",
+          "Kapıda ol (CZ0202 kalkış 00.50)",
+          ""
+        ]
+      ]
+    },
+    {
+      "id": "hv-ist-donus",
+      "when": "25 Kasım Çarşamba · İstanbul Havalimanı",
+      "title": "İstanbul'a varış → otopark",
+      "steps": [
+        [
+          "07.10",
+          "İniş, pasaport kontrolü",
+          ""
+        ],
+        [
+          "07.40",
+          "Bagaj bandı ve çıkış",
+          "Çok parçalı bagaj için bagaj arabası al."
+        ],
+        [
+          "08.15",
+          "Örnek Otopark’ı ara, servis gelen yolcu katından alır",
+          "Bagaj bandındayken Örnek Otopark’ı ara; servis İstanbul Havalimanı -2. kat, 9 numaralı kolondan alır (~7 dk). Aracı alırken hasar kontrolü ve kalan ödeme (nakit/EFT)."
+        ],
+        [
+          "08.30",
+          "Dinlen veya yola çık",
+          "Gece uçuşu sonrası uykusuz 5 saat otoyol riskli; önerim 2–3 saat dinlenmek (Yolculuk → Ev–İstanbul)."
+        ]
+      ]
+    }
+  ],
+  "chinaFlight": {
+    "intro": "İki Guangzhou aktarması (gidiş 05.25–09.40, dönüş 19.20–00.50). Havalimanından çıkmıyorsunuz; asıl riskler powerbank, çakmak, sıvılar ve internet.",
+    "do": [
+      "Check-in'de iki biniş kartını alın ve bagaj etiketinde KIX (dönüşte IST) yazdığını görün.",
+      "Powerbank: kişi başı en fazla 2, üzerinde 3C işareti veya okunur kapasite etiketi; kabinde, cebe yakın. Yorumlara göre görevliler 'C/3C' ibaresine bakıyor.",
+      "eSIM'i Türkiye'de kurun ve deneyin; Çin'de Wi-Fi kapalı, mobil veri açık kalsın.",
+      "Türk hattınızı kapatmayın: banka 3D Secure ve uygulama SMS'leri için açık kalsın, yalnız veri dolaşımını kapatın.",
+      "Biniş kartlarını, otel adresini ve bu sitenin PDF'ini çevrimdışı kaydedin; Google Maps'te Osaka/Tokyo haritalarını indirin.",
+      "Boş su şişesi götürün; güvenlikten sonra doldurun.",
+      "Gidişte sabah 05.25 inişte kafeler kapalı olabilir; uçakta yiyin veya atıştırmalık bulundurun.",
+      "Pasaportun dönüşten sonra en az 6 ay geçerli olduğunu kontrol edin."
+    ],
+    "dont": [
+      "Havalimanından çıkmayın: Türkiye 240 saatlik vizesiz transit listesinde görünmüyor; airside 24 saat kuralıyla kalın.",
+      "Çakmak ve kibrit taşımayın; aktarma güvenliğinde alınıyor (sigara alanında elektrikli yakıcı var).",
+      "İstanbul ve Haneda duty-free'den 100 ml üstü sıvı (sake, parfüm) almayın; Guangzhou güvenliğinde alınabilir.",
+      "Powerbank, yedek batarya, drone/kamera pilini kayıtlı bagaja koymayın; çıkarılıp el konuyor.",
+      "Bıçak, makas, bileme taşını kabine koymayın; kayıtlı bagaja.",
+      "Havalimanı Wi-Fi'sine bağlanmayın: Google, WhatsApp, Instagram çalışmaz ve giriş için telefon numarası/pasaport ister.",
+      "Uçuşta powerbank kullanmayın ve üst dolaba koymayın."
+    ],
+    "esim": {
+      "intro": "Japonya için 16 gün ve Çin aktarmaları için kişi başı tek eSIM. Fiyatlar 31 Ekim 2037'da firmaların kendi sayfalarından (açılmayanlarda Ekim 2037 arşiv kopyası ya da eSIMDB) kontrol edildi; Instagram'daki Türk hesapların önerdikleri de dahil. Türkiye'de bazı eSIM sitelerine erişim engelli (eSIM io, Saily, Holafly, Ubigi, Yesim): uygulama mağazasından deneyin, açılmazsa VPN ile alın. eSIM'i Türkiye'den çıkmadan kurup deneyin; Çin için yedek VPN de kurun.",
+      "verdict": "Önerim: her telefona MobiMatter'dan TSimTech 'China, Korea, Japan' 25 GB / 30 gün, $20,99 (35 GB $27,99). Çin'de China Mobile, internet Hong Kong'dan çıkar (Google/WhatsApp çalışır); Japonya'da SoftBank/KDDI; hotspot var; 30 gün ilk kullanımda başlar (9 Kasım Guangzhou'da açılırsa 25 Kasım dönüşünü de kapsar). İkiniz ~$42. Daha ucuzu: MobiMatter IIJ Japonya 20 GB $13,99, ama Çin aktarmasında internet yok.",
+      "options": [
+        {
+          "name": "MobiMatter – TSimTech China, Korea, Japan",
+          "tier": "F/P",
+          "score": 5,
+          "price": "25 GB / 30 gün $20,99 · 35 GB $27,99",
+          "plus": "Çin + Japonya tek pakette; Çin'de Hong Kong çıkışlı; hotspot; Instagram'da en çok önerilen.",
+          "minus": "Ek yükleme yok, biterse yeni paket alınır."
+        },
+        {
+          "name": "MobiMatter – IIJ Japonya",
+          "tier": "Ucuz",
+          "score": 4,
+          "price": "20 GB / 30 gün $13,99 (TSimTech Japonya 20 GB $16,99)",
+          "plus": "En ucuz Japonya 20 GB'ı.",
+          "minus": "Çin'i kapsamaz; aktarmalarda internet yok."
+        },
+        {
+          "name": "eSIM io (Instagram kodlu)",
+          "tier": "Kampanyaya bağlı",
+          "score": 3,
+          "price": "Japonya 20 GB / 30 gün $39 · Çin kullandıkça öde $4,50/GB · Asya-Pasifik 20 GB $79",
+          "plus": "Yeni üyeye ilk yüklemede kodla (ör. TECHNOPAT100) yüklenen kadar hediye bakiye; pakette de kullanılır. Kampanya geçerliyse Japonya 20 GB fiilen ~$19,5 + Çin aktarması bakiyeden. Japonya'da Docomo/SoftBank.",
+          "minus": "Hediyenin üst sınırını ve kampanyanın sürdüğünü yalnız uygulama gösteriyor (kaynak Haziran 2037); kampanyasız pahalı. Sitesi Türkiye'den açılmıyor."
+        },
+        {
+          "name": "Nomad",
+          "tier": "Orta",
+          "score": 3,
+          "price": "Japonya 20 GB / 30 gün $23 · Çin-Japonya-Kore 20 GB / 45 gün $31",
+          "plus": "Çin dahil bölge paketi var.",
+          "minus": "Çin dahil paket MobiMatter'dan ~$10 pahalı."
+        },
+        {
+          "name": "Roamless",
+          "tier": "Orta",
+          "score": 3,
+          "price": "Japonya 20 GB / 30 gün $22,95 · Asya (Çin dahil) 20 GB $38,95 · yeni üyeye 500 MB bedava",
+          "plus": "Bakiyenin süresi dolmaz; bedava 500 MB aktarmaya yeter.",
+          "minus": "Çin dahil paket MobiMatter'ın iki katı."
+        },
+        {
+          "name": "Saily",
+          "tier": "Orta",
+          "score": 3,
+          "price": "Japonya 20 GB / 30 gün $24,99",
+          "plus": "Uygulaması kolay (NordVPN şirketi).",
+          "minus": "Çin'i kapsamaz."
+        },
+        {
+          "name": "Airalo",
+          "tier": "Orta",
+          "score": 3,
+          "price": "Moshi Moshi Japonya 20 GB / 30 gün $25 · Asialink (Çin dahil) 20 GB $39",
+          "plus": "Bilinen marka.",
+          "minus": "MobiMatter'dan pahalı."
+        },
+        {
+          "name": "Yesim",
+          "tier": "Pahalı",
+          "score": 2,
+          "price": "Japonya 20 GB / 30 gün $29,76 · Asya-Pasifik 20 GB $33,26",
+          "plus": "Hotspot var.",
+          "minus": "Asya paketinde Çin'in olduğu ve Çin'de VPN'siz çalıştığı doğrulanamadı; ek yükleme yok."
+        },
+        {
+          "name": "Ubigi",
+          "tier": "Pahalı",
+          "score": 2,
+          "price": "Japonya 25 GB / 30 gün $32 · Best Asia (Çin dahil) 25 GB / 30 gün $44",
+          "plus": "Japonya'da KDDI/Docomo; hotspot.",
+          "minus": "Çin dahil paket MobiMatter'ın iki katı."
+        },
+        {
+          "name": "Holafly",
+          "tier": "Pahalı",
+          "score": 2,
+          "price": "Japonya + Çin sınırsız 15 gün $50,50",
+          "plus": "Sınırsız; Çin'de Google/WhatsApp çalışıyor (firma beyanı).",
+          "minus": "Hotspot günde 1 GB; en pahalılardan."
+        },
+        {
+          "name": "Türk operatörü",
+          "tier": "Pahalı",
+          "score": 1,
+          "price": "Vodafone Yurt Dışı 5 GB 999 TL (20 GB = 4 adet ~4.000 TL) · Turkcell günde 600 TL · Türk Telekom günde 349–399 TL (faturalı)",
+          "plus": "Kurulum yok; Türk numaranız açık kalır.",
+          "minus": "15 günde kişi başı ~4.000–9.000 TL; Türk Telekom'da tarife aşımı ~922 TL/GB."
+        }
+      ]
+    },
+    "sources": {
+      "eSIM karşılaştırma (Japonya)": "https://www.japan-wireless.com/column/best-esim-japan/",
+      "Çin+Japonya eSIM": "https://cybernews.com/best-esim-providers/china/",
+      "Türk operatör paketleri": "https://simology.io/tr/blog/turkcell-roaming-vs-esim-karsilastirma",
+      "Çin powerbank 3C": "https://us.trip.com/guide/info/china-power-bank-limit.html",
+      "MobiMatter Japonya": "https://findingalexx.com/best-japan-esims/",
+      "Saily/Airalo fiyatları": "https://cybernews.com/best-esim-providers/best-esim-for-japan/",
+      "Roamless fiyatları (eSIMDB)": "https://esimdb.com/japan/roamless",
+      "MobiMatter TSimTech CKJ": "https://mobimatter.com/travel-esim/tsimtech-china-korea-japan-25-gb-esim",
+      "eSIM io Japonya (arşiv)": "https://web.archive.org/web/20260416133249/https://esim.io/tr/destinasyonlar/esim-japonya",
+      "eSIM io kampanyası (Technopat)": "https://www.technopat.net/2026/06/12/yurt-disinda-internete-baglanma-rehberi/",
+      "Nomad fiyatları (eSIMDB)": "https://esimdb.com/japan/nomad",
+      "Airalo fiyatları (eSIMDB)": "https://esimdb.com/japan/airalo",
+      "Holafly Japonya+Çin (arşiv)": "https://web.archive.org/web/20260929071300/https://esim.holafly.com/esim-japan-china/",
+      "Ubigi fiyatları (eSIMDB)": "https://esimdb.com/japan/ubigi",
+      "Yesim Japonya (arşiv)": "https://web.archive.org/web/20261014002330/https://yesim.app/country/japan/",
+      "Vodafone yurt dışı paketleri": "https://www.vodafone.com.tr/tarifeler/yurt-disi-paketleri",
+      "Turkcell yurt dışı": "https://www.turkcell.com.tr/paket-ve-tarifeler/yurt-disinda-kullanim"
+    }
+  },
+  "luggage": {
+    "intro": "Dönüşte 100 kg'ın üzerinde bagaj hakkınız olsa da her valizin parça başı kg sınırı ayrıdır (bilet ayrıntısına bak). Japonya'da valizi trende taşımak yerine 'takkyubin' (Yamato TA-Q-BIN) ile otelden otele göndermek yaygın ve ucuzdur.",
+    "facts": [
+      "Yamato TA-Q-BIN: parça başı en fazla 200 cm (üç kenar toplamı) ve 30 kg; tek kenar ≤170 cm. Büyük valiz genelde 160 boy (≤160 cm, ≤25 kg) veya 180 boy (≤30 kg).",
+      "Ücret (nakit, valiz başı; Ekim 2037 tarifesi, Kansai↔Kanto): 140 boy ~¥2.780, 160 boy ~¥3.160, 180 boy ~¥4.480. Tokyo içinden: 160 boy ~¥2.410, 180 boy ~¥3.030. Markette veya Yamato şubesinde bırakınca valiz başı ¥100 indirim.",
+      "Osaka’da nereden: Örnek Otel resepsiyonsuz (tabletle giriş), otelden gönderilemez. En yakını Yamato Minamisenba 3-chome şubesi (ヤマト運輸 南船場3丁目営業所, Minamisenba 3-3-25, Örnek Otel’e ~200 m, 3 dk yürüyüş; hafta içi 09.00–20.00, cumartesi-pazar-tatil kapalı; yorumlarda valiz gönderen turistler var). Yedek: Minamisenba 1-chome şubesi veya kapısında Yamato (kara kedi) logosu olan FamilyMart Bakurocho 3-chome / 7-Eleven Minamisenba 3-chome. Bazı marketler 180 ve 200 boy kabul etmez; büyük valiz için şube. Şube saatini 16 Kasım’dan önce Google Maps’ten teyit edin.",
+      "Ne zaman: 16 Kasım akşamı valizi toplayıp 18.30’da şubeye bırakın (şube hafta içi 09.00–20.00, hafta sonu kapalı; aynı gün gönderim son kabul 19.00); teslim zamanı olarak 17 Kasım 18–20 seçin (otele 15.30 civarı varıyorsunuz). Osaka → Tokyo normalde ertesi gün; geç kalırsa 18 Kasım. Osaka → Tokyo normalde ertesi gün, bazen 2 gün sürer; ilk gece için küçük çanta hazırlayın.",
+      "Gönderi fişi (送り状) Japonca doldurulur: alıcı = Örnek Otel Ueno, Tokyo, Chiyoda-ku Sotokanda (〒101-0021) + pasaporttaki adınız + “17 Kasım giriş” (宿泊日 11/17). Gönderen = sizin adınız ve Örnek Otel adresi. İçerik satırına “衣類” (giysi) gibi açık bir şey yazın. Pratik sayfasındaki kargo etiketini gösterin.",
+      "APA’ya önceden sorun (Booking mesajı): girişten önce gelen valizi teslim alıp saklıyor mu? Resepsiyonlu otel olduğu için genelde kabul eder ama yazılı teyit alın.",
+      "Haneda’ya gönderme (Airport TA-Q-BIN): en geç uçuştan 2 gün önce, yani 22 Kasım’da otel resepsiyonundan (veya Yamato logolu marketten) gönderin. Fişe uçuş tarihi ve numarası (CZ0201, 24 Kasım 15.05) yazılır. Ücret normal tarife + ~¥660 + havalimanı bankosu ücreti. 24 Kasım’da Terminal 3’teki Yamato bankosundan alın; tax-free iade kioskuna ürünlerle birlikte, bagaj tesliminden ÖNCE gidin.",
+      "Shinkansen’de taşıyacaksan: üç kenar toplamı 160 cm’yi aşan valiz için büyük bagaj alanlı koltuk rezervasyonu şart (kişi başı 2 büyük parça, ≤250 cm, ≤30 kg).",
+      "Ekstra valiz: Don Quijote, Hands, Loft’ta ucuz valiz bulunur; el tipi valiz tartısı da alın."
+    ],
+    "plan": [
+      {
+        "title": "17 Kasım Osaka → Tokyo",
+        "choices": [
+          {
+            "name": "Büyük valizleri 16 Kasım akşamı Tokyo oteline gönder",
+            "pick": true,
+            "plus": "Shinkansen'e küçük çantayla binersiniz; metro merdiveni, peron ve rezervasyon derdi yok. Valiz başı ~¥3.160 (160 boy), ~¥4.480 (180 boy).",
+            "minus": "Valizler 18 Kasım'da gelebilir; 17 Kasım gecesi için ayrı küçük çanta. Otel: Örnek Otel Ueno; bagaj kabulünü önceden sorun."
+          },
+          {
+            "name": "Valizleri yanınızda taşıyın",
+            "pick": false,
+            "plus": "Ücretsiz; her şey yanınızda.",
+            "minus": "Büyük bagaj koltuğu rezervasyonu şart; Örnek Otel → Shin-Osaka ve Tokyo'da metro aktarması ağır valizle yorucu."
+          }
+        ]
+      },
+      {
+        "title": "24 Kasım Tokyo → Haneda",
+        "choices": [
+          {
+            "name": "Ağır valizleri 22 Kasım'da Haneda'ya gönder",
+            "pick": true,
+            "plus": "Dönüş sabahı elleriniz boş; valizleri Haneda'da alıp tax-free terminali ve check-in'e gidersiniz.",
+            "minus": "İki gün valizsiz kalırsınız; tax-free ürünleri ve sıvıları buna göre paketleyin."
+          },
+          {
+            "name": "Taksi veya trenle kendiniz götürün",
+            "pick": false,
+            "plus": "Ek planlama yok.",
+            "minus": "100 kg'a yakın bagajla tren pratik değil; taksi Tokyo içinden Haneda'ya pahalı olabilir."
+          }
+        ]
+      }
+    ]
+  },
+  "rules": [
+    {
+      "title": "Guangzhou aktarması",
+      "items": [
+        "Aynı rezervasyonda tek bilet: bagaj normalde İstanbul'da Kansai'ye (dönüşte Haneda'da İstanbul'a) kadar etiketlenir. Check-in'de bagaj etiketinde KIX / IST yazdığını ve iki biniş kartını aldığını kontrol et.",
+        "Guangzhou'da 'International Transfer / 国际中转' tabelalarını izle; ayrı aktarma güvenlik kontrolünden geçip kalkış katına çıkarsın. Biniş kartı yoksa pasaport kontrolünden önceki China Southern aktarma bankosunda al.",
+        "Havalimanından çıkmadan 24 saatten kısa aktarma için vize gerekmez. Türkiye 240 saatlik vizesiz transit listesinde görünmüyor; havalimanının dışına çıkmayı planlama.",
+        "Aktarma güvenliğinde 100 ml sıvı kuralı yeniden uygulanır: İstanbul veya Haneda duty-free'den alınan sıvı (sake, parfüm, büyük kozmetik) el konabilir. Bunları kayıtlı bagaja koy.",
+        "Gidiş aktarması sabah 05.25–09.40: kafeler açılana kadar kısa bekleme olabilir. Dönüş aktarması 19.20–00.50: yemek için zaman var."
+      ],
+      "sources": [
+        "CZ aktarma",
+        "CAN aktarma rehberi",
+        "240 saat transit"
+      ]
+    },
+    {
+      "title": "Çin'de internet",
+      "items": [
+        "Çin ağlarında (havalimanı Wi-Fi dahil) Google, WhatsApp, Instagram ve Gmail çalışmaz. Havalimanı Wi-Fi'si ayrıca telefonla SMS veya pasaport taramasıyla giriş isteyebilir.",
+        "Türk hattının yurt dışı paketi veya yurt dışı çıkışlı bir eSIM, mobil veride genellikle çalışır; Wi-Fi'yi kapalı tut. eSIM'i ve gerekiyorsa VPN'i Türkiye'den çıkmadan kur ve dene.",
+        "Biniş kartlarını, otel adresini ve bu sitenin PDF'ini çevrimdışı kaydet."
+      ],
+      "sources": [
+        "Çin eSIM rehberi"
+      ]
+    },
+    {
+      "title": "Powerbank ve piller",
+      "items": [
+        "Japonya (24 Nisan 2037'dan) ve ICAO kuralları: kişi başı en fazla 2 powerbank, her biri en fazla 160 Wh; yalnız kabinde, kayıtlı bagajda yasak.",
+        "Uçuşta powerbank ile telefon şarj etmek ve powerbank'i uçaktan şarj etmek yasak; üst bagaj dolabına koyma, yanında tut.",
+        "Çin kalkışlı uçuşlarda (Guangzhou → Kansai / İstanbul) üzerinde CCC (3C) logosu olmayan powerbank'e el konuyor (Guangzhou Baiyun, 2025 kuralı). Valize koymadan etikette CCC logosu ve kapasite yazdığını kontrol et.",
+        "Drone veya kamera bataryası alırsan: kabinde, kutup uçları bantlı; 100 Wh üstü havayolu onayı ister.",
+        "Bataryalı eşyalar (kamera, mouse, siyah nokta aleti, elektrikli diş fırçası): kabinde taşı. Kayıtlı bagaja koymak zorundaysan kapalı ve korumalı olmalı; yedek pil ve powerbank asla kayıtlı bagaja girmez.",
+        "Çakmak ve kibrit: Çin’den kalkan ve Çin’de aktarma yapan uçuşlarda kabinde de bagajda da tamamen yasak (Guangzhou güvenliğinde el konur). Türkiye’den çakmak götürme; Japonya’da gerekiyorsa ucuz al ve dönüşte at.",
+        "Sprey kozmetik (kuru şampuan, deodorant): Çin aktarmasında sorun çıkabilir; toz veya stick türünü tercih et, spreyi kayıtlı bagaja koy."
+      ],
+      "sources": [
+        "Japonya powerbank",
+        "Çin powerbank",
+        "Çin çakmak",
+        "Baiyun powerbank",
+        "Xiaomi CCC uyarısı"
+      ]
+    },
+    {
+      "title": "Şarj ve priz",
+      "items": [
+        "Yola çıkmadan: telefonları tam şarj edin; el çantasında şarj başlığı ve kablolar olsun.",
+        "Guangzhou (T3) aktarma: kapı bölgesinde oturma sıralarında Çin prizi ve USB girişleri, ayrıca şarj istasyonları var. Çin prizleri çoğunlukla bizim ince iki pimli telefon şarj başlığını alır; kalın topraklı fiş girmez. USB kablosunu yanınızda tutun.",
+        "Uçakta powerbank kullanmak yasak; koltukta USB varsa onu kullanın (her uçakta olmayabilir).",
+        "Japonya prizi A tipi (iki yassı pim), 100 V: Türkiye fişi girmez, çevirici (adaptör) şart. Telefon/laptop şarj aletleri 100–240 V yazar, dönüştürücü gerekmez. Çeviriciyi Türkiye’den alın veya Japonya’da Daiso/konbini/Yodobashi’den.",
+        "Japonya’da dışarıda şarj: ChargeSPOT kiralık powerbank (konbini, istasyon, mağaza); bir yerden alıp başka yere bırakılır, kartla/uygulamayla ödenir.",
+        "Haneda dönüş: terminalde ücretsiz şarj noktaları var."
+      ],
+      "sources": [
+        "Baiyun T3 rehberi",
+        "Haneda şarj"
+      ]
+    },
+    {
+      "title": "Uzun uçuş: el çantası",
+      "items": [
+        "Gece uçuşları ~10–11 saat: boyun yastığı, göz bandı, kulak tıkacı; uçak soğuk olur, ince hırka ve kalın çorap.",
+        "8 saati aşan uçuşta varis (kompresyon) çorabı iyi gelir; saatte bir kalkıp yürüyün, bol su için.",
+        "Diş fırçası/macun, dudak nemlendirici, krem (her biri ≤100 ml, şeffaf poşette), ıslak mendil.",
+        "Valiz gecikirse diye yedek tişört ve iç çamaşırı; şarj kablosu (uçuşta powerbank kullanmak yasak).",
+        "Boş su şişesi: güvenlikten sonra doldurun."
+      ],
+      "sources": []
+    },
+    {
+      "title": "İlaçlar",
+      "items": [
+        "Yanınızdaki her ilacı Japonya’nın yasak madde listesine göre kontrol edin; yaygın ağrı kesiciler (ör. parasetamol) ve çoğu reçeteli ilaç Japonya’da yasak/izinli madde değil, getirilebilir.",
+        "Japonya sınırı (izin belgesi gerekmeden): reçeteli ilaç 1 aylık, reçetesiz 2 aylık, krem/merhem ürün başına 24 adet. 16 gün + birkaç gün yedek bu sınırın altında.",
+        "Hepsi el çantasında, orijinal kutusu ve prospektüsüyle; reçeteli ilaçları bavula koymayın. Reçeteli ilaçlar için reçete kopyası veya kısa İngilizce doktor raporu (zorunlu değil, sorulursa kolaylık).",
+        "Sıvı ilaç ≤100 ml şişede, şeffaf poşette; güvenlikte “medicine” deyin.",
+        "Japonya’ya sokmayın: kutusunda psödoefedrin yazan grip/burun açıcı ilaçlar (Japonya uyarıcı sayıyor). Düz parasetamol sorun değil, “cold/grip” türleri değil.",
+        "Saat farkı (Japonya Türkiye +6): reçeteli ilaçların alım saatini doktor/eczacıyla kısaca konuşun."
+      ],
+      "sources": [
+        "Japonya ilaç (MHLW)"
+      ]
+    },
+    {
+      "title": "Atıştırmalık",
+      "items": [
+        "Alın: Guangzhou’ya 05.25’te iniyorsunuz, kafeler kapalı olabilir. Kuruyemiş, kraker, bisküvi, çikolata, kuru meyve; kapalı paketler sorunsuz.",
+        "Asla almayın: sucuk, pastırma, kavurma ve et içeren her şey. Japonya az miktara bile izin vermiyor; ceza ve gözaltı riski var.",
+        "Taze meyveyi Japonya’ya inmeden yiyin veya atın; Japonya’ya taze meyve/sebze sokulmaz."
+      ],
+      "sources": [
+        "Japonya et karantinası"
+      ]
+    },
+    {
+      "title": "Japonya'ya giriş",
+      "items": [
+        "Türk vatandaşları turistik 90 güne kadar vizesiz. Pasaportun kalış boyunca geçerli olmalı; aktarma ve sorunsuz geçiş için dönüşten sonra en az 6 ay kalması önerilir.",
+        "Visit Japan Web'e uçuştan birkaç gün önce kayıt ol: pasaport, CZ0102, ilk otel Örnek Otel Shinsaibashi. Göçmenlik ve gümrük QR kodlarını ekran görüntüsü olarak sakla.",
+        "Kansai'de iniş 14.10; pasaport ve bagaj sonrası ICOCA'yı JR gişesinden, rapi:t biletini Nankai gişesinden al.",
+        "Gıda: vakumlu olsa bile et ürünü (sucuk, pastırma, sosis), taze meyve ve sebze Japonya’ya sokulamaz; uçakta verilen elmayı bile çantada bırakmayın. Beyan etmeyene 3 milyon yene kadar ceza veya hapis öngörülüyor. Kuruyemiş ve ambalajlı şekerleme beyanla genelde sorun olmuyor.",
+        "Reçeteli ilaç: kişisel kullanım miktarını aşan veya bazı etken maddeli ilaçlar için önceden izin (Yakkan Shōmei) gerekir; ilaçlarınızı kutusu ve reçetesiyle taşıyın."
+      ],
+      "sources": [
+        "Visit Japan Web",
+        "Japonya karantina"
+      ]
+    },
+    {
+      "title": "Tax-free: 1 Kasım 2037'dan itibaren iade usulü",
+      "items": [
+        "Mağazada vergi dahil fiyatı ödersin; satış pasaportunla gümrük sistemine kaydedilir. %10 tüketim vergisi iadesi dönüşte havalimanında yapılır.",
+        "Haneda'da check-in'den ÖNCE tax-free terminaline pasaportunu okut. Ekran kontrol isterse ürünü (ör. ekran kartı, kulaklık) gümrüğe göstermen gerekir; bu yüzden ürünler kayıtlı bagaja girmeden önce erişilebilir olsun.",
+        "İade ödemesi mağazanın seçtiği yolla (çoğunlukla kartına) gelir. Faturaları sakla; satın almadan sonra 90 gün içinde Japonya'dan çıkış gerekir.",
+        "Kapalı torba kuralı ve tüketim ürünü sınırı kalkıyor. Planlamada fiyatları vergi dahil düşün; iade sonradan gelir."
+      ],
+      "sources": [
+        "Tax-free 2037 (MLIT)",
+        "Tax-free 2037 rehber"
+      ]
+    },
+    {
+      "title": "Drone ve bataryaları (dönüş)",
+      "items": [
+        "Drone, kumanda ve tüm bataryalar el bagajında. Yedek batarya kayıtlı bagaja asla girmez; Guangzhou’da çıkarılıp el konur.",
+        "Kapasite: DJI Mini bataryası ~19 Wh, Plus ~28 Wh. China Southern: 100 Wh’ye kadar beyan gerekmez, “makul sayıda” yedek yalnız kabinde. 100–160 Wh (büyük dronlar) havayolu onayı ister ve en fazla 2 yedek; 160 Wh üstü yasak.",
+        "Her yedek batarya ayrı poşette veya LiPo (yanmaz) çantada, kutup uçları bantlı; şarjı %30–50 civarında olsun. Bir batarya drone’da takılı kalabilir, drone kapalı.",
+        "Pervaneleri sökün, drone’u kılıfında ve kutusunda taşıyın; güvenlikte sorulursa “drone battery” deyin, Wh etiketi okunur olsun.",
+        "CCC kuralı powerbank’ler için; drone bataryası için böyle bir şart kaynaklarda görmedik. Ama DJI şarj hub’ı dışında “mobil batarya/powerbank” almayın (Guangzhou’da alınır).",
+        "Hasarlı, şişmiş veya geri çağrılmış batarya uçağa alınmaz.",
+        "Japonya’da uçurmayı düşünürseniz: 100 g ve üstü drone için Japonya’da kayıt zorunlu, şehir içi çoğu yerde uçuş yasak. Türkiye’ye girişte gümrük ve SHGM kaydını almadan önce birlikte bakalım."
+      ],
+      "sources": [
+        "CZ lityum batarya"
+      ]
+    },
+    {
+      "title": "Dönüş bagajı",
+      "items": [
+        "Bıçak, makas, bileme taşı: yalnız kayıtlı bagaj. Kutusunda, sarılı.",
+        "Ekran kartı, işlemci, RAM: kutusunda ve kabinde taşımak en güvenlisi; kabin ağırlık sınırını biletten kontrol et. Kayıtlı bagaja koyacaksan valizin ortasına, giysiyle sar.",
+        "Bagaj hakkını (parça ve kg) bilet ayrıntısından kontrol et; Japonya'da valiz tartısı al.",
+        "Seramik ve cam: giysi arasına, kayıtlı bagajın ortasına."
+      ],
+      "sources": []
+    },
+    {
+      "title": "Dönüş valizini düzenleme",
+      "items": [
+        "El çantası: pasaport, ilaçlar, laptop/ekran kartı/kamera/drone, tüm bataryalar, küçük değerli ve kırılgan şeyler, bir gecelik kıyafet.",
+        "Kayıtlı bagaj: 100 ml üstü her sıvı (sake, sos, şampuan, parfüm), bıçak ve makas, ağır giysiler.",
+        "Tax-free ürünler: 1 Kasım 2037’dan iade usulü; Haneda’da kioskta ürün gösterilmesi istenebilir, bu yüzden kiosktan geçene kadar kolay ulaşılır yerde (veya el çantasında) tutun.",
+        "Sake ve şişeler: kapağını bantlayın, fermuarlı poşete koyun, balonlu naylonla sarın (Daiso/Loft), valizin tam ortasına, her yanı giysiyle çevrili.",
+        "Seramik ve tabaklar: dikine, aralarına çorap/havlu; köşelere değil ortaya.",
+        "Ağırlık: ağır şeyler tekerlek tarafına, iki valize dengeli dağıtın. Daiso’dan el tartısı alın; her valizi otelde tartın (parça başı kg sınırı biletinizde).",
+        "Yer: giysileri rulo yapın, vakum/sıkıştırma poşeti (Daiso) yer kazandırır ama ağırlığı azaltmaz.",
+        "Kutular: ürün kutularını katlayıp düz koyun veya içine çorap doldurun; boş kutu yer yer.",
+        "Fazla gelirse: 22 Kasım’da Haneda’ya kargo yerine üçüncü bir valiz alıp kayıtlı bagaj hakkınızı kullanın (hakkınızı biletten kontrol edin).",
+        "Check-in: bagaj etiketinde İstanbul (IST) yazdığını görün; Guangzhou’da bagaj alınmaz."
+      ],
+      "sources": []
+    }
+  ],
+  "checklist": [
+    {
+      "id": "insurance",
+      "when": "Şimdi",
+      "text": "Seyahat sağlık sigortası (Japonya + Çin aktarması)"
+    },
+    {
+      "id": "passport",
+      "when": "Şimdi",
+      "text": "İki pasaportun da geçerlilik tarihini kontrol et"
+    },
+    {
+      "id": "parking",
+      "when": "2 hafta önce",
+      "text": "İstanbul Havalimanı otopark abonmanını online al (fiyatı uygulamadan teyit et)"
+    },
+    {
+      "id": "esim",
+      "when": "1 hafta önce",
+      "text": "Japonya ve Çin aktarması için eSIM/yurt dışı paketi kur, VPN'i dene"
+    },
+    {
+      "id": "vjw",
+      "when": "3–5 gün önce",
+      "text": "Visit Japan Web kaydı ve QR kodları (ikiniz için ayrı)"
+    },
+    {
+      "id": "checkin",
+      "when": "1 gün önce",
+      "text": "China Southern online check-in; saatleri son kez teyit et"
+    },
+    {
+      "id": "offline",
+      "when": "1 gün önce",
+      "text": "Biniş kartları, otel adresi ve site PDF'ini çevrimdışı kaydet"
+    },
+    {
+      "id": "hgs",
+      "when": "1 gün önce",
+      "text": "HGS bakiyesi, yakıt, araç lastik/silecek kontrolü"
+    },
+    {
+      "id": "powerbank",
+      "when": "Valiz",
+      "text": "Powerbank: CCC işareti yoksa Guangzhou’da alınabilir; götürecekseniz kabinde, ≤2 adet"
+    },
+    {
+      "id": "adaptor",
+      "when": "Valiz",
+      "text": "Japonya priz çevirici (A tipi) + şarj başlıkları ve kablolar el çantasında"
+    },
+    {
+      "id": "ilac",
+      "when": "Valiz",
+      "text": "İlaçlar el çantasında, kutusuyla; reçeteli ilaçlar için reçete kopyası; birkaç gün yedek"
+    },
+    {
+      "id": "atistirma",
+      "when": "Valiz",
+      "text": "Atıştırmalık (et ürünü yok!), boyun yastığı, göz bandı, hırka, varis çorabı"
+    },
+    {
+      "id": "cash",
+      "when": "Valiz",
+      "text": "İlk gün için nakit yen ve iki farklı kart"
+    },
+    {
+      "id": "bagtag",
+      "when": "8 Kasım",
+      "text": "Check-in'de bagaj etiketi KIX'e kadar mı, iki biniş kartı alındı mı"
+    },
+    {
+      "id": "parkphoto",
+      "when": "8 Kasım",
+      "text": "Park yeri kat/bölge fotoğrafı"
+    },
+    {
+      "id": "taxfree",
+      "when": "24 Kasım",
+      "text": "Haneda'da check-in'den önce tax-free iade terminali"
+    },
+    {
+      "id": "liquids",
+      "when": "24 Kasım",
+      "text": "Sake/sıvılar kayıtlı bagajda; duty-free'den sıvı alma"
+    }
+  ],
+  "sources": {
+    "CZ aktarma": "https://csair.com/en/tourguide/transit_flow/flightsTwo_hub/baggage_service",
+    "CAN aktarma rehberi": "https://www.jal.co.jp/en/inter/airport/can/transit/index.html",
+    "240 saat transit": "https://english.shanghai.gov.cn/en-Individuals-ImmigrationandVisas-Visa-freepolicies/20260709/d70a1231ba4641ff9a024e53751ad480.html",
+    "Çin eSIM rehberi": "https://www.jetpacglobal.com/blog/best-esim-for-china/",
+    "Japonya powerbank": "https://www.timeout.com/asia/news/japan-to-ban-in-flight-power-bank-usage-from-april-2026-heres-all-you-need-to-know-022526",
+    "Çin powerbank": "https://au.trip.com/guide/info/china-power-bank-limit.html",
+    "Visit Japan Web": "https://www.vjw.digital.go.jp/",
+    "Tax-free 2037 (MLIT)": "https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00028.html",
+    "Tax-free 2037 rehber": "https://www.japan-guide.com/news/tax-free-shopping.html",
+    "İGA otopark (ikincil, Avis)": "https://www.avis.com.tr/suruculer-icin-pratik-bilgiler/istanbul-havalimani-otopark-ucreti-2026-saatlik-gunluk-ve-haftalik-tarifeler",
+    "Köprü/otoyol 2037": "https://www.allianz.com.tr/tr_TR/seninle-guzel/kopru-ve-otoyol-gecis-ucretleri.html",
+    "Nankai rapi:t": "https://www.gltjp.com/en/article/item/20839/",
+    "CZ Haneda bankosu": "https://www.csair.com/en/tourguide/airport_service/airports_info/internation/1h43ppphg5f6h.shtml",
+    "Kansai Yamato bankosu": "https://livejapan.com/en/in-kansai/in-pref-osaka/in-kansai-airport/article-a2001147/",
+    "Haneda erişim": "https://www.gotokyo.org/en/plan/airport-access/haneda-airport/",
+    "Kansai → Namba seçenekleri": "https://mileasia.com/japan/kansai-airport-to-namba/",
+    "Valiz gönderimi (TA-Q-BIN)": "https://selfguidejapan.com/blog/luggage-forwarding-japan",
+    "İGA otopark 2037 (Havayolu 101)": "https://www.havayolu101.com/2026/01/03/istanbul-iga-havalimani-otopark-ucretleri-2026/",
+    "Çin çakmak": "https://www.csair.com/sg/en/faq/wxwupin.shtml",
+    "Japonya karantina": "https://www.maff.go.jp/aqs/english/",
+    "Japonya ilaç (MHLW)": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kojinyunyu/topics/tp010401-1_00001.html",
+    "Japonya et karantinası": "https://www.maff.go.jp/e/policies/ap_health/animal/240904.html",
+    "Baiyun powerbank": "https://www.newsgd.com/node_abd1ea32eb/989f59ccdf.shtml",
+    "Baiyun T3 rehberi": "https://info.newsgd.com/node_9931beeda3/845c362886.shtml",
+    "Xiaomi CCC uyarısı": "https://www.mi.com/global/product/xiaomi-power-bank-20000-22-5-w/",
+    "Haneda şarj": "https://tokyo-haneda.com/en/service/facilities/battery_charge.html",
+    "CZ lityum batarya": "https://www.csair.com/sg/en/orders/order/lkxlzldcdyxgd/"
+  },
+  "transfers": [
+    {
+      "title": "Gidiş · 9 Kasım · Guangzhou (CAN) aktarma 4 sa 15 dk",
+      "tz": "Saatler Guangzhou yerel saati (Türkiye +5, Japonya −1).",
+      "steps": [
+        [
+          "05:25",
+          "CZ0101 iniş. “International Transfer / 国际转国际” tabelalarını izleyin; şehre çıkış (Arrivals) yoluna girmeyin."
+        ],
+        [
+          "05:40",
+          "Aktarma kontrolü: pasaport ve CZ0102 biniş kartı. İstanbul’da iki biniş kartı verilmediyse aktarma bankosundan alın. Bagajın Kansai’ye (KIX) etiketli olduğunu İstanbul’da teyit edin."
+        ],
+        [
+          "06:00",
+          "Güvenlik: sıvılar 100 ml kuralı, powerbank el bagajında ve kapasite etiketi görünür; çakmak/kibrit tamamen yasak."
+        ],
+        [
+          "06:30–08:30",
+          "Kapı bölgesinde kahvaltı, su, şarj. Google/WhatsApp/Instagram Çin ağında çalışmaz; eSIM veya dolaşım açık olsun. Kapı numarasını ekrandan tekrar kontrol edin."
+        ],
+        [
+          "~08:50",
+          "Kapıda olun (biniş genelde kalkıştan 40–50 dk önce başlar; biniş kartındaki saat geçerlidir)."
+        ],
+        [
+          "09:40 → 14:10",
+          "CZ0102 → Osaka Kansai (Japonya saati). Uçakta Visit Japan Web QR kodlarını ekran görüntüsü olarak hazırlayın."
+        ]
+      ]
+    },
+    {
+      "title": "Dönüş · 24–25 Kasım · Guangzhou (CAN) aktarma ~5 sa 30 dk",
+      "tz": "Saatler Guangzhou yerel saati (Japonya −1, Türkiye +5).",
+      "steps": [
+        [
+          "11:00",
+          "Haneda’da olun: önce tax-free kiosku, sonra bagaj teslimi (bagaj İstanbul’a etiketli mi, sorun)."
+        ],
+        [
+          "15:05 → 19:20",
+          "CZ0201 Haneda → Guangzhou."
+        ],
+        [
+          "19:20",
+          "İniş; yine “International Transfer” yolu, şehre çıkmayın. Aktarma kontrolü ve güvenlik (Japonya’dan alınan sıvılar/kozmetik 100 ml kuralına takılabilir — büyükleri bavulda olmalı)."
+        ],
+        [
+          "20:00–23:30",
+          "Bekleme: yemek ve dinlenme. Uzun gece uçuşu öncesi kafeini azaltın; su alın."
+        ],
+        [
+          "~00:00",
+          "Kapıda olun."
+        ],
+        [
+          "00:50 → 07:10",
+          "CZ0202 → İstanbul (Türkiye saati). Kalkıştan sonra hemen uyumaya çalışın; İstanbul’a sabah varılır."
+        ]
+      ]
+    }
+  ],
+  "jetlag": {
+    "intro": "Japonya Türkiye’den 6 saat ileride. Doğuya gitmek vücut için daha zordur: ilk günlerde akşam uyku gelmez, sabah kalkmak zorlaşır. Gidiş uçuşu (İstanbul 14.10) Japonya’da akşam 20.10’a denk geldiği için ilk uçakta uyumak büyük avantaj.",
+    "steps": [
+      [
+        "5–8 Kasım",
+        "Mümkünse her gün yarım–1 saat erken yatıp erken kalkın."
+      ],
+      [
+        "8 Kasım, ilk uçuş",
+        "Kalkışta saatleri Japonya saatine alın. Yemekten sonra uyuyun (göz bandı, kulak tıkacı, boyun yastığı); kahve ve alkol yok. Bu uçuş Japonya gecesine denk gelir."
+      ],
+      [
+        "9 Kasım sabah, Guangzhou",
+        "Kalkın, kahvaltı edin, ışığa çıkın: bu sizin “sabahınız”."
+      ],
+      [
+        "9 Kasım, varış günü",
+        "Program hafif (Dotonbori, erken akşam yemeği). Gün ışığında yürüyün; şekerleme gerekiyorsa en fazla 20 dk ve 16.00’dan önce. Kahve 14.00’ten sonra yok. 22.00–23.00 arası yatın."
+      ],
+      [
+        "10 Kasım, Kyoto",
+        "Erken kalkış zor gelebilir; alarmı kurun, sabah güneşine çıkın, kahvaltıyı atlamayın. Gece erken uyku gelmezse telefonu bırakıp karanlık odada dinlenin."
+      ],
+      [
+        "Dönüş",
+        "Batıya dönüş daha kolaydır; İstanbul’a sabah 07.10’da inince gündüz uyumamaya çalışın, akşam erken yatın."
+      ],
+      [
+        "İlaç",
+        "Melatonin veya uyku ilacı için doktorunuza danışın; burada öneri değildir."
+      ]
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "checkedAt": "2037-10-25",
+  "disclaimer": "Bu bölüm ödeme yöntemlerinin masraf ve kurallarını özetler; yatırım veya kişisel finans tavsiyesi değildir. Bankaların ücret ve kampanyaları değişir; gitmeden her bankanın uygulamasından teyit edin.",
+  "cash": {
+    "summary": "Japonya'da kart çoğu yerde geçer ama tapınak girişleri, bit pazarları, küçük restoranlar, bilet makineli ramen dükkânları ve ICOCA yüklemesi nakit ister. Sizin programınızda bit pazarı ve ikinci el alışveriş olduğu için nakit ihtiyacı ortalamanın üstünde.",
+    "plan": [
+      [
+        "Türkiye'den getir",
+        "İkiniz toplam ~¥60.000–80.000 (kişi başı ~¥30.000–40.000). Bankadan veya döviz bürosundan önceden al; havalimanı kuru genelde kötü."
+      ],
+      [
+        "Gezi boyunca toplam nakit",
+        "İkiniz için 16 günde tahmini ~¥100.000–160.000: ICOCA yüklemeleri, tapınaklar, küçük yemekler, bit pazarları. PC, outlet ve mağaza alışverişi kartla."
+      ],
+      [
+        "Dolar götürecekseniz ne kadar?",
+        "İkiniz toplam ~$700–800 nakit (1 $ ≈ ¥156, Eylül 2037 kuru → ≈ ¥110.000–125.000). Gezinin nakit ihtiyacının çoğunu karşılar; eksik kalırsa ATM. Yıpranmamış, yeni seri 100 ve 50 dolarlık banknot götürün (Japon döviz büroları yıpranmış/eski banknotu almayabilir). İlk gün Kansai'de ~$100 bozdurun, kalanı Namba'da birkaç büroyu karşılaştırarak."
+      ],
+      [
+        "Eksik kalırsa",
+        "7-Eleven (Seven Bank) veya postane ATM'si. Mümkünse banka kartı (debit) kullan: kredi kartıyla ATM'den çekim nakit avans sayılır, faiz ve ücret işler."
+      ],
+      [
+        "Dolar bozdurma (Instagram önerisi)",
+        "Bir videoya göre ATM çekimi ~%5'e varan maliyet çıkarabiliyor; nakit dolar getirip Namba'daki Access Ticket gibi bürolarda kur karşılaştırarak bozdurmak bir seçenek. Kur ve ücreti kendiniz kıyaslayın."
+      ],
+      [
+        "Her an yanında",
+        "Kişi başı en az ¥10.000–20.000 ve 100'lük bozukluk (dolap, bilet makinesi, gachapon)."
+      ]
+    ]
+  },
+  "cards": {
+    "summary": "Üç kart da Visa veya Mastercard ise Japonya'da sorunsuz çalışır. Asıl maliyet bankanın döviz satış kuru (çevrim farkı); bankalar ayrı bir alışveriş komisyonu yayımlamıyor. Fark, kampanyalarda ve limitte.",
+    "rows": [
+      {
+        "card": "VakıfBank Platinum Plus",
+        "role": "100 USD üstü tek seferlik harcamalar (aylık indirim tavanına kadar)",
+        "why": "Yurt dışında tek seferde 100 USD (~¥15.000) ve üzeri harcamada %5 indirim; aylık en fazla 1.000 TL (≈ 20.000 TL harcama), yıllık 4.000 TL. Yurt dışı restoran harcaması da kampanyada. VakıfBank Mobil → Kartla Kazan'dan katılım gerekir.",
+        "todo": "Kartla Kazan'dan kampanyaya katıl; 9 Kasım'dan itibaren ilk büyük harcamaları (outlet, ilk PC parçası) bu kartla yap, 1.000 TL indirim dolunca diğer karta geç."
+      },
+      {
+        "card": "Garanti Bonus",
+        "role": "Günlük harcamalar ve büyük alışverişte ikinci kart",
+        "why": "Yurt dışı harcama kart kuruluşu kuruyla USD'ye, sonra bankanın döviz satış kuruyla TL'ye çevrilir. Bonus uygulamasında dönemsel yurt dışı bonus kampanyaları çıkabilir.",
+        "todo": "Bonus uygulamasında yurt dışı kullanım ve temassız açık mı bak; Kasım için yurt dışı kampanyası varsa katıl; limit yeterli mi kontrol et."
+      },
+      {
+        "card": "Akbank Axess",
+        "role": "Yedek kart, ya da kampanyası en iyi olan kart",
+        "why": "Hesap özeti TL, USD veya EUR seçilebiliyor; yurt dışı nakit avans ücretli. Axess kampanyalarında yurt dışı işlemler bazen kapsam dışı.",
+        "todo": "Juzdan / Akbank uygulamasında yurt dışı kullanımı aç; Kasım kampanyalarında yurt dışı dahil mi oku; ATM için kullanma."
+      }
+    ],
+    "rules": [
+      "Kart terminali 'TL ile mi, yen ile mi?' diye sorarsa her zaman yen (JPY) seç. TL seçmek (DCC) kötü kurla çevirir.",
+      "Japon kasası 'ikkatsu?' (一括, tek çekim) diye sorarsa evet de. Yurt dışı harcamada taksit genelde yok; ekstre sonrası taksitlendirme bankaya göre değişir.",
+      "PC alışverişi gibi büyük tutarlar (ör. ¥300.000+ ≈ 95.000 TL+) için kart limitlerini şimdi kontrol et; gerekirse geçici limit artışı iste.",
+      "Kartlardan biri Troy logolu ise Japonya'da çalışmaz; Visa/Mastercard olanları götür.",
+      "Kartın 4 haneli şifresini bil: bazı terminaller ve tüm ATM'ler PIN ister.",
+      "Kartları ayrı yerde taşı; biri kaybolursa diğeriyle devam et. Bankaların yurt dışı acil hattını telefona kaydet.",
+      "Başka bir karta geçmeye gerek görünmüyor; kart değiştirmek yerine üç bankanın aynı gün uygulamadaki 'kredi kartı döviz satış kuru'nu (USD) karşılaştır ve gündelik kartı ona göre seç."
+    ]
+  },
+  "checklist": [
+    {
+      "id": "vakif-kampanya",
+      "when": "Şimdi",
+      "text": "VakıfBank Mobil → Kartla Kazan: yurt dışı %5 indirim kampanyasına katıl"
+    },
+    {
+      "id": "abroad-on",
+      "when": "Şimdi",
+      "text": "Üç kartta yurt dışı kullanım, temassız ve internet alışverişi açık"
+    },
+    {
+      "id": "limits",
+      "when": "Şimdi",
+      "text": "Kart limitleri PC + outlet + günlük harcamaya yetiyor mu; gerekirse geçici limit artışı"
+    },
+    {
+      "id": "pins",
+      "when": "1 hafta önce",
+      "text": "Üç kartın PIN'ini bil; Troy kart götürme"
+    },
+    {
+      "id": "campaigns",
+      "when": "1 hafta önce",
+      "text": "Bonus ve Axess uygulamalarında Kasım yurt dışı kampanyalarına bak ve katıl"
+    },
+    {
+      "id": "yen",
+      "when": "1 hafta önce",
+      "text": "~$700–800 (ikiniz toplam) yıpranmamış dolar veya ~¥60.000–80.000 yen"
+    },
+    {
+      "id": "debit",
+      "when": "Valiz",
+      "text": "ATM için yurt dışında çalışan bir banka kartı (debit) yanında"
+    },
+    {
+      "id": "emergency",
+      "when": "Valiz",
+      "text": "Bankaların yurt dışı kart kayıp hattı telefonda kayıtlı"
+    }
+  ],
+  "sources": {
+    "VakıfBank Platinum Plus": "https://www.vakifkart.com.tr/kartlarimiz/platinum-kartlar/platinum-plus-297",
+    "Garanti Bonus yurt dışı": "https://www.bonus.com.tr/yurtdisi-kullanim",
+    "Axess hesap özeti": "https://www.axess.com.tr/axess/sayfa/1/3736/hesap-ozeti-aciklamalari",
+    "Japonya'da nakit (rehber)": "https://www.japan-travel-kit.com/guides/money/cash-vs-card-japan"
+  }
+}
