@@ -1,5 +1,7 @@
 # Japonya Gezi Planlayıcı
 
+**Türkçe** · [English](README.en.md)
+
 İki kişilik bir Japonya gezisi (Osaka · Kyoto · Nara · Tokyo) için yapılmış, telefondan kullanılan kişisel gezi sitesi. Gün gün program, harita, alışveriş listesi, ortak harcama defteri, yolculuk rehberi ve Telegram bildirimleri tek yerde.
 
 Bağımlılığı olmayan bir Node betiği JSON verilerden statik bir site üretir. Site Cloudflare Pages'te özel bağlantıyla korunur. İşaretler, harcamalar ve günlük iki telefonda ortak tutulur (Cloudflare KV).
@@ -88,3 +90,7 @@ npm start
 - Fiyatlar, saatler ve kurallar derlendikleri tarihteki resmî kaynaklara dayanır; doğrulanamayan fiyat `null` bırakılmıştır. Gezi öncesi tekrar kontrol edin.
 - Saatler önerilen program saatleridir; canlı sefer veya peron bilgisi değildir.
 - TL dönüşümleri sabit bir planlama kuruyla yapılır, banka kuru değildir.
+
+## Lisans
+
+[MIT](LICENSE)
